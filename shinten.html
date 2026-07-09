@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>千葉県 新店リサーチ — 毎朝更新</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --ink:#1e293b;--mid:#64748b;--light:#94a3b8;--faint:#e2e8f0;
+  --bg:#f1f5f9;--white:#fff;
+  --blue:#2563eb;--blue-light:#dbeafe;--blue-pale:#eff6ff;
+  --green:#16a34a;--amber:#d97706;--red:#dc2626;
+  --radius:8px;
+}
+body{font-family:'DM Sans','Noto Sans JP',sans-serif;background:var(--bg);color:var(--ink);min-height:100vh;}
+.app{max-width:860px;margin:0 auto;padding:32px 16px 80px;}
+.app-header{margin-bottom:20px;display:flex;align-items:center;gap:14px;}
+.app-icon{width:44px;height:44px;background:var(--blue);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.app-title{font-size:20px;font-weight:700;letter-spacing:-.02em;}
+.app-sub{font-size:11.5px;color:var(--mid);margin-top:2px;}
+.nav-link{font-size:12px;color:var(--blue);text-decoration:none;font-weight:600;margin-left:auto;white-space:nowrap;}
+.nav-link:hover{text-decoration:underline;}
+.meta-bar{background:var(--white);border:1px solid var(--faint);border-radius:var(--radius);padding:12px 16px;margin-bottom:16px;font-size:11.5px;color:var(--mid);display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;}
+.meta-bar strong{color:var(--ink);}
+.filter-card{background:var(--white);border:1px solid var(--faint);border-radius:var(--radius);padding:16px;margin-bottom:16px;}
+.filter-row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;}
+.filter-row:last-child{margin-bottom:0;}
+.filter-row input[type=text],.filter-row select{padding:9px 12px;border:1.5px solid var(--faint);border-radius:6px;font-size:13px;font-family:inherit;color:var(--ink);background:var(--white);outline:none;}
+.filter-row input[type=text]{flex:1;min-width:180px;}
+.chip{padding:6px 12px;border-radius:16px;border:1.5px solid var(--faint);font-size:11.5px;font-weight:600;color:var(--mid);cursor:pointer;background:var(--white);white-space:nowrap;}
+.chip.active{background:var(--blue);border-color:var(--blue);color:white;}
+.result-count{font-size:11.5px;color:var(--mid);margin-bottom:10px;}
+.card-list{display:flex;flex-direction:column;gap:10px;}
+.store-card{background:var(--white);border:1px solid var(--faint);border-radius:var(--radius);padding:14px 16px;}
+.store-card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:6px;}
+.store-date{font-size:10px;color:var(--light);font-weight:600;white-space:nowrap;}
+.store-title{font-size:14px;font-weight:700;line-height:1.5;margin-bottom:6px;}
+.store-title a{color:var(--ink);text-decoration:none;}
+.store-title a:hover{color:var(--blue);text-decoration:underline;}
+.tag-row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;}
+.tag{font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;}
+.tag-area{background:var(--blue-pale);color:var(--blue);border:1px solid var(--blue-light);}
+.tag-genre{background:#f0fdf4;color:var(--green);border:1px solid #bbf7d0;}
+.tag-source{background:var(--bg);color:var(--mid);border:1px solid var(--faint);}
+.empty-state{background:var(--white);border:1px dashed var(--faint);border-radius:var(--radius);padding:40px 20px;text-align:center;color:var(--mid);font-size:13px;line-height:1.8;}
+.loading{padding:40px 20px;text-align:center;color:var(--light);font-size:13px;}
+</style>
+</head>
+<body>
+<div class="app" id="app-root">
+  <div class="loading">読み込み中…</div>
+</div>
+<script>
+const fmt = n => Math.round(Number(n)).toLocaleString('ja-JP');
+
+let state = {
+  data: null,
+  error: null,
+  q: '',
+  area: '',
+  genre: '',
+};
+
+function fmtDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d.getTime())) return '';
+  return `${d.getFullYear()}/${String(d.getMonth()+1).padStart(2,'0')}/${String(d.getDate()).padStart(2,'0')}`;
+}
+
+function setState(patch) { state = {...state, ...patch}; render(); }
+
+async function load() {
+  try {
+    const res = await fetch('./data/stores.json', {cache:'no-store'});
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    setState({ data });
+  } catch (err) {
+    setState({ error: String(err) });
+  }
+}
+
+function render() {
+  const root = document.getElementById('app-root');
+  const { data, error } = state;
+
+  const header = `
+    <div class="app-header">
+      <div class="app-icon">🏪</div>
+      <div>
+        <div class="app-title">千葉県 新店リサーチ</div>
+        <div class="app-sub">ネット予約・未導入の新規開店店舗を毎朝自動収集</div>
+      </div>
+    </div>`;
+
+  if (error) {
+    root.innerHTML = header + `<div class="empty-state">データの読み込みに失敗しました。<br>${error}</div>`;
+    return;
+  }
+  if (!data) {
+    root.innerHTML = header + `<div class="loading">読み込み中…</div>`;
+    return;
+  }
+
+  const items = data.items || [];
+  const areas = [...new Set(items.map(i => i.area).filter(Boolean))].sort();
+  const genres = [...new Set(items.flatMap(i => i.genres || []))].sort();
+
+  const filtered = items.filter(it => {
+    if (state.q && !it.title.includes(state.q)) return false;
+    if (state.area && it.area !== state.area) return false;
+    if (state.genre && !(it.genres || []).includes(state.genre)) return false;
+    return true;
+  });
+
+  const metaBar = `
+    <div class="meta-bar">
+      <span>最終更新：<strong>${data.generatedAt ? fmtDate(data.generatedAt) + ' ' + new Date(data.generatedAt).toLocaleTimeString('ja-JP',{hour:'2-digit',minute:'2-digit'}) : '未実行（初回のGitHub Actions実行待ち）'}</strong></span>
+      <span>収集件数：<strong>${items.length}</strong>件（直近${data.ttlDays || 60}日）</span>
+      <span style="color:var(--light);">毎朝6:00頃（JST）に自動更新されます</span>
+    </div>`;
+
+  const filterCard = `
+    <div class="filter-card">
+      <div class="filter-row">
+        <input type="text" id="q-input" placeholder="店名・キーワードで検索" value="${state.q.replace(/"/g,'&quot;')}">
+        <select id="area-select">
+          <option value="">エリア：すべて</option>
+          ${areas.map(a => `<option value="${a}" ${state.area===a?'selected':''}>${a}</option>`).join('')}
+        </select>
+      </div>
+      <div class="filter-row">
+        <span class="chip ${state.genre===''?'active':''}" data-genre="">すべてのジャンル</span>
+        ${genres.map(g => `<span class="chip ${state.genre===g?'active':''}" data-genre="${g}">${g}</span>`).join('')}
+      </div>
+    </div>`;
+
+  let listHtml;
+  if (items.length === 0) {
+    listHtml = `<div class="empty-state">
+      まだデータがありません。<br>
+      GitHub Actions のワークフロー「千葉県新店情報の毎朝更新」が初回実行されると、ここに一覧が表示されます。<br>
+      手動で試す場合は Actions タブから <code>workflow_dispatch</code> で実行してください。
+    </div>`;
+  } else if (filtered.length === 0) {
+    listHtml = `<div class="empty-state">条件に一致する新店情報がありません。フィルターを変更してください。</div>`;
+  } else {
+    listHtml = `<div class="result-count">${filtered.length}件表示中（全${items.length}件）</div>
+    <div class="card-list">
+      ${filtered.map(it => `
+        <div class="store-card">
+          <div class="store-card-top">
+            <div class="store-title"><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a></div>
+            <div class="store-date">${fmtDate(it.pubDate || it.firstSeenAt)}</div>
+          </div>
+          <div class="tag-row">
+            ${it.area ? `<span class="tag tag-area">📍 ${it.area}</span>` : ''}
+            ${(it.genres||[]).map(g => `<span class="tag tag-genre">${g}</span>`).join('')}
+            ${it.source ? `<span class="tag tag-source">${it.source}</span>` : ''}
+          </div>
+        </div>`).join('')}
+    </div>`;
+  }
+
+  root.innerHTML = header + metaBar + filterCard + listHtml;
+
+  const qInput = document.getElementById('q-input');
+  if (qInput) {
+    qInput.oninput = e => { state.q = e.target.value; renderListOnly(); };
+  }
+  const areaSelect = document.getElementById('area-select');
+  if (areaSelect) areaSelect.onchange = e => setState({ area: e.target.value });
+  root.querySelectorAll('.chip').forEach(chip => {
+    chip.onclick = () => setState({ genre: chip.dataset.genre });
+  });
+}
+
+// 検索入力のたびに全体再描画するとフォーカスが外れるため、簡易デバウンス再描画
+let debounceTimer = null;
+function renderListOnly() {
+  clearTimeout(debounceTimer);
+  debounceTimer = setTimeout(() => {
+    const focused = document.activeElement && document.activeElement.id;
+    render();
+    if (focused) {
+      const el = document.getElementById(focused);
+      if (el) { el.focus(); el.setSelectionRange(el.value.length, el.value.length); }
+    }
+  }, 200);
+}
+
+load();
+render();
+</script>
+</body>
+</html>
