@@ -405,10 +405,29 @@ function buildProposal(form) {
 </div>`;
 }
 
+// shinten.html（新店リサーチ）から渡される市区町村名を、本ツールのエリア区分に変換
+const AREA_ALIAS = {
+  '千葉市中央区':'中央区', '千葉市稲毛区':'稲毛区・花見川区', '千葉市花見川区':'稲毛区・花見川区',
+  '千葉市美浜区':'美浜区', '千葉市若葉区':'若葉区・緑区', '千葉市緑区':'若葉区・緑区',
+  '銚子市':'銚子・犬吠埼', '市川市':'市川', '船橋市':'船橋', '館山市':'南房総・館山',
+  '木更津市':'木更津・袖ヶ浦', '松戸市':'松戸', '野田市':'野田・流山', '成田市':'成田',
+  '佐倉市':'佐倉・印旛沼', '習志野市':'習志野・八千代', '柏市':'柏', '勝浦市':'勝浦市',
+  '市原市':'市原', '流山市':'野田・流山', '八千代市':'習志野・八千代', '我孫子市':'我孫子・印西',
+  '鴨川市':'鴨川', '鎌ケ谷市':'鎌ヶ谷・白井', '君津市':'君津・富津・鋸南', '富津市':'君津・富津・鋸南',
+  '浦安市':'浦安・東京ディズニーリゾート', '袖ケ浦市':'木更津・袖ヶ浦', '八街市':'八街・両総台地',
+  '印西市':'我孫子・印西', '白井市':'鎌ヶ谷・白井', '南房総市':'南房総・館山', '香取市':'佐原・水郷',
+  'いすみ市':'いすみ・御宿・大多喜', '大多喜町':'いすみ・御宿・大多喜', '御宿町':'いすみ・御宿・大多喜',
+  '鋸南町':'君津・富津・鋸南', '九十九里町':'九十九里浜中部',
+};
+
 // ── STATE ──
+const _urlParams = new URLSearchParams(location.search);
+const _prefillStore = _urlParams.get('store') || '';
+const _prefillAreaRaw = _urlParams.get('area') || '';
+const _prefillArea = AREA_DATA[_prefillAreaRaw] ? _prefillAreaRaw : (AREA_ALIAS[_prefillAreaRaw] || '');
 let state = {
   step: 'configure',
-  form: { storeName:'', month:'2026年5月度', area:'', access:'', tel:'', bm:'', cvr:'', price:'', seats:'', planId:'light' }
+  form: { storeName:_prefillStore, month:'2026年5月度', area:_prefillArea, access:'', tel:'', bm:'', cvr:'', price:'', seats:'', planId:'light' }
 };
 
 function setState(patch) { state={...state,...patch}; render(); }
@@ -614,6 +633,7 @@ function render() {
         <div class="app-title">提案書セイセイ君 <span style="font-size:12px;font-weight:500;color:#64748b;background:#e2e8f0;padding:2px 8px;border-radius:10px;margin-left:4px;">新規獲得版</span></div>
         <div class="app-sub">ネット予約未利用店舗への導入提案書ジェネレーター</div>
       </div>
+      <a href="shinten.html" style="font-size:12px;color:#2563eb;text-decoration:none;font-weight:600;margin-left:auto;white-space:nowrap;">← 新店リサーチに戻る</a>
     </div>
     ${stepperHTML}${content}`;
 
