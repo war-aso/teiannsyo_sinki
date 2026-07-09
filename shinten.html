@@ -44,9 +44,6 @@ body{font-family:'DM Sans','Noto Sans JP',sans-serif;background:var(--bg);color:
 .tag-area{background:var(--blue-pale);color:var(--blue);border:1px solid var(--blue-light);}
 .tag-genre{background:#f0fdf4;color:var(--green);border:1px solid #bbf7d0;}
 .tag-source{background:var(--bg);color:var(--mid);border:1px solid var(--faint);}
-.card-actions{display:flex;justify-content:flex-end;}
-.btn-propose{display:inline-flex;align-items:center;gap:5px;background:var(--blue);color:white;font-size:11.5px;font-weight:700;padding:7px 14px;border-radius:6px;text-decoration:none;}
-.btn-propose:hover{background:#1d4ed8;}
 .empty-state{background:var(--white);border:1px dashed var(--faint);border-radius:var(--radius);padding:40px 20px;text-align:center;color:var(--mid);font-size:13px;line-height:1.8;}
 .loading{padding:40px 20px;text-align:center;color:var(--light);font-size:13px;}
 </style>
@@ -73,13 +70,6 @@ function fmtDate(iso) {
   return `${d.getFullYear()}/${String(d.getMonth()+1).padStart(2,'0')}/${String(d.getDate()).padStart(2,'0')}`;
 }
 
-function proposalUrl(item) {
-  const p = new URLSearchParams();
-  if (item.title) p.set('store', item.title.slice(0, 40));
-  if (item.area) p.set('area', item.area);
-  return `index.html?${p.toString()}`;
-}
-
 function setState(patch) { state = {...state, ...patch}; render(); }
 
 async function load() {
@@ -104,7 +94,6 @@ function render() {
         <div class="app-title">千葉県 新店リサーチ</div>
         <div class="app-sub">ネット予約・未導入の新規開店店舗を毎朝自動収集</div>
       </div>
-      <a class="nav-link" href="index.html">提案書セイセイ君を開く →</a>
     </div>`;
 
   if (error) {
@@ -171,9 +160,6 @@ function render() {
             ${it.area ? `<span class="tag tag-area">📍 ${it.area}</span>` : ''}
             ${(it.genres||[]).map(g => `<span class="tag tag-genre">${g}</span>`).join('')}
             ${it.source ? `<span class="tag tag-source">${it.source}</span>` : ''}
-          </div>
-          <div class="card-actions">
-            <a class="btn-propose" href="${proposalUrl(it)}">この店で提案書を作成 →</a>
           </div>
         </div>`).join('')}
     </div>`;
