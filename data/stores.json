@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T08:40:45.010Z",
+  "generatedAt": "2026-07-10T22:12:03.032Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 32
+      "count": 37
     }
   ],
-  "itemCount": 35,
+  "itemCount": 36,
   "hotpepper": {},
   "items": [
+    {
+      "title": "兵庫県警が西宮でガールズバーなどの立ち入り調査",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZRll0c1FzOUpVZVoyNHdJZXRmSUE0MW9aM1prYk1TdDB3Z3I3ZjRRaFNoM3pYZVlYSmc2bHltY29uZ0xmc3FiTkxlVmx3LThsSXpmWG9FRU9EWHBUNlZ0UGl4N3pCN2p1cW5sbzlpcDk?oc=5",
+      "source": "Excite エキサイト",
+      "pubDate": "Fri, 10 Jul 2026 03:41:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-10T22:11:59.818Z"
+    },
     {
       "title": "1259億破綻「全東信」で夜の街が悲鳴！クレカ停止と売上未入金で連鎖倒産危機",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jUGtBNUdmeVlnNG1DVW15ejhmX3RMM2VqZmdsdm1Kd3ZoMzF6ZkJVZ1JIWVh1bU1pYTV3M3RBWGJuanliNUR5eTEyUmNTYXVudnZGYTNMUmszQ3lEc2JPallUSEpjakJvT0tvMUJ6OVYyUkNNVnB3VtIBjAFBVV95cUxPLWlwbmszNFFDTHRXdnc0YjJzbEVjV0JvXzNrR0EydU1NZjNBal9hS2M3czNfZU1IY3lOTUM1T043SjM2cnhneDJMSWgyRjJlaDh6VFdfVGk1RWVIUWpNcGMyNFk5enJwYXd5UlBXWmhJdzl2OERpSnpPX3RmNmUweXJjTm8wUG1LQWhhNA?oc=5",
