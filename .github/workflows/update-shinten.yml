@@ -25,6 +25,11 @@ jobs:
 
       - name: Fetch new store data
         run: node scripts/fetch-stores.mjs
+        env:
+          # リクルートWebサービス（https://webservice.recruit.co.jp/）の無料APIキー。
+          # リポジトリの Settings > Secrets and variables > Actions に登録すると
+          # ホットペッパー掲載チェック（●×表示）が有効になる。未設定ならスキップ。
+          HOTPEPPER_API_KEY: ${{ secrets.HOTPEPPER_API_KEY }}
 
       - name: Commit and push if changed
         run: |
