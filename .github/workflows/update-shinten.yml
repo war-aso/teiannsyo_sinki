@@ -5,6 +5,12 @@ on:
     # 21:00 UTC = 06:00 JST
     - cron: '0 21 * * *'
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      # 収集ロジックやワークフローが更新されたら即座に再収集する
+      - 'scripts/fetch-stores.mjs'
+      - '.github/workflows/update-shinten.yml'
 
 permissions:
   contents: write
