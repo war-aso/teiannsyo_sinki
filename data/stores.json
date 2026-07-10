@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T08:17:10.189Z",
+  "generatedAt": "2026-07-10T08:25:46.953Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 32
     }
   ],
-  "itemCount": 33,
+  "itemCount": 35,
   "hotpepper": {},
   "items": [
     {
@@ -88,6 +88,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
+    },
+    {
+      "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Fri, 26 Jun 2026 09:57:21 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ",
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-10T08:25:43.437Z"
     },
     {
       "title": "【千葉県初出店】「焼鳥 蕎麦 二尺五寸」マーヴ浦安店を2026年6月30日(火)オープンいたします。",
@@ -158,6 +171,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
+    },
+    {
+      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hQlIxcnRYS01nZG81QUdPSktPeDNBNUM2SUVXWHZ2TnZ1UTdXaXJHNk5yUnd0ZWVLaXp3d1BDYlJzRTd6NUs5U2k2MGFJeFF3MVp0bWp6TQ?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Tue, 16 Jun 2026 02:01:56 GMT",
+      "area": "浦安市",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-10T08:25:43.435Z"
     },
     {
       "title": "【寿司一丁】回らない本格寿司を日常価格で！「寿司一丁 八千代緑が丘店」が6/9(火)グランドオープン！",
