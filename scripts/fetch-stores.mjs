@@ -1,6 +1,7 @@
 // 千葉県の新規開店情報（予約業態）を Google ニュース検索RSS から収集し、
 // data/stores.json を更新するスクリプト。GitHub Actions から毎朝実行される想定。
 // ホットペッパー掲載チェックは Actions シークレット HOTPEPPER_API_KEY 設定時のみ実行。
+// （シークレット値を修正後の再実行トリガー）
 //
 // 依存パッケージなし（Node 20+ の組み込み fetch のみ使用）。
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
