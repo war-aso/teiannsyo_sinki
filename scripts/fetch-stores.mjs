@@ -17,6 +17,8 @@ const GENRE_GROUPS = [
 ];
 
 const OPEN_SIGNAL = ['オープン', '新規開店', 'グランドオープン', 'プレオープン'];
+// オープン前の求人告知（オープニングスタッフ募集）からも新店を検出する
+const HIRE_SIGNAL = ['オープニングスタッフ', 'オープニング募集', 'オープニングスタッフ募集'];
 
 // ── 大手チェーン（既にネット予約導入済み・優先度が低いため除外） ──
 const CHAIN_BLOCKLIST = [
@@ -75,10 +77,18 @@ const FETCH_TIMEOUT_MS = 15000;
 
 function buildQueries() {
   const openPart = `(${OPEN_SIGNAL.join(' OR ')})`;
-  return GENRE_GROUPS.map(g => ({
-    label: g.label,
+  const hirePart = `(${HIRE_SIGNAL.join(' OR ')})`;
+  const openQueries = GENRE_GROUPS.map(g => ({
+    label: `${g.label}（開店ニュース）`,
     query: `千葉県 ${openPart} (${g.keywords.join(' OR ')})`,
+    signal: 'opening',
   }));
+  const hireQueries = GENRE_GROUPS.map(g => ({
+    label: `${g.label}（オープニング求人）`,
+    query: `千葉県 ${hirePart} (${g.keywords.join(' OR ')})`,
+    signal: 'hiring',
+  }));
+  return [...openQueries, ...hireQueries];
 }
 
 function decodeEntities(str) {
@@ -197,7 +207,7 @@ async function collect() {
   const collected = [];
   const runLog = [];
 
-  for (const { label, query } of queries) {
+  for (const { label, query, signal } of queries) {
     const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=ja&gl=JP&ceid=JP:ja`;
     try {
       const xml = await fetchWithTimeout(url, FETCH_TIMEOUT_MS);
@@ -205,7 +215,7 @@ async function collect() {
       runLog.push({ label, query, ok: true, count: items.length });
       for (const it of items) {
         const { title, source } = splitTitleSource(it.rawTitle, it.source);
-        collected.push({ title, source, link: it.link, pubDate: it.pubDate, genreGroup: label });
+        collected.push({ title, source, link: it.link, pubDate: it.pubDate, genreGroup: label, signal });
       }
     } catch (err) {
       runLog.push({ label, query, ok: false, error: String(err && err.message || err) });
@@ -250,6 +260,7 @@ async function main() {
       pubDate: it.pubDate,
       area: detectArea(it.title),
       genres: detectGenres(it.title),
+      signal: it.signal || 'opening',
       firstSeenAt: new Date().toISOString(),
     });
   }

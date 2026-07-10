@@ -45,6 +45,7 @@ body{font-family:'DM Sans','Noto Sans JP',sans-serif;background:var(--bg);color:
 .tag-area{background:var(--blue-pale);color:var(--blue);border:1px solid var(--blue-light);}
 .tag-genre{background:#f0fdf4;color:var(--green);border:1px solid #bbf7d0;}
 .tag-source{background:var(--bg);color:var(--mid);border:1px solid var(--faint);}
+.tag-hiring{background:#fffbeb;color:var(--amber);border:1px solid #fde68a;}
 .empty-state{background:var(--white);border:1px dashed var(--faint);border-radius:var(--radius);padding:40px 20px;text-align:center;color:var(--mid);font-size:13px;line-height:1.8;}
 .loading{padding:40px 20px;text-align:center;color:var(--light);font-size:13px;}
 </style>
@@ -166,6 +167,7 @@ function render() {
             <div class="store-date">${fmtDate(it.pubDate || it.firstSeenAt)}</div>
           </div>
           <div class="tag-row">
+            ${it.signal === 'hiring' ? `<span class="tag tag-hiring">🧑‍🍳 オープン前・求人段階</span>` : ''}
             ${it.area ? `<span class="tag tag-area">📍 ${it.area}</span>` : ''}
             ${(it.genres||[]).map(g => `<span class="tag tag-genre">${g}</span>`).join('')}
             ${it.source ? `<span class="tag tag-source">${it.source}</span>` : ''}
