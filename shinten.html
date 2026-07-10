@@ -27,6 +27,7 @@ body{font-family:'DM Sans','Noto Sans JP',sans-serif;background:var(--bg);color:
 .filter-card{background:var(--white);border:1px solid var(--faint);border-radius:var(--radius);padding:16px;margin-bottom:16px;}
 .filter-row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;}
 .filter-row:last-child{margin-bottom:0;}
+.filter-label{font-size:10.5px;font-weight:700;color:var(--light);margin-bottom:6px;letter-spacing:.03em;}
 .filter-row input[type=text],.filter-row select{padding:9px 12px;border:1.5px solid var(--faint);border-radius:6px;font-size:13px;font-family:inherit;color:var(--ink);background:var(--white);outline:none;}
 .filter-row input[type=text]{flex:1;min-width:180px;}
 .chip{padding:6px 12px;border-radius:16px;border:1.5px solid var(--faint);font-size:11.5px;font-weight:600;color:var(--mid);cursor:pointer;background:var(--white);white-space:nowrap;}
@@ -59,9 +60,15 @@ let state = {
   data: null,
   error: null,
   q: '',
-  area: '',
-  genre: '',
+  areas: new Set(),
+  genres: new Set(),
 };
+
+function toggleInSet(set, value) {
+  const next = new Set(set);
+  if (next.has(value)) next.delete(value); else next.add(value);
+  return next;
+}
 
 function fmtDate(iso) {
   if (!iso) return '';
@@ -106,13 +113,13 @@ function render() {
   }
 
   const items = data.items || [];
-  const areas = [...new Set(items.map(i => i.area).filter(Boolean))].sort();
-  const genres = [...new Set(items.flatMap(i => i.genres || []))].sort();
+  const areaOptions = [...new Set(items.map(i => i.area).filter(Boolean))].sort();
+  const genreOptions = [...new Set(items.flatMap(i => i.genres || []))].sort();
 
   const filtered = items.filter(it => {
     if (state.q && !it.title.includes(state.q)) return false;
-    if (state.area && it.area !== state.area) return false;
-    if (state.genre && !(it.genres || []).includes(state.genre)) return false;
+    if (state.areas.size > 0 && !state.areas.has(it.area)) return false;
+    if (state.genres.size > 0 && !(it.genres || []).some(g => state.genres.has(g))) return false;
     return true;
   });
 
@@ -127,14 +134,16 @@ function render() {
     <div class="filter-card">
       <div class="filter-row">
         <input type="text" id="q-input" placeholder="店名・キーワードで検索" value="${state.q.replace(/"/g,'&quot;')}">
-        <select id="area-select">
-          <option value="">エリア：すべて</option>
-          ${areas.map(a => `<option value="${a}" ${state.area===a?'selected':''}>${a}</option>`).join('')}
-        </select>
       </div>
+      <div class="filter-label">エリア（複数選択可）</div>
       <div class="filter-row">
-        <span class="chip ${state.genre===''?'active':''}" data-genre="">すべてのジャンル</span>
-        ${genres.map(g => `<span class="chip ${state.genre===g?'active':''}" data-genre="${g}">${g}</span>`).join('')}
+        <span class="chip ${state.areas.size===0?'active':''}" data-group="area" data-value="">すべて</span>
+        ${areaOptions.map(a => `<span class="chip ${state.areas.has(a)?'active':''}" data-group="area" data-value="${a}">${a}</span>`).join('')}
+      </div>
+      <div class="filter-label">ジャンル（複数選択可）</div>
+      <div class="filter-row">
+        <span class="chip ${state.genres.size===0?'active':''}" data-group="genre" data-value="">すべて</span>
+        ${genreOptions.map(g => `<span class="chip ${state.genres.has(g)?'active':''}" data-group="genre" data-value="${g}">${g}</span>`).join('')}
       </div>
     </div>`;
 
@@ -171,10 +180,18 @@ function render() {
   if (qInput) {
     qInput.oninput = e => { state.q = e.target.value; renderListOnly(); };
   }
-  const areaSelect = document.getElementById('area-select');
-  if (areaSelect) areaSelect.onchange = e => setState({ area: e.target.value });
   root.querySelectorAll('.chip').forEach(chip => {
-    chip.onclick = () => setState({ genre: chip.dataset.genre });
+    chip.onclick = () => {
+      const group = chip.dataset.group;
+      const value = chip.dataset.value;
+      if (value === '') {
+        setState(group === 'area' ? { areas: new Set() } : { genres: new Set() });
+      } else if (group === 'area') {
+        setState({ areas: toggleInSet(state.areas, value) });
+      } else {
+        setState({ genres: toggleInSet(state.genres, value) });
+      }
+    };
   });
 }
 
