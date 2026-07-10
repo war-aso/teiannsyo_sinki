@@ -202,6 +202,98 @@ async function mapWithConcurrency(list, limit, fn) {
 
 const RESOLVE_CONCURRENCY = 8;
 
+// ── 店名・開店日の抽出（shinten.html と同一ロジックを維持すること） ──
+function extractStoreName(title) {
+  const quotes = [...title.matchAll(/[「『]([^」』]{1,30})[」』]/g)].map(m => m[1]);
+  if (quotes.length === 0) return '';
+  const beforeOpen = title.match(/[「『]([^」』]{1,30})[」』][^「『]{0,20}(?:が|を)?[^「『]{0,15}オープン/);
+  return (beforeOpen ? beforeOpen[1] : quotes[0]).trim();
+}
+
+function normalizeStoreName(name) {
+  return name.normalize('NFKC').replace(/\s+/g, '').toLowerCase();
+}
+
+// ── ホットペッパー掲載チェック（リクルートWebサービスAPI） ──
+// APIキーは https://webservice.recruit.co.jp/ で無料発行し、
+// リポジトリのActionsシークレット HOTPEPPER_API_KEY に設定する。
+// 未設定の場合このステップはスキップされる。
+const HOTPEPPER_API_KEY = process.env.HOTPEPPER_API_KEY || '';
+const HP_RECHECK_DAYS = 7; // 未掲載店の再チェック間隔（開店後に掲載される場合があるため）
+const HP_CONCURRENCY = 3;
+
+async function queryHotpepper(keyword) {
+  const url = `https://webservice.recruit.co.jp/hotpepper/gourmet/v1/?key=${HOTPEPPER_API_KEY}` +
+    `&keyword=${encodeURIComponent(keyword)}&format=json&count=30`;
+  const res = await fetch(url, { signal: AbortSignal.timeout(10000) });
+  if (!res.ok) throw new Error(`hotpepper HTTP ${res.status}`);
+  const json = await res.json();
+  return (json.results && json.results.shop) || [];
+}
+
+function matchShop(shops, storeName) {
+  const norm = normalizeStoreName(storeName);
+  return shops.find(s => {
+    const sn = normalizeStoreName(s.name || '');
+    const inChiba = (s.address || '').includes('千葉県');
+    return inChiba && (sn.includes(norm) || norm.includes(sn));
+  }) || null;
+}
+
+async function checkHotpepper(storeName, area) {
+  try {
+    let shops = await queryHotpepper(area ? `${storeName} ${area}` : storeName);
+    let hit = matchShop(shops, storeName);
+    if (!hit && area) {
+      shops = await queryHotpepper(storeName);
+      hit = matchShop(shops, storeName);
+    }
+    return {
+      listed: !!hit,
+      url: hit ? ((hit.urls && hit.urls.pc) || '') : '',
+      shopName: hit ? hit.name : '',
+      checkedAt: new Date().toISOString(),
+    };
+  } catch (err) {
+    console.warn(`[warn] hotpepper check failed for ${storeName}: ${err}`);
+    return null;
+  }
+}
+
+// items から店舗（店名抽出できたもの）を集め、掲載状況マップを更新して返す
+async function enrichHotpepper(items, prevMap) {
+  const map = { ...prevMap };
+  if (!HOTPEPPER_API_KEY) {
+    console.log('[info] HOTPEPPER_API_KEY not set; skipping listing check');
+    return map;
+  }
+  const stores = new Map(); // normKey -> { name, area }
+  for (const it of items) {
+    const name = extractStoreName(it.title);
+    if (!name) continue;
+    const key = normalizeStoreName(name);
+    if (!stores.has(key)) stores.set(key, { name, area: it.area || '' });
+    else if (!stores.get(key).area && it.area) stores.get(key).area = it.area;
+  }
+  const recheckCutoff = Date.now() - HP_RECHECK_DAYS * 24 * 60 * 60 * 1000;
+  const targets = [...stores.entries()].filter(([key]) => {
+    const prev = map[key];
+    if (!prev) return true;
+    if (prev.listed) return false; // 掲載確認済みは再チェック不要
+    return Date.parse(prev.checkedAt || 0) < recheckCutoff; // 未掲載は定期的に再チェック
+  });
+  console.log(`[info] hotpepper check: ${targets.length} stores (of ${stores.size})`);
+  await mapWithConcurrency(targets, HP_CONCURRENCY, async ([key, s]) => {
+    const result = await checkHotpepper(s.name, s.area);
+    if (result) map[key] = { storeName: s.name, ...result };
+  });
+  // 一覧から消えた店のエントリは掃除する
+  for (const key of Object.keys(map)) {
+    if (!stores.has(key)) delete map[key];
+  }
+  return map;
+}
+
 async function collect() {
   const queries = buildQueries();
   const collected = [];
@@ -233,9 +325,12 @@ async function loadExisting() {
   try {
     const raw = await readFile(OUT_PATH, 'utf-8');
     const json = JSON.parse(raw);
-    return Array.isArray(json.items) ? json.items : [];
+    return {
+      items: Array.isArray(json.items) ? json.items : [],
+      hotpepper: json.hotpepper && typeof json.hotpepper === 'object' ? json.hotpepper : {},
+    };
   } catch {
-    return [];
+    return { items: [], hotpepper: {} };
   }
 }
 
@@ -271,7 +366,8 @@ async function main() {
     it.link = await resolveArticleUrl(it.link);
   });
 
-  const existingRaw = (await loadExisting()).filter(it => !isChain(it.title));
+  const prev = await loadExisting();
+  const existingRaw = prev.items.filter(it => !isChain(it.title));
   await mapWithConcurrency(
     existingRaw.filter(it => it.link && it.link.includes('news.google.com')),
     RESOLVE_CONCURRENCY,
@@ -308,11 +404,14 @@ async function main() {
     return;
   }
 
+  const hotpepper = await enrichHotpepper(items, prev.hotpepper);
+
   const out = {
     generatedAt: new Date().toISOString(),
     ttlDays: FEED_TTL_DAYS,
     runLog,
     itemCount: items.length,
+    hotpepper,
     items,
   };
 

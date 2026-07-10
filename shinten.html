@@ -73,6 +73,8 @@ body{font-family:'DM Sans','Noto Sans JP',sans-serif;background:var(--bg);color:
 .tag-genre{background:#f0fdf4;color:var(--green);border:1px solid #bbf7d0;}
 .tag-source{background:var(--bg);color:var(--mid);border:1px solid var(--faint);font-weight:500;}
 .tag-hiring{background:var(--amber-pale);color:var(--amber);border:1px solid var(--amber-line);}
+.tag-hp-yes{background:#f0fdf4;color:var(--green);border:1px solid #86efac;}
+.tag-hp-no{background:#fef2f2;color:#dc2626;border:1px solid #fecaca;}
 
 .tag-count{background:var(--white);color:var(--light);border:1px solid var(--faint);font-weight:600;}
 .store-row{cursor:pointer;}
@@ -125,14 +127,15 @@ let state = {
   genres: new Set(),
   recentOnly: false,
   hiringOnly: false,
+  hpChanceOnly: false, // ホットペッパー未掲載のみ表示
   detail: null, // 詳細表示中のグループ
 };
 
 // タイトルの「」『』内から店名を抽出。「〜が...オープン」の直前の引用を優先する
 function extractStoreName(title) {
-  const quotes = [...title.matchAll(/[「『]([^」』]{2,30})[」』]/g)].map(m => m[1]);
+  const quotes = [...title.matchAll(/[「『]([^」』]{1,30})[」』]/g)].map(m => m[1]);
   if (quotes.length === 0) return '';
-  const beforeOpen = title.match(/[「『]([^」』]{2,30})[」』][^「『]{0,20}(?:が|を)?[^「『]{0,15}オープン/);
+  const beforeOpen = title.match(/[「『]([^」』]{1,30})[」』][^「『]{0,20}(?:が|を)?[^「『]{0,15}オープン/);
   return (beforeOpen ? beforeOpen[1] : quotes[0]).trim();
 }
 
@@ -154,7 +157,7 @@ function normalizeStoreName(name) {
 }
 
 // 同一店舗（抽出した店名が一致）の記事を1グループにまとめる
-function buildGroups(items) {
+function buildGroups(items, hpMap) {
   const groups = [];
   const byName = new Map();
   for (const it of items) {
@@ -177,6 +180,7 @@ function buildGroups(items) {
     g.signal = g.articles.some(a => a.signal === 'hiring') && !g.articles.some(a => a.signal !== 'hiring') ? 'hiring'
       : g.articles.some(a => a.signal === 'hiring') ? 'mixed' : 'opening';
     g.openDate = g.articles.map(a => extractOpenDate(a.title, itemDate(a))).find(d => d != null) ?? null;
+    g.hp = (hpMap && g.storeName && hpMap[g.key]) || null; // ホットペッパー掲載チェック結果
   }
   return groups;
 }
@@ -250,6 +254,9 @@ function render() {
   const recentCount = items.filter(isRecent).length;
   const hiringCount = items.filter(i => i.signal === 'hiring').length;
   const areaCount = areaOptions.length;
+  const hpMap = data.hotpepper || {};
+  const hpEnabled = Object.keys(hpMap).length > 0;
+  const hpChanceCount = hpEnabled ? buildGroups(items, hpMap).filter(g => g.hp && !g.hp.listed).length : 0;
 
   const filtered = items.filter(it => {
     if (state.q && !it.title.includes(state.q)) return false;
@@ -277,14 +284,20 @@ function render() {
         <div class="kpi-value">${hiringCount}<span class="unit">件</span></div>
         <div class="kpi-note">${state.hiringOnly?'✓ 絞り込み中':'クリックで絞り込み'}</div>
       </div>
+      ${hpEnabled ? `
+      <div class="kpi clickable ${state.hpChanceOnly?'active':''}" id="kpi-hp">
+        <div class="kpi-label"><span class="kpi-dot" style="background:var(--green);"></span>HP未掲載（狙い目）</div>
+        <div class="kpi-value">${hpChanceCount}<span class="unit">店</span></div>
+        <div class="kpi-note">${state.hpChanceOnly?'✓ 絞り込み中':'クリックで絞り込み'}</div>
+      </div>` : `
       <div class="kpi">
         <div class="kpi-label">エリア判定済み</div>
         <div class="kpi-value">${areaCount}<span class="unit">エリア</span></div>
         <div class="kpi-note">見出しから市区町村を推定</div>
-      </div>
+      </div>`}
     </div>`;
 
-  const hasFilter = state.q || state.areas.size > 0 || state.genres.size > 0 || state.recentOnly || state.hiringOnly;
+  const hasFilter = state.q || state.areas.size > 0 || state.genres.size > 0 || state.recentOnly || state.hiringOnly || state.hpChanceOnly;
   const filterCard = `
     <div class="filter-card">
       <div class="filter-row">
@@ -303,7 +316,8 @@ function render() {
       </div>
     </div>`;
 
-  const groups = buildGroups(filtered);
+  let groups = buildGroups(filtered, hpMap);
+  if (state.hpChanceOnly) groups = groups.filter(g => g.hp && !g.hp.listed);
 
   let listHtml;
   if (items.length === 0) {
@@ -331,6 +345,9 @@ function render() {
           <div class="row-main">
             <div class="row-title"><a href="${it.link}">${g.storeName ? `${g.storeName}<span style="font-weight:500;color:var(--mid);font-size:12px;"> — ${it.title}</span>` : it.title}</a></div>
             <div class="tag-row">
+              ${g.hp ? (g.hp.listed
+                ? `<span class="tag tag-hp-yes">HP掲載 ●</span>`
+                : `<span class="tag tag-hp-no">HP未掲載 ×</span>`) : ''}
               ${g.signal !== 'opening' ? `<span class="tag tag-hiring">🧑‍🍳 オープン前・求人段階</span>` : ''}
               ${g.area ? `<span class="tag tag-area">📍 ${g.area}</span>` : ''}
               ${g.genres.map(x => `<span class="tag tag-genre">${x}</span>`).join('')}
@@ -351,11 +368,13 @@ function render() {
   }
   const clearBtn = document.getElementById('clear-filters');
   if (clearBtn) clearBtn.onclick = () =>
-    setState({ q:'', areas:new Set(), genres:new Set(), recentOnly:false, hiringOnly:false });
+    setState({ q:'', areas:new Set(), genres:new Set(), recentOnly:false, hiringOnly:false, hpChanceOnly:false });
   const kpiRecent = document.getElementById('kpi-recent');
   if (kpiRecent) kpiRecent.onclick = () => setState({ recentOnly: !state.recentOnly });
   const kpiHiring = document.getElementById('kpi-hiring');
   if (kpiHiring) kpiHiring.onclick = () => setState({ hiringOnly: !state.hiringOnly });
+  const kpiHp = document.getElementById('kpi-hp');
+  if (kpiHp) kpiHp.onclick = () => setState({ hpChanceOnly: !state.hpChanceOnly });
   root.querySelectorAll('.chip').forEach(chip => {
     chip.onclick = () => {
       const group = chip.dataset.group;
@@ -407,11 +426,20 @@ function renderDetail(groups) {
     </div>`;
   })() : '';
 
+  const hpStatus = g.hp ? `
+    <div class="modal-section">
+      <div class="modal-sec-title">ホットペッパー掲載状況（自動チェック）</div>
+      ${g.hp.listed
+        ? `<div class="open-date-box" style="background:#f0fdf4;border-color:#86efac;">● 掲載あり${g.hp.shopName && g.hp.shopName !== name ? `（${g.hp.shopName}）` : ''}${g.hp.url ? `　<a href="${g.hp.url}" target="_blank" rel="noopener" style="color:var(--green);font-weight:700;">店舗ページを開く →</a>` : ''}</div>`
+        : `<div class="open-date-box" style="background:#fef2f2;border-color:#fecaca;">× 掲載なし<span style="color:var(--mid);font-size:11px;">（${fmtDate(g.hp.checkedAt)}時点・ネット予約未導入の可能性大）</span></div>`}
+    </div>` : '';
+
   const checkLinks = name ? `
+    ${hpStatus}
     <div class="modal-section">
       <div class="modal-sec-title">ネット予約・掲載状況をチェック</div>
       <div class="link-grid">
-        <a class="check-link" href="https://www.hotpepper.jp/CSP/psh010/doBasic?FWT=${enc(q)}" target="_blank" rel="noopener"><span class="cl-icon">🍽️</span><span>ホットペッパー<span class="cl-sub">掲載・ネット予約の有無を確認</span></span></a>
+        <a class="check-link" href="${g.hp && g.hp.listed && g.hp.url ? g.hp.url : `https://www.hotpepper.jp/CSP/psh010/doBasic?FWT=${enc(q)}`}" target="_blank" rel="noopener"><span class="cl-icon">🍽️</span><span>ホットペッパー<span class="cl-sub">${g.hp ? (g.hp.listed ? '掲載あり ●（店舗ページへ）' : '掲載なし ×（手動でも確認可）') : '掲載・ネット予約の有無を確認'}</span></span></a>
         <a class="check-link" href="https://r.gnavi.co.jp/area/jp/rs/?fw=${enc(name)}" target="_blank" rel="noopener"><span class="cl-icon">🍴</span><span>ぐるなび<span class="cl-sub">掲載・ネット予約の有無を確認</span></span></a>
         <a class="check-link" href="https://tabelog.com/rst/rstsearch/?sk=${enc(name)}&sa=${enc(areaQ)}" target="_blank" rel="noopener"><span class="cl-icon">📖</span><span>食べログ<span class="cl-sub">既存掲載ページを確認</span></span></a>
         <a class="check-link" href="https://www.google.com/maps/search/${enc(q)}" target="_blank" rel="noopener"><span class="cl-icon">📍</span><span>Googleマップ<span class="cl-sub">場所・電話番号・営業時間</span></span></a>
