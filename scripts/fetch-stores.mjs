@@ -159,6 +159,39 @@ function escapeRe(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
+const BROWSER_USER_AGENT =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36';
+
+// Googleニュースのリンクは実記事へのリダイレクトなので、社給アカウント等でnews.google.comが
+// ブロックされていても開けるよう、収集時に実記事URLへ解決してから保存する
+async function resolveArticleUrl(url) {
+  if (!url || !url.includes('news.google.com')) return url;
+  try {
+    const res = await fetch(url, {
+      redirect: 'follow',
+      signal: AbortSignal.timeout(8000),
+      headers: { 'User-Agent': BROWSER_USER_AGENT },
+    });
+    if (res.body) { try { await res.body.cancel(); } catch {} }
+    return (res.url && !res.url.includes('news.google.com')) ? res.url : url;
+  } catch {
+    return url;
+  }
+}
+
+async function mapWithConcurrency(list, limit, fn) {
+  let idx = 0;
+  async function worker() {
+    while (idx < list.length) {
+      const i = idx++;
+      await fn(list[i], i);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, list.length) }, worker));
+}
+
+const RESOLVE_CONCURRENCY = 8;
+
 async function collect() {
   const queries = buildQueries();
   const collected = [];
@@ -221,9 +254,19 @@ async function main() {
     });
   }
 
-  const existing = (await loadExisting())
-    .filter(it => !isChain(it.title))
-    .map(it => ({ ...it, area: detectArea(it.title), genres: detectGenres(it.title) }));
+  // Googleニュースのリンクを実記事URLへ解決（社給アカウント等でnews.google.comが
+  // 開けない環境でも記事を確認できるようにするため）
+  await mapWithConcurrency(filtered, RESOLVE_CONCURRENCY, async (it) => {
+    it.link = await resolveArticleUrl(it.link);
+  });
+
+  const existingRaw = (await loadExisting()).filter(it => !isChain(it.title));
+  await mapWithConcurrency(
+    existingRaw.filter(it => it.link && it.link.includes('news.google.com')),
+    RESOLVE_CONCURRENCY,
+    async (it) => { it.link = await resolveArticleUrl(it.link); }
+  );
+  const existing = existingRaw.map(it => ({ ...it, area: detectArea(it.title), genres: detectGenres(it.title) }));
   const merged = new Map();
   for (const it of existing) merged.set(it.link, it);
   for (const it of filtered) {
