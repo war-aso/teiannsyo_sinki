@@ -27,6 +27,7 @@ const CHAIN_BLOCKLIST = [
   '富士そば', 'てんや', 'かっぱ寿司', 'スシロー', 'くら寿司', 'はま寿司', 'がってん寿司',
   'ペッパーランチ', 'ステーキのどん', 'いきなりステーキ',
   'サイゼリヤ', 'ガスト', 'バーミヤン', 'ジョナサン', 'デニーズ', 'ロイヤルホスト', 'ジョイフル', 'ココス',
+  'すかいらーく', 'ペルティカ',
   'びっくりドンキー', '鳥貴族', '磯丸水産', '白木屋', '笑笑', '魚民', '土間土間', '千年の宴',
   '塚田農場', 'わたみん家', '和民', '庄や', 'つぼ八', '日本海庄や',
   'セブンイレブン', 'ファミリーマート', 'ローソン', 'ユニクロ', '無印良品', 'イオン', 'ドン・キホーテ',
@@ -191,7 +192,7 @@ async function main() {
     });
   }
 
-  const existing = await loadExisting();
+  const existing = (await loadExisting()).filter(it => !isChain(it.title));
   const merged = new Map();
   for (const it of existing) merged.set(it.link, it);
   for (const it of filtered) {
