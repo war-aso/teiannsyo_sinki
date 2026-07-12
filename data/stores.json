@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T21:57:41.016Z",
+  "generatedAt": "2026-07-12T21:58:26.205Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 38
     }
   ],
-  "itemCount": 38,
+  "itemCount": 39,
   "hotpepper": {},
   "items": [
+    {
+      "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Sun, 12 Jul 2026 00:53:48 GMT",
+      "area": "柏市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-12T21:58:23.041Z"
+    },
     {
       "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑（ANNニュース）",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02VURDS0ZLN1poLUg0Z2ZrVzZmNjBNekU3ZUo3bFl0YnBfX0R6X09KRVZQZ2VtUkhfN2tUTFN3RW1uSUFMV01lZGhIYV9lVU1ZNHhMOHlSTGdtX0FfMmpwT1h0Tng?oc=5",
@@ -77,6 +89,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-11T21:57:37.269Z"
+    },
+    {
+      "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUMU9MRzV6MF9aT3R0aVFRRWF0dHNfQkRjN2pYRlR3VGsyZXBFcUo1OGtPWExINUF2NlFxTDltcDlmTW51aDZhZllYOXJaUXBUUmkxS3BNREgyWldnNlktRTQ5eDZkNjVOelBqeGZDQnV1UQ?oc=5",
+      "source": "テレ朝NEWS",
+      "pubDate": "Thu, 09 Jul 2026 04:49:27 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-12T21:58:23.045Z"
     },
     {
       "title": "1259億破綻「全東信」で夜の街が悲鳴！クレカ停止と売上未入金で連鎖倒産危機",
@@ -390,7 +414,7 @@
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
     },
     {
-      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ｜レッツエンジョイ東京",
+      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3ZXhGQVF3WkxuLXNIYUdxR1pzSldNOUdVeXVXVlVUQU4yZzgyX29ZTV9QU1gwekRkZjR6TFMwR09OTXVtTUdTRlZybk9PREE?oc=5",
       "source": "レッツエンジョイ東京",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
@@ -485,18 +509,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "高校生レストランが野田市役所にオープン 初日120食完売 接客も高評価、生徒ら意欲",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96MHBUeGpOUnlhMW1tMTlfcmUxdm4tanhlb1NKWVR3UXR1eC00dGhkVHluRXhsOGs1bVhxYVVOelI5MnNhUUlqVWlFMEE5a0NhSTFN?oc=5",
-      "source": "東京新聞デジタル",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT",
-      "area": "野田市",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
     }
   ]
 }
