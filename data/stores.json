@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T21:58:26.205Z",
+  "generatedAt": "2026-07-13T22:02:43.837Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,13 +24,13 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 9
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
@@ -39,9 +39,21 @@
       "count": 38
     }
   ],
-  "itemCount": 39,
+  "itemCount": 42,
   "hotpepper": {},
   "items": [
+    {
+      "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0k5blpxMWF6aFJEX1FCYVRCbHl2RVR4NEQ4WTFyNHRVYlZtRmlReDZhdTYxYm9KZzJSdGYyUVRGTFNIME01eDk1U0dWUjg?oc=5",
+      "source": "newscast.jp",
+      "pubDate": "Mon, 13 Jul 2026 00:45:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-13T22:02:39.792Z"
+    },
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
@@ -259,6 +271,18 @@
     },
     {
       "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jM1QybVhBXzNWY2NWZnNGS0dkWVk3Y2RkOVR1MG9nLWFZdG03NTR6bjdDaXpqa21jYnNwUlZnYjF2eG01dURTUTJvb21fMzg?oc=5",
+      "source": "紀伊民報AGARA",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "area": "浦安市",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-13T22:02:39.791Z"
+    },
+    {
+      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hQlIxcnRYS01nZG81QUdPSktPeDNBNUM2SUVXWHZ2TnZ1UTdXaXJHNk5yUnd0ZWVLaXp3d1BDYlJzRTd6NUs5U2k2MGFJeFF3MVp0bWp6TQ?oc=5",
       "source": "千葉日報オンライン",
       "pubDate": "Tue, 16 Jun 2026 02:01:56 GMT",
@@ -328,6 +352,16 @@
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
     },
     {
+      "title": "【6月26日オープン】千葉・松戸に「元祖焼豚センター うる寅商店」が降臨！はやし田跡地で「ちゃん系」の衝撃と焼豚の山に圧倒される。",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tQWtMV3V6emk4cmF4WWZ4MUNBSDB5OEhXN19hQXVhejB0RHNERUljM3NSMndOODZ4bEJTRVpKd0ZLWWxlOE1FUm5za1N5MWYwYUl3ckotNHd6WVM2U3p6NmlScHI?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "area": "松戸市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-13T22:02:39.791Z"
+    },
+    {
       "title": "【新業態が判明】流山街道沿いの「らぁ麺 はやし田」は「元祖焼豚センター うる寅商店」になって6/26（金）オープン！懐かしい中華そばにボリューミーなチャーシュー",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wTWtpT0pFbFdCU2NtclJlVDBXa2wzVEFKMm9fa290b3MzTTA3MVlzeGdvSE83Tzl2R3N6R0VVa2xuS1ZfNjNLRDlSY0xXTWc?oc=5",
       "source": "松戸つうしん",
@@ -364,7 +398,7 @@
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
     },
     {
-      "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン｜レッツエンジョイ東京",
+      "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPWWpWek9xWkhGUTBoRmdoaV93RU94MXhNTUpGelU1VHFNZHBaWjR4eXV1bVFCTFk4eklZcmtQNmNzQTdkSlhXWWdlVE5zMlE?oc=5",
       "source": "レッツエンジョイ東京",
       "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
@@ -414,7 +448,7 @@
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
     },
     {
-      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ",
+      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ｜レッツエンジョイ東京",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3ZXhGQVF3WkxuLXNIYUdxR1pzSldNOUdVeXVXVlVUQU4yZzgyX29ZTV9QU1gwekRkZjR6TFMwR09OTXVtTUdTRlZybk9PREE?oc=5",
       "source": "レッツエンジョイ東京",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
