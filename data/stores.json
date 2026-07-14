@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-13T22:02:43.837Z",
+  "generatedAt": "2026-07-14T22:05:58.450Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 100
+      "count": 0
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -24,24 +24,34 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 38
+      "count": 42
     }
   ],
-  "itemCount": 42,
+  "itemCount": 45,
   "hotpepper": {},
   "items": [
+    {
+      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTlpWdTZOM3RFNGRkRnNwZkd3YTljTi1DRlROVUo5dXRMYW9CSUNpV28wbUEtMUNtQ29ubmxTZmRBRTZmU0dHeFdXWDlQSE5IQnZjaXY1enExVlFyLWUzYmFDRDBWRzVHSHN1clJnQ0tRa1M0Wkc5Slhmbw?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Tue, 14 Jul 2026 02:48:19 GMT",
+      "area": "鴨川市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-14T22:05:55.996Z"
+    },
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0k5blpxMWF6aFJEX1FCYVRCbHl2RVR4NEQ4WTFyNHRVYlZtRmlReDZhdTYxYm9KZzJSdGYyUVRGTFNIME01eDk1U0dWUjg?oc=5",
@@ -53,6 +63,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-13T22:02:39.792Z"
+    },
+    {
+      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bEtGS0FxRzkyZEFpcko2S0NhLURFRU1EUUtWcHBBclNkdW1HOEhReDIzQllyZVFJejhJeTR5TnJGYWM2MzZCWjkxZFpNX0szNzI3UHM0OXd5aWV4QVlOUFdQbjhlYkE?oc=5",
+      "source": "J-CAST ニュース",
+      "pubDate": "Mon, 13 Jul 2026 00:45:00 GMT",
+      "area": "",
+      "genres": [
+        "ダイニング",
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-14T22:05:55.996Z"
     },
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
@@ -398,7 +421,7 @@
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
     },
     {
-      "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン",
+      "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン｜レッツエンジョイ東京",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPWWpWek9xWkhGUTBoRmdoaV93RU94MXhNTUpGelU1VHFNZHBaWjR4eXV1bVFCTFk4eklZcmtQNmNzQTdkSlhXWWdlVE5zMlE?oc=5",
       "source": "レッツエンジョイ東京",
       "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
@@ -471,6 +494,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
+    },
+    {
+      "title": "【西船にちゃん系降臨！】西船橋駅北口に「なぎちゃんラーメン」6月下旬オープン予定",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRE1JWHduVmJfbi1EbDJnd0psNWRzRXU1YVN3b3owSHZvb2JHME1hZUQ0b1Jpc1VFbWFUWmlxVFFydDQ3cng2Y0ZvakY4TFU3VWc?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-14T22:05:55.995Z"
     },
     {
       "title": "東上町にカジュアルダイニング「Dining Tamaki」が3/5（木）オープン",
