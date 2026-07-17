@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:08:59.796Z",
+  "generatedAt": "2026-07-17T22:00:24.960Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,24 +24,36 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 8
+      "count": 10
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 8
+      "count": 10
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 47
+      "count": 44
     }
   ],
-  "itemCount": 48,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
+    {
+      "title": "北小金駅南口の庄屋跡地にオリジン系列の中華食堂「れんげ食堂 Toshu北小金店」が9月オープン予定",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NXNVY2tVN3UxYmRmMGtkSlZuWEtWX192TklrV01fS1hLZnNDeDRBdWlyOGpuWDBKQldBSFZJQ0FpYk8xTjduUzA0ODdZTDQ?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Thu, 16 Jul 2026 03:11:20 GMT",
+      "area": "",
+      "genres": [
+        "中華"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-17T22:00:21.221Z"
+    },
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTlpWdTZOM3RFNGRkRnNwZkd3YTljTi1DRlROVUo5dXRMYW9CSUNpV28wbUEtMUNtQ29ubmxTZmRBRTZmU0dHeFdXWDlQSE5IQnZjaXY1enExVlFyLWUzYmFDRDBWRzVHSHN1clJnQ0tRa1M0Wkc5Slhmbw?oc=5",
@@ -51,6 +63,16 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-14T22:05:55.996Z"
+    },
+    {
+      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STWFyUWo4eG01MUtoOVFKMGFTWGpqR0p2R1ItSm9ScC1rdFBEVDlrSFRBUWhocUZ5WWx4WW5YaDYxQ1BWZGVzeWtJTlRpNi1PcmpaaQ?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Tue, 14 Jul 2026 02:48:19 GMT",
+      "area": "鴨川市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-17T22:00:21.220Z"
     },
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
@@ -136,6 +158,29 @@
       "firstSeenAt": "2026-07-11T21:57:37.269Z"
     },
     {
+      "title": "1259億破綻「全東信」で夜の街が悲鳴！クレカ停止と売上未入金で連鎖倒産危機",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jUGtBNUdmeVlnNG1DVW15ejhmX3RMM2VqZmdsdm1Kd3ZoMzF6ZkJVZ1JIWVh1bU1pYTV3M3RBWGJuanliNUR5eTEyUmNTYXVudnZGYTNMUmszQ3lEc2JPallUSEpjakJvT0tvMUJ6OVYyUkNNVnB3VtIBjAFBVV95cUxPLWlwbmszNFFDTHRXdnc0YjJzbEVjV0JvXzNrR0EydU1NZjNBal9hS2M3czNfZU1IY3lOTUM1T043SjM2cnhneDJMSWgyRjJlaDh6VFdfVGk1RWVIUWpNcGMyNFk5enJwYXd5UlBXWmhJdzl2OERpSnpPX3RmNmUweXJjTm8wUG1LQWhhNA?oc=5",
+      "source": "zakⅡ",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-10T07:58:53.264Z"
+    },
+    {
+      "title": "ハワイアン カフェ・レストラン「コナズ珈琲」愛知県4店舗目は、名古屋市内！コナズ珈琲 大高インター店2026年7月23日（木）10時オープン",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nTC0yZUdUUkZXYzVRbXFlNEgtbHl0bkdxUGdUZk0yYmt5a3dKRkZZT05CNDlSYkFSTzNtaDR4Tk5YOTg2T2FIQmYwZ0ItWlEwM1JwR2pWMlFDc1VDT2dTaXBzOGxCbEtSRUE?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "レストラン",
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-11T21:57:37.267Z"
+    },
+    {
       "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUMU9MRzV6MF9aT3R0aVFRRWF0dHNfQkRjN2pYRlR3VGsyZXBFcUo1OGtPWExINUF2NlFxTDltcDlmTW51aDZhZllYOXJaUXBUUmkxS3BNREgyWldnNlktRTQ5eDZkNjVOelBqeGZDQnV1UQ?oc=5",
       "source": "テレ朝NEWS",
@@ -146,29 +191,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-12T21:58:23.045Z"
-    },
-    {
-      "title": "1259億破綻「全東信」で夜の街が悲鳴！クレカ停止と売上未入金で連鎖倒産危機",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jUGtBNUdmeVlnNG1DVW15ejhmX3RMM2VqZmdsdm1Kd3ZoMzF6ZkJVZ1JIWVh1bU1pYTV3M3RBWGJuanliNUR5eTEyUmNTYXVudnZGYTNMUmszQ3lEc2JPallUSEpjakJvT0tvMUJ6OVYyUkNNVnB3VtIBjAFBVV95cUxPLWlwbmszNFFDTHRXdnc0YjJzbEVjV0JvXzNrR0EydU1NZjNBal9hS2M3czNfZU1IY3lOTUM1T043SjM2cnhneDJMSWgyRjJlaDh6VFdfVGk1RWVIUWpNcGMyNFk5enJwYXd5UlBXWmhJdzl2OERpSnpPX3RmNmUweXJjTm8wUG1LQWhhNA?oc=5",
-      "source": "zakⅡ",
-      "pubDate": "Thu, 09 Jul 2026 02:29:30 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-10T07:58:53.264Z"
-    },
-    {
-      "title": "ハワイアン カフェ・レストラン「コナズ珈琲」愛知県4店舗目は、名古屋市内！コナズ珈琲 大高インター店2026年7月23日（木）10時オープン | 株式会社 KONA'Sのプレスリリース",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nTC0yZUdUUkZXYzVRbXFlNEgtbHl0bkdxUGdUZk0yYmt5a3dKRkZZT05CNDlSYkFSTzNtaDR4Tk5YOTg2T2FIQmYwZ0ItWlEwM1JwR2pWMlFDc1VDT2dTaXBzOGxCbEtSRUE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 09 Jul 2026 02:00:02 GMT",
-      "area": "",
-      "genres": [
-        "レストラン",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-11T21:57:37.267Z"
     },
     {
       "title": "船橋駅南口徒歩3分にメキシコ本場仕込みのタコス＆カフェ「サンズ・タケリア」7月中旬オープン見込み",
@@ -552,6 +574,18 @@
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
     },
     {
+      "title": "Jカップグラドル夏目理緒！ ガールズバーで勤務中",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YWktKOFB5TEFuVWZ4YWJWWjRlMGRzVERNV21hdHZuX3h3RkFOWERfeV9kWG9fSTk4MVVXdDRRMGpnSl9hRjE5YWdxTzdVLWtpTHpiVW9Dclp1bW9XZmc?oc=5",
+      "source": "naigaitimes.com",
+      "pubDate": "Sat, 23 May 2026 11:32:12 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-17T22:00:21.222Z"
+    },
+    {
       "title": "ウィザースホーム、カフェ併設の「DAYS with KofuShowa」をグランドオープン「モデルハウス・カフェ・民泊施設」が一体となった新しい体験型複合施設",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XUkgxcnhQdEdMRWVzdUxFWGtxZ2pSUGQ5Z2RBUjZlNlJTZUl4Y3Jla2dJMmNmZVF4c1BJWkx6X2xSMG82Mk95Tl84NTRvZHQyTkdKNWJjeldDSzZ0anY4cE9oQ2ZpczBUMnc?oc=5",
       "source": "PR TIMES",
@@ -586,28 +620,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "下総中山駅近くにCAFE&SHOP「goodie!（グッティ！）」が5/19（火）オープン、市川市のクリエイティブスタジオによる一軒家カフェ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CT0V6YTM3SV9tdWN0UFFnWVRRanNXODBYanlidnlSOUxlVEYybGVMT2tSR0pJNHREcG91YThCNW5ldkpyeXpzdVFjb1FVdzFTT3c?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-      "area": "市川市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "佐倉 市 求人 TEL 0222477887 仙台市名坂店 TEL 0223735665 仙台 千葉県竜巻注意情報",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOcGt4eVVLUUI1T2lHTGhmcW9BbGkyTlNXRWludFo4T2tXZGtVT1V5OGhvNWx0RzNtZnVpQjBqN2doeVJxNUJQcEpjVDdKd2p4R252MVN1cDc4cDlRVU1qeExveXJFRFlRQlZaVVdobXFzeE1HSFR6QXlIQ3EtN2xWeVZfMmtkUV9BQ2lGNGFQOWZwdHZsOWVTZW5JQXJVNFNuajk0YnJiRV83RmpqYUw3OHpUOGlYZVp3ZGFWV1RzY3lOQ2ROQ1pfTmxfUVFsVFdhUlNWaVM3LVF3Z2pxRzNjci1zWG5oemZ6dlVUV1VIamI5Q0tpb01GWEJIQ3J4eWc3Y0JrQWNvWUZiV1A4UFBablBISTd2YnZIU0M5VHNkbUotR2cwY3k1LWpNQXZhTXlpU3V4YzI5bDBoYlBOSFV5dDh2T0JsdGpLbVZBdWZHcWk0MkRvYnNodkNBYk1jZFpTeGtZV1B4ckR4Z3F1QzZKWnhaNHRTR09lSXhYSjRERmlQUlhvYTJBYy1BNkR1UjJ2VGZRTVB5b2xMTTllZVlheGgxVVFjQWZQ?oc=5",
-      "source": "Baha'is of the United States",
-      "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-      "area": "佐倉市",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-15T22:08:54.217Z"
     }
   ]
 }
