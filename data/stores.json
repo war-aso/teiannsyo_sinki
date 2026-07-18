@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T22:00:24.960Z",
+  "generatedAt": "2026-07-18T21:57:23.064Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 10
+      "count": 11
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 47
     }
   ],
-  "itemCount": 49,
+  "itemCount": 48,
   "hotpepper": {},
   "items": [
     {
@@ -51,7 +51,7 @@
       "genres": [
         "中華"
       ],
-      "signal": "hiring",
+      "signal": "opening",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
     },
     {
@@ -184,7 +184,7 @@
       "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUMU9MRzV6MF9aT3R0aVFRRWF0dHNfQkRjN2pYRlR3VGsyZXBFcUo1OGtPWExINUF2NlFxTDltcDlmTW51aDZhZllYOXJaUXBUUmkxS3BNREgyWldnNlktRTQ5eDZkNjVOelBqeGZDQnV1UQ?oc=5",
       "source": "テレ朝NEWS",
-      "pubDate": "Thu, 09 Jul 2026 04:49:27 GMT",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -208,7 +208,7 @@
       "title": "ヒルトン東京ベイ「ガーデンプールレストラン」グランドオープン！プールサイドで楽しむナイトビアガーデン【体験レポート】",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15cS1jRnJsQXhQbllyLXFyVW10YTR0VjFjUXk0dUdMMzVYSE9Ta3RZTUQzS2RLUHNaRnZXb3lKUkI4WDlCcEQ4Z09MU1g?oc=5",
       "source": "Precious.jp",
-      "pubDate": "Mon, 06 Jul 2026 12:00:00 GMT",
+      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "レストラン"
@@ -608,18 +608,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "「不慣れ」だけど経験の場に 千葉・野田の「高校生レストラン」開店 [千葉県]",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xUDJLZXdSTWsyMTV6WjdzTEFrRWlUT3U5Rm41aXlwY1doWjA1YWlBTHRid2ZmY0xMVUdLVXVZRVZWSXpKV1VJZEk5d1U5d1l3c2VNYVRGa3BaMU9qQTN3UXB2aDEyTDQ?oc=5",
-      "source": "朝日新聞",
-      "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
-      "area": "野田市",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
     }
   ]
 }
