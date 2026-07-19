@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T21:57:23.064Z",
+  "generatedAt": "2026-07-19T21:59:44.058Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 11
+      "count": 13
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -39,9 +39,19 @@
       "count": 47
     }
   ],
-  "itemCount": 48,
+  "itemCount": 50,
   "hotpepper": {},
   "items": [
+    {
+      "title": "京成西船駅前に麻辣湯のお店「小辣椒 マーラータン店」がオープン予定、現在オープニングスタッフ募集中",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GcTZGSHZHYVBxcDBGUWhfa1psdjg4VnRmTVgwZ0QxSldjVWZUNjlJMVFYM09HRFp4RTRKV0Z2U2Vfb1FEUjk5ZzNXdTdVSVRGNVE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Sat, 18 Jul 2026 04:06:08 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-19T21:59:41.240Z"
+    },
     {
       "title": "北小金駅南口の庄屋跡地にオリジン系列の中華食堂「れんげ食堂 Toshu北小金店」が9月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NXNVY2tVN3UxYmRmMGtkSlZuWEtWX192TklrV01fS1hLZnNDeDRBdWlyOGpuWDBKQldBSFZJQ0FpYk8xTjduUzA0ODdZTDQ?oc=5",
@@ -87,7 +97,7 @@
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0k5blpxMWF6aFJEX1FCYVRCbHl2RVR4NEQ4WTFyNHRVYlZtRmlReDZhdTYxYm9KZzJSdGYyUVRGTFNIME01eDk1U0dWUjg?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "pubDate": "Mon, 13 Jul 2026 00:45:00 GMT",
       "area": "",
       "genres": [
@@ -347,6 +357,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-15T22:08:54.216Z"
+    },
+    {
+      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtX0p0ZUN3LTJZWF9IRjdiQlNDTEhGc3VwV3ZtTEk4VjVmSHNaaXZ4Y05BTHpNRlVoeF9mY3hYOXBIVEVnTmYyQnlQUjJHZEFmTHZ4bk40OGl5bDg?oc=5",
+      "source": "愛媛新聞",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "area": "浦安市",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-19T21:59:41.238Z"
     },
     {
       "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
