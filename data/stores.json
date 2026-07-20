@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T21:59:44.058Z",
+  "generatedAt": "2026-07-20T22:07:59.418Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,19 +24,19 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 13
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 47
+      "count": 32
     }
   ],
   "itemCount": 50,
@@ -487,6 +487,16 @@
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
     },
     {
+      "title": "ｔｉｍｅｌｅｓｚ・原嘉孝、石川祐希のアタックが顔面直撃で大興奮「墓場に持って帰ります！」",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51QkV0NWNwWmZkM2xaS1E2bldZYVpHNFlJOUdwNFBsZk1NajZVUl9kS3BkT3Rta1VUSmgtemw4bllQYTlNbEtkT0o3UmhMUlh2ZDFWbVlTb0tiN1hhenN3dG5wb2NfZS1vRWc?oc=5",
+      "source": "デイリースポーツ",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-20T22:07:56.543Z"
+    },
+    {
       "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン｜レッツエンジョイ東京",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPWWpWek9xWkhGUTBoRmdoaV93RU94MXhNTUpGelU1VHFNZHBaWjR4eXV1bVFCTFk4eklZcmtQNmNzQTdkSlhXWWdlVE5zMlE?oc=5",
       "source": "レッツエンジョイ東京",
@@ -618,18 +628,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "五香駅東口徒歩2分に本格中華料理店「華和居」がオープン、ランチからちょい飲み、宴会まで幅広く使える",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xVXJLcG10OGhHQ3hiSnhzNFhvNm9lRnRjX09oanVxb0Z5b09qYkJ3N19qelBvV2hwbGRRVnFqaTJOOGpZcURxWFpLQTd5WWc?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
     }
   ]
 }
