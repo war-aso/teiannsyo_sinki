@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:07:59.418Z",
+  "generatedAt": "2026-07-21T22:08:36.319Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 4
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 9
+      "count": 11
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 32
+      "count": 35
     }
   ],
-  "itemCount": 50,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
     {
@@ -61,7 +61,7 @@
       "genres": [
         "中華"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
     },
     {
@@ -156,10 +156,10 @@
       "firstSeenAt": "2026-07-10T22:11:59.818Z"
     },
     {
-      "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑 最新の社会ニュース【随時更新】",
+      "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaVBhWktRMVpBMVhHOXdZcVBfWXRHa1M1TUZXYkVCWWZNd3JRUTMyeXVfOFkzVWRTaXpDcFRqMXdtZGdEaVZQdzg2OXdrT253UGZCYm1LSzVQWUE?oc=5",
       "source": "ABEMA",
-      "pubDate": "Thu, 09 Jul 2026 16:46:57 GMT",
+      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -547,7 +547,7 @@
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
     },
     {
-      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ｜レッツエンジョイ東京",
+      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3ZXhGQVF3WkxuLXNIYUdxR1pzSldNOUdVeXVXVlVUQU4yZzgyX29ZTV9QU1gwekRkZjR6TFMwR09OTXVtTUdTRlZybk9PREE?oc=5",
       "source": "レッツエンジョイ東京",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
@@ -616,18 +616,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-17T22:00:21.222Z"
-    },
-    {
-      "title": "ウィザースホーム、カフェ併設の「DAYS with KofuShowa」をグランドオープン「モデルハウス・カフェ・民泊施設」が一体となった新しい体験型複合施設",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XUkgxcnhQdEdMRWVzdUxFWGtxZ2pSUGQ5Z2RBUjZlNlJTZUl4Y3Jla2dJMmNmZVF4c1BJWkx6X2xSMG82Mk95Tl84NTRvZHQyTkdKNWJjeldDSzZ0anY4cE9oQ2ZpczBUMnc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
     }
   ]
 }
