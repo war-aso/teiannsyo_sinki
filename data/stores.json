@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:08:36.319Z",
+  "generatedAt": "2026-07-22T22:12:07.157Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 34
     }
   ],
-  "itemCount": 49,
+  "itemCount": 50,
   "hotpepper": {},
   "items": [
     {
@@ -61,7 +61,7 @@
       "genres": [
         "中華"
       ],
-      "signal": "hiring",
+      "signal": "opening",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
     },
     {
@@ -206,7 +206,7 @@
       "title": "船橋駅南口徒歩3分にメキシコ本場仕込みのタコス＆カフェ「サンズ・タケリア」7月中旬オープン見込み",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaVVPdVpRT1NqRkpMSC10a0QyZlY4RmtzZ2l4WUZFdFdzQUtEWEw2U2ExT3dBclpQQW9acjhVMWlKY3p3MTl4UTBsZ2hFMXhVNlE?oc=5",
       "source": "船橋つうしん",
-      "pubDate": "Wed, 08 Jul 2026 08:37:32 GMT",
+      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
         "カフェ"
@@ -273,6 +273,18 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
+    },
+    {
+      "title": "スミムス(柏/居酒屋)＜ネット予約可",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WU2RfYlZuZ0lGY2NTYWYtempnVWl3OTAyMmk4cWN2R2ZxYjdVS05PUXBRSlFUNVBvVG9zVHo4S3QzZm03bzBYVUJYWk95dWpY?oc=5",
+      "source": "ホットペッパーグルメ",
+      "pubDate": "Wed, 24 Jun 2026 22:03:12 GMT",
+      "area": "柏市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-22T22:12:03.662Z"
     },
     {
       "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ | チバテレ＋プラス",
@@ -497,6 +509,19 @@
       "firstSeenAt": "2026-07-20T22:07:56.543Z"
     },
     {
+      "title": "本町2丁目のタイロン食堂跡地に「中華そば居酒屋処 杉」がオープンに向けて準備中",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dzlVTGhkdEhneUgwTklHQXAyZ3hOZk5SMUdveGs3d2hrY0NmSkVZa2JLRFNId0FBbWUyRWpaQ3UzelRnZmVEUGlKRUtoX2xSU1E?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋",
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-22T22:12:03.663Z"
+    },
+    {
       "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン｜レッツエンジョイ東京",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPWWpWek9xWkhGUTBoRmdoaV93RU94MXhNTUpGelU1VHFNZHBaWjR4eXV1bVFCTFk4eklZcmtQNmNzQTdkSlhXWWdlVE5zMlE?oc=5",
       "source": "レッツエンジョイ東京",
@@ -604,18 +629,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "Jカップグラドル夏目理緒！ ガールズバーで勤務中",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YWktKOFB5TEFuVWZ4YWJWWjRlMGRzVERNV21hdHZuX3h3RkFOWERfeV9kWG9fSTk4MVVXdDRRMGpnSl9hRjE5YWdxTzdVLWtpTHpiVW9Dclp1bW9XZmc?oc=5",
-      "source": "naigaitimes.com",
-      "pubDate": "Sat, 23 May 2026 11:32:12 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-17T22:00:21.222Z"
     }
   ]
 }
