@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:12:07.157Z",
+  "generatedAt": "2026-07-23T22:10:13.979Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,13 +24,13 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 11
+      "count": 12
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
@@ -39,9 +39,22 @@
       "count": 34
     }
   ],
-  "itemCount": 50,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
+    {
+      "title": "本町2丁目に「中華そば居酒屋処 杉ちゃんラーメン」が7/19（日）からオープン、タイロン食堂跡地",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNXMtWEI1SmJNWkZfUHpIT0JHRXYzZVJVaF9wQUxFOUpSSDVhMzM3NGpFMzF1WWJCbmNtTC1TR2M4dmxnQmJhQTFhNGRILWhZR3c?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Wed, 22 Jul 2026 02:43:18 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋",
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-23T22:10:10.418Z"
+    },
     {
       "title": "京成西船駅前に麻辣湯のお店「小辣椒 マーラータン店」がオープン予定、現在オープニングスタッフ募集中",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GcTZGSHZHYVBxcDBGUWhfa1psdjg4VnRmTVgwZ0QxSldjVWZUNjlJMVFYM09HRFp4RTRKV0Z2U2Vfb1FEUjk5ZzNXdTdVSVRGNVE?oc=5",
@@ -255,7 +268,7 @@
       "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
       "source": "千葉日報オンライン",
-      "pubDate": "Fri, 26 Jun 2026 09:57:21 GMT",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
         "カフェ",
@@ -605,30 +618,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-14T22:05:55.995Z"
-    },
-    {
-      "title": "東上町にカジュアルダイニング「Dining Tamaki」が3/5（木）オープン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGenpwTDBZN19jQ3ZKMzE3bEdXOWNNaDB2ZS0zRzFxTkNfWnIwU0MyTFMyNV9rVlBNZFFQSDQyOHdhTEhNbkN0emZacW1kdG8?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Sun, 24 May 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "ダイニング"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "高根公団駅近くに居酒屋「野菜泥棒3104」がオープン、12時から営業",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5MUZZRUpnMXRlUkJPX2pSUURyWVJJVjE5Z2xUWVVjWUstWV9qY0lKRGJwQk5reGwwNTkzeWNPQ3NLYTQ2RXk2allUNUpLYkgyX3c?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Sun, 24 May 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
     }
   ]
 }
