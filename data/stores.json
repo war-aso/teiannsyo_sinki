@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:12:38.989Z",
+  "generatedAt": "2026-07-25T22:01:30.064Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,7 +12,7 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 100
+      "count": 0
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
@@ -30,13 +30,13 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 11
+      "count": 12
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 38
+      "count": 35
     }
   ],
   "itemCount": 50,
@@ -86,7 +86,7 @@
       "genres": [
         "中華"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
     },
     {
@@ -123,7 +123,7 @@
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0k5blpxMWF6aFJEX1FCYVRCbHl2RVR4NEQ4WTFyNHRVYlZtRmlReDZhdTYxYm9KZzJSdGYyUVRGTFNIME01eDk1U0dWUjg?oc=5",
       "source": "Newscast.jp",
-      "pubDate": "Mon, 13 Jul 2026 00:45:00 GMT",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "カフェ"
