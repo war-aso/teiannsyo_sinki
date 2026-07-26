@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:01:30.064Z",
+  "generatedAt": "2026-07-26T22:05:52.365Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,7 +12,7 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 0
+      "count": 100
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 33
     }
   ],
-  "itemCount": 50,
+  "itemCount": 52,
   "hotpepper": {},
   "items": [
     {
@@ -86,7 +86,7 @@
       "genres": [
         "中華"
       ],
-      "signal": "hiring",
+      "signal": "opening",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
     },
     {
@@ -135,7 +135,7 @@
       "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bEtGS0FxRzkyZEFpcko2S0NhLURFRU1EUUtWcHBBclNkdW1HOEhReDIzQllyZVFJejhJeTR5TnJGYWM2MzZCWjkxZFpNX0szNzI3UHM0OXd5aWV4QVlOUFdQbjhlYkE?oc=5",
       "source": "J-CAST ニュース",
-      "pubDate": "Mon, 13 Jul 2026 00:45:00 GMT",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "ダイニング",
@@ -312,6 +312,18 @@
       "firstSeenAt": "2026-07-22T22:12:03.662Z"
     },
     {
+      "title": "人気寿司店“鮨よしかわ”の新店「鮨よしかわ 新 -ARATA- 六本木」オープン",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vTHFQVEJCR1RsTmh4THRSbktEdWtINUxMU2xRSlBLczNRLV9GRXFEQ1lGakh4Sy0zYnA3NmE0bndnWUV4V3BJTlBqV3VGMUhPMFRsb3ZjTHRtSGk3XzZR?oc=5",
+      "source": "千葉テレビ放送",
+      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "寿司"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-26T22:05:49.245Z"
+    },
+    {
       "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ | チバテレ＋プラス",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cFBPZFRmZzZfUVk1WlVibWxvalFYM2ZzNTI1U1p5S1lhLXNLWVNjQWFzWVVjenFoeEhsUWxMaGNWR1Nxb1U1NmI3UlJka2FUYVR5ZkYzR1BOU2NRRmtz0gFkQVVfeXFMUEh1cnNkRmpJTENZYkp6dXI5bUpfR1ZhUmFNS2dwd0thWVd6b2NfZTVrVFAxb09BZUdjUEIxZmRUVjR1N2swekNIWUpSZF9Zd2kzY3VEYWFKaXVvaWhWWUFoYzFUMQ?oc=5",
       "source": "千葉テレビ放送",
@@ -406,6 +418,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-19T21:59:41.238Z"
+    },
+    {
+      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HTV9maEw4TURQdUxZd05KcjI5ZzJiOFVpaXpfelRXeHF2RDV4cWd4SldyeG8tbE51Sk43eE0zZlhvWG14Tmx3RXVZZWhQNTZXU1RSNXNn?oc=5",
+      "source": "フーズチャネル",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "area": "浦安市",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-26T22:05:49.245Z"
     },
     {
       "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
@@ -597,7 +621,7 @@
       "firstSeenAt": "2026-07-09T22:38:36.795Z"
     },
     {
-      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ",
+      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ｜レッツエンジョイ東京",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3ZXhGQVF3WkxuLXNIYUdxR1pzSldNOUdVeXVXVlVUQU4yZzgyX29ZTV9QU1gwekRkZjR6TFMwR09OTXVtTUdTRlZybk9PREE?oc=5",
       "source": "レッツエンジョイ東京",
       "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
