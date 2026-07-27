@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T22:05:52.365Z",
+  "generatedAt": "2026-07-27T22:13:33.205Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,24 +24,37 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 33
+      "count": 36
     }
   ],
-  "itemCount": 52,
+  "itemCount": 51,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
+      "source": "号外NET 八尾",
+      "pubDate": "Sun, 26 Jul 2026 23:00:33 GMT",
+      "area": "",
+      "genres": [
+        "バル",
+        "中華"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-27T22:13:28.110Z"
+    },
     {
       "title": "本町2丁目に「中華そば居酒屋処 杉ちゃんラーメン」が7/19（日）からオープン、タイロン食堂跡地",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNXMtWEI1SmJNWkZfUHpIT0JHRXYzZVJVaF9wQUxFOUpSSDVhMzM3NGpFMzF1WWJCbmNtTC1TR2M4dmxnQmJhQTFhNGRILWhZR3c?oc=5",
@@ -631,29 +644,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "【オープン日判明】京成船橋駅近くの居酒屋「大衆割烹まるは」5/28（木）14時からオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfeWk0YWhzUEVDcnAtd1JGQUpqNmVsa1RtU0hjMlQwRllZbnZjenM5MzJ4NmVNQmtqRVZuQVJYWWpWbm4yMEFlRzZnSklPb2V4dUE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋",
-        "割烹"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "【西船にちゃん系降臨！】西船橋駅北口に「なぎちゃんラーメン」6月下旬オープン予定",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rRE1JWHduVmJfbi1EbDJnd0psNWRzRXU1YVN3b3owSHZvb2JHME1hZUQ0b1Jpc1VFbWFUWmlxVFFydDQ3cng2Y0ZvakY4TFU3VWc?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-14T22:05:55.995Z"
     }
   ]
 }
