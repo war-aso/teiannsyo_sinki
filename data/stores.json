@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:13:33.205Z",
+  "generatedAt": "2026-07-28T22:11:54.191Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 36
+      "count": 32
     }
   ],
-  "itemCount": 51,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
     {
@@ -84,7 +84,7 @@
       "title": "京成西船駅前に麻辣湯のお店「小辣椒 マーラータン店」がオープン予定、現在オープニングスタッフ募集中",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GcTZGSHZHYVBxcDBGUWhfa1psdjg4VnRmTVgwZ0QxSldjVWZUNjlJMVFYM09HRFp4RTRKV0Z2U2Vfb1FEUjk5ZzNXdTdVSVRGNVE?oc=5",
       "source": "船橋つうしん",
-      "pubDate": "Sat, 18 Jul 2026 04:06:08 GMT",
+      "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [],
       "signal": "hiring",
@@ -101,6 +101,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
+    },
+    {
+      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TG1FcXpZTzV0TXFqZU1iVFg3QUk0QnZjc1BCRG82VXVDYU52RTVFdUxsLXczTmJLb2oxNkRtZjdacEFwYk9xejYxSXNiRDlVUGxKc2JrUXEwQmh1V0huUGZ5Y19VUGxMeEE?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "area": "鴨川市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-15T22:08:54.216Z"
     },
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
@@ -121,16 +131,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-17T22:00:21.220Z"
-    },
-    {
-      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TG1FcXpZTzV0TXFqZU1iVFg3QUk0QnZjc1BCRG82VXVDYU52RTVFdUxsLXczTmJLb2oxNkRtZjdacEFwYk9xejYxSXNiRDlVUGxKc2JrUXEwQmh1V0huUGZ5Y19VUGxMeEE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Tue, 14 Jul 2026 01:00:02 GMT",
-      "area": "鴨川市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-15T22:08:54.216Z"
     },
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
@@ -610,40 +610,16 @@
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
     },
     {
-      "title": "【千葉県佐倉市】佐倉市立美術館に新しいカフェがオープン（6/10）",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBINU91cU9yNFBBQXFlc0ZscUFnRzNIM1BnLWYtNGhyTF9qQ0FTS2VtcmNHUDZ6T05MMVJxZG13SEg4MGZHcGFpYzdxeXNJWFgxcmNMRDJJdm1hSlplT29GQnBLSWFTTnJuZkE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
-      "area": "佐倉市",
+      "title": "【8月下旬オープン】北陸初上陸！高岡駅南にバリ島リゾート出現！？本格イタリアン「PISOLA」がやってくる！【富山】",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lT0lQRmgzcl9yVDd3YTR5cUtKMk01ZHFYOGF5bm9iaGQycHI4ZlliOWt5WDY2cWs3TkczQ1ZuSHlhNGwzZ2MzbUlXWEsxRDJBV3hZWEJNZ1dnYzVpX0ZkTElVSWw?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "area": "",
       "genres": [
-        "カフェ"
+        "イタリアン"
       ],
       "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "西船橋駅北口近くにラーメン店「中華そば煮干の五郎」が6/10（水）オープン予定",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5clpLRDctS3dQMUc4OERVdFdOVVI3OFAzQVVZczlRZTBtMEVGVTR2SEdMeG9HRGhFUWZrYjJ4aU1lRXNVLUFzdGdxSDhreWh1akE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ｜レッツエンジョイ東京",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3ZXhGQVF3WkxuLXNIYUdxR1pzSldNOUdVeXVXVlVUQU4yZzgyX29ZTV9QU1gwekRkZjR6TFMwR09OTXVtTUdTRlZybk9PREE?oc=5",
-      "source": "レッツエンジョイ東京",
-      "pubDate": "Fri, 29 May 2026 07:00:00 GMT",
-      "area": "佐倉市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
+      "firstSeenAt": "2026-07-28T22:11:50.191Z"
     }
   ]
 }
