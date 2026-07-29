@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T22:11:54.191Z",
+  "generatedAt": "2026-07-29T22:06:22.022Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,28 +24,40 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 9
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 32
+      "count": 34
     }
   ],
-  "itemCount": 49,
+  "itemCount": 51,
   "hotpepper": {},
   "items": [
     {
+      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Wed, 29 Jul 2026 20:00:00 GMT",
+      "area": "四街道市",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-29T22:06:18.859Z"
+    },
+    {
       "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
-      "source": "号外NET 八尾",
+      "source": "yao.goguynet.jp",
       "pubDate": "Sun, 26 Jul 2026 23:00:33 GMT",
       "area": "",
       "genres": [
@@ -54,6 +66,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-27T22:13:28.110Z"
+    },
+    {
+      "title": "「ガールズバー、キャバクラ」…捜査員に話しかけ、風俗店に勧誘も 客引きした疑い、男7人を逮捕 埼玉県警、大宮駅や南越谷駅周辺などの歓楽街で一斉取り締まり 「客引きがあった店舗には行かないで」",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01M2tHRzRnQ1JEZHpkd3hQZHFnOTV1cEFzd2dKVGE3eUIzLVcxdE9SOXdhZi1mVFFaVUw2M2tiWnhGdzQwZFFlTVhBSQ?oc=5",
+      "source": "47NEWS",
+      "pubDate": "Thu, 23 Jul 2026 03:46:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-29T22:06:18.859Z"
     },
     {
       "title": "本町2丁目に「中華そば居酒屋処 杉ちゃんラーメン」が7/19（日）からオープン、タイロン食堂跡地",
@@ -94,12 +118,12 @@
       "title": "北小金駅南口の庄屋跡地にオリジン系列の中華食堂「れんげ食堂 Toshu北小金店」が9月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NXNVY2tVN3UxYmRmMGtkSlZuWEtWX192TklrV01fS1hLZnNDeDRBdWlyOGpuWDBKQldBSFZJQ0FpYk8xTjduUzA0ODdZTDQ?oc=5",
       "source": "松戸つうしん",
-      "pubDate": "Thu, 16 Jul 2026 03:11:20 GMT",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "中華"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
     },
     {
