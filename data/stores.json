@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T22:12:00.646Z",
+  "generatedAt": "2026-08-01T22:02:35.043Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 9
+      "count": 7
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 29
+      "count": 48
     }
   ],
-  "itemCount": 54,
+  "itemCount": 52,
   "hotpepper": {},
   "items": [
     {
@@ -91,7 +91,7 @@
     {
       "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
-      "source": "yao.goguynet.jp",
+      "source": "号外NET 八尾",
       "pubDate": "Sun, 26 Jul 2026 23:00:33 GMT",
       "area": "",
       "genres": [
@@ -104,8 +104,8 @@
     {
       "title": "「ガールズバー、キャバクラ」…捜査員に話しかけ、風俗店に勧誘も 客引きした疑い、男7人を逮捕 埼玉県警、大宮駅や南越谷駅周辺などの歓楽街で一斉取り締まり 「客引きがあった店舗には行かないで」",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01M2tHRzRnQ1JEZHpkd3hQZHFnOTV1cEFzd2dKVGE3eUIzLVcxdE9SOXdhZi1mVFFaVUw2M2tiWnhGdzQwZFFlTVhBSQ?oc=5",
-      "source": "47NEWS",
-      "pubDate": "Thu, 23 Jul 2026 03:46:00 GMT",
+      "source": "47news.jp",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -651,31 +651,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "ハワイアンカフェ＆レストラン『Merengue』が千葉市幕張エリア初、ホテル内に初出店！2026年6月11日、KOKO HOTEL Premier 東京ベイ幕張にグランドオープン！ | 株式会社RYコーポレーションのプレスリリース",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SNWxZMUJJTHEyR0FJNFdJYWlteHdxRUt3Sld1VzZvdGdMcEVSOEwxVG11d3lncGhocFF6NjBmTWVXd3BxLVhrQ0ZjWi1mWWdTaTBnU2RrUUF5bGpuaEJpNDdqdnc2dkVMREE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "area": "千葉市美浜区",
-      "genres": [
-        "レストラン",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "【8月下旬オープン】北陸初上陸！高岡駅南にバリ島リゾート出現！？本格イタリアン「PISOLA」がやってくる！【富山】",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lT0lQRmgzcl9yVDd3YTR5cUtKMk01ZHFYOGF5bm9iaGQycHI4ZlliOWt5WDY2cWs3TkczQ1ZuSHlhNGwzZ2MzbUlXWEsxRDJBV3hZWEJNZ1dnYzVpX0ZkTElVSWw?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "イタリアン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-28T22:11:50.191Z"
     }
   ]
 }
