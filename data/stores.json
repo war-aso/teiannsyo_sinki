@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T22:02:35.043Z",
+  "generatedAt": "2026-08-02T22:02:05.270Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 48
+      "count": 44
     }
   ],
   "itemCount": 52,
@@ -45,7 +45,7 @@
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EUEczTDNHR1BSS2s4bXpWSGt0S1ZNaE5tdEJKYTNScFZDWkt0WlV3LUVxY3pvQTJqSGkwQjRhaTZGQTJ4R0ZkM0ZIaw?oc=5",
-      "source": "47news.jp",
+      "source": "47NEWS",
       "pubDate": "Fri, 31 Jul 2026 02:17:02 GMT",
       "area": "四街道市",
       "genres": [
@@ -79,6 +79,18 @@
       "firstSeenAt": "2026-07-29T22:06:18.859Z"
     },
     {
+      "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MG9qeEdHMllxdnFHQ0l2YnVpQnFEMV9EaFdFN251QjVnSFlNdTRJWml0TEJ3Sms2Vkh5eXE4M05wcXQ4cUtXSjlnZFJjaUZDbnc?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Tue, 28 Jul 2026 00:56:16 GMT",
+      "area": "船橋市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-02T22:02:01.217Z"
+    },
+    {
       "title": "【続報】松戸駅西口の「たい焼ききくや」跡地に「鮨処 すし白川」が8/10（月）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMTc3aW9ydkNQMHdHSDBFSFlheTFaLUx0eFhneDNFQlRRb0cwcnZPODlBLWxyNms5Rlkyc0xtRjhRemNBRHNPN3AtUjJYMW8?oc=5",
       "source": "松戸つうしん",
@@ -104,8 +116,8 @@
     {
       "title": "「ガールズバー、キャバクラ」…捜査員に話しかけ、風俗店に勧誘も 客引きした疑い、男7人を逮捕 埼玉県警、大宮駅や南越谷駅周辺などの歓楽街で一斉取り締まり 「客引きがあった店舗には行かないで」",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01M2tHRzRnQ1JEZHpkd3hQZHFnOTV1cEFzd2dKVGE3eUIzLVcxdE9SOXdhZi1mVFFaVUw2M2tiWnhGdzQwZFFlTVhBSQ?oc=5",
-      "source": "47news.jp",
-      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "source": "47NEWS",
+      "pubDate": "Thu, 23 Jul 2026 03:46:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -638,19 +650,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-22T22:12:03.663Z"
-    },
-    {
-      "title": "ハワイアンカフェ＆レストラン「メレンゲ」千葉市幕張エリアのホテル内にオープン｜レッツエンジョイ東京",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPWWpWek9xWkhGUTBoRmdoaV93RU94MXhNTUpGelU1VHFNZHBaWjR4eXV1bVFCTFk4eklZcmtQNmNzQTdkSlhXWWdlVE5zMlE?oc=5",
-      "source": "レッツエンジョイ東京",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "area": "千葉市美浜区",
-      "genres": [
-        "レストラン",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
     }
   ]
 }
