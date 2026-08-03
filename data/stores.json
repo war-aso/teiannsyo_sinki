@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:02:05.270Z",
+  "generatedAt": "2026-08-03T22:13:58.684Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 38
     }
   ],
-  "itemCount": 52,
+  "itemCount": 50,
   "hotpepper": {},
   "items": [
     {
@@ -53,6 +53,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-31T22:11:57.496Z"
+    },
+    {
+      "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubS00UUNFZmtqUWFlTUhUWnN0Q001UmhodEhZQmVqX25OMkFCTUVMNmh5UWVpNTAzb21ZVERFb05pSEZMeGgxV1V3ejRKYU5uQUoxcWtySW1NNFE5d0RtNHFIZkFqSFB6WXpyNlZ4ZU1hVHVfd3A1YWNn?oc=5",
+      "source": "毎日キレイ",
+      "pubDate": "Fri, 31 Jul 2026 01:58:55 GMT",
+      "area": "長柄町",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-03T22:13:53.899Z"
     },
     {
       "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
@@ -81,7 +93,7 @@
     {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MG9qeEdHMllxdnFHQ0l2YnVpQnFEMV9EaFdFN251QjVnSFlNdTRJWml0TEJ3Sms2Vkh5eXE4M05wcXQ4cUtXSjlnZFJjaUZDbnc?oc=5",
-      "source": "船橋つうしん",
+      "source": "funabashi-tsushin.com",
       "pubDate": "Tue, 28 Jul 2026 00:56:16 GMT",
       "area": "船橋市",
       "genres": [
@@ -128,7 +140,7 @@
     {
       "title": "本町2丁目に「中華そば居酒屋処 杉ちゃんラーメン」が7/19（日）からオープン、タイロン食堂跡地",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNXMtWEI1SmJNWkZfUHpIT0JHRXYzZVJVaF9wQUxFOUpSSDVhMzM3NGpFMzF1WWJCbmNtTC1TR2M4dmxnQmJhQTFhNGRILWhZR3c?oc=5",
-      "source": "船橋つうしん",
+      "source": "funabashi-tsushin.com",
       "pubDate": "Wed, 22 Jul 2026 02:43:18 GMT",
       "area": "",
       "genres": [
@@ -141,8 +153,8 @@
     {
       "title": "船橋駅南口近くにタコス＆カフェ「サンズ・タケリア」が7/19（日）からオープン、キャッシュレス決済のみ",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xZmtLNUJ4bnV0VmwxSFhsaGpURVRlMk9TQVRBWlQ0Z2t3UUI4clcwUlU4dEhmUjRsYWZuNDZvcWZNX05TcjRfYndYWENUSUNCQWc?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Tue, 21 Jul 2026 02:56:45 GMT",
+      "source": "funabashi-tsushin.com",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
         "カフェ"
@@ -153,7 +165,7 @@
     {
       "title": "京成西船駅前に麻辣湯のお店「小辣椒 マーラータン店」がオープン予定、現在オープニングスタッフ募集中",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GcTZGSHZHYVBxcDBGUWhfa1psdjg4VnRmTVgwZ0QxSldjVWZUNjlJMVFYM09HRFp4RTRKV0Z2U2Vfb1FEUjk5ZzNXdTdVSVRGNVE?oc=5",
-      "source": "船橋つうしん",
+      "source": "funabashi-tsushin.com",
       "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [],
@@ -313,7 +325,7 @@
     {
       "title": "船橋駅南口徒歩3分にメキシコ本場仕込みのタコス＆カフェ「サンズ・タケリア」7月中旬オープン見込み",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaVVPdVpRT1NqRkpMSC10a0QyZlY4RmtzZ2l4WUZFdFdzQUtEWEw2U2ExT3dBclpQQW9acjhVMWlKY3p3MTl4UTBsZ2hFMXhVNlE?oc=5",
-      "source": "船橋つうしん",
+      "source": "funabashi-tsushin.com",
       "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
@@ -325,7 +337,7 @@
     {
       "title": "ヒルトン東京ベイ「ガーデンプールレストラン」グランドオープン！プールサイドで楽しむナイトビアガーデン【体験レポート】",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15cS1jRnJsQXhQbllyLXFyVW10YTR0VjFjUXk0dUdMMzVYSE9Ta3RZTUQzS2RLUHNaRnZXb3lKUkI4WDlCcEQ4Z09MU1g?oc=5",
-      "source": "Precious.jp",
+      "source": "precious.jp",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -561,7 +573,7 @@
     {
       "title": "南柏駅西口すぐに「和食居酒屋 大安」が2/9（月）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUTUJiaXozR0FKZjN3Zm4yTE4tdzEwc2NNeFlyQnVzbzhKYWZqSmhkT3pydElycjE1R1F1Y3YxbGVOM3lNSHVQcGtBMFlhQ0U?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -607,7 +619,7 @@
     {
       "title": "習志野市谷津に「古民家カフェ ハナレヤ」が6/14（日）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DaWNMZTcyajNVNlN1SDdWQXpnRXFSaDc4UUxYenJEcEowRDNQVFNsdjhvbWctMi0yQm5WeHZhUFVObzYwdDRTWFVSenQ5MWpVY1E?oc=5",
-      "source": "船橋つうしん",
+      "source": "funabashi-tsushin.com",
       "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
       "area": "習志野市",
       "genres": [
@@ -615,41 +627,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "元旅館の思い継ぐ古民家カフェ 館山市見物に5日オープン 家族4人で1年かけDIY（千葉県）（房日新聞）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rUXJ4elVsWERTU1A1WkJSbkhKTkZYNWtxcEE4N3ByU0NsS0VVTVFjdVJESTlmdmZwZzhKV3RCVUs1SlVJYWhhUWROQUVHRmotWWs5TkJySGk0THRpc21wSklibFVqNGVGbzBaN01jUFNKMXpacDBfT1NPbTByR28?oc=5",
-      "source": "Yahoo!ニュース",
-      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "area": "館山市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "ｔｉｍｅｌｅｓｚ・原嘉孝、石川祐希のアタックが顔面直撃で大興奮「墓場に持って帰ります！」",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51QkV0NWNwWmZkM2xaS1E2bldZYVpHNFlJOUdwNFBsZk1NajZVUl9kS3BkT3Rta1VUSmgtemw4bllQYTlNbEtkT0o3UmhMUlh2ZDFWbVlTb0tiN1hhenN3dG5wb2NfZS1vRWc?oc=5",
-      "source": "デイリースポーツ",
-      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-20T22:07:56.543Z"
-    },
-    {
-      "title": "本町2丁目のタイロン食堂跡地に「中華そば居酒屋処 杉」がオープンに向けて準備中",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dzlVTGhkdEhneUgwTklHQXAyZ3hOZk5SMUdveGs3d2hrY0NmSkVZa2JLRFNId0FBbWUyRWpaQ3UzelRnZmVEUGlKRUtoX2xSU1E?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "居酒屋",
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-22T22:12:03.663Z"
     }
   ]
 }
