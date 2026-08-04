@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:13:58.684Z",
+  "generatedAt": "2026-08-04T22:18:45.270Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,55 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 10
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 38
+      "count": 40
     }
   ],
-  "itemCount": 50,
+  "itemCount": 52,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【千葉・松戸市根本】焼肉ここから 松戸店が8月下旬オープン予定｜元祖ぶ厚い焼肉が松戸駅東口に",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMVRuYnpZUlFlUTVnVmlQaTVPZzQ1MmlJX2ZhQ3dlNkY3dUFuZVB1eFltQVlTcmNOaEdxSml2Q01mZ2hMLUEwVktmbVdvU0FTRFVTenc4RHNBeW5sUmt1M1pzLTk?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Tue, 04 Aug 2026 15:56:42 GMT",
+      "area": "松戸市",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-04T22:18:41.554Z"
+    },
+    {
+      "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
+      "source": "ホットペッパーグルメ",
+      "pubDate": "Sat, 01 Aug 2026 15:44:03 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋",
+        "レストラン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-04T22:18:41.551Z"
+    },
+    {
+      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
+      "source": "chibanippo.co.jp",
+      "pubDate": "Fri, 31 Jul 2026 09:11:00 GMT",
+      "area": "四街道市",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-29T22:06:18.859Z"
+    },
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EUEczTDNHR1BSS2s4bXpWSGt0S1ZNaE5tdEJKYTNScFZDWkt0WlV3LUVxY3pvQTJqSGkwQjRhaTZGQTJ4R0ZkM0ZIaw?oc=5",
@@ -79,21 +116,9 @@
       "firstSeenAt": "2026-07-30T22:14:21.534Z"
     },
     {
-      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
-      "area": "四街道市",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-29T22:06:18.859Z"
-    },
-    {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MG9qeEdHMllxdnFHQ0l2YnVpQnFEMV9EaFdFN251QjVnSFlNdTRJWml0TEJ3Sms2Vkh5eXE4M05wcXQ4cUtXSjlnZFJjaUZDbnc?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Tue, 28 Jul 2026 00:56:16 GMT",
       "area": "船橋市",
       "genres": [
@@ -140,8 +165,8 @@
     {
       "title": "本町2丁目に「中華そば居酒屋処 杉ちゃんラーメン」が7/19（日）からオープン、タイロン食堂跡地",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNXMtWEI1SmJNWkZfUHpIT0JHRXYzZVJVaF9wQUxFOUpSSDVhMzM3NGpFMzF1WWJCbmNtTC1TR2M4dmxnQmJhQTFhNGRILWhZR3c?oc=5",
-      "source": "funabashi-tsushin.com",
-      "pubDate": "Wed, 22 Jul 2026 02:43:18 GMT",
+      "source": "船橋つうしん",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "居酒屋",
@@ -153,7 +178,7 @@
     {
       "title": "船橋駅南口近くにタコス＆カフェ「サンズ・タケリア」が7/19（日）からオープン、キャッシュレス決済のみ",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xZmtLNUJ4bnV0VmwxSFhsaGpURVRlMk9TQVRBWlQ0Z2t3UUI4clcwUlU4dEhmUjRsYWZuNDZvcWZNX05TcjRfYndYWENUSUNCQWc?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
@@ -238,6 +263,31 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-14T22:05:55.996Z"
+    },
+    {
+      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObHJZY2lIRnZzbjVoMTNhcnhNNUVid1k0SjhTbEYzdjlWNVJpU3JCQ21GanVYb2oxSUlsQl9fbEtqbWxBX3VvUl9mS0tHTVNLNWRtdnhZb2o5ZUNJWm0yaWRMWnBKRTd2ci1yYw?oc=5",
+      "source": "J-CAST ニュース",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "ダイニング",
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-04T22:18:41.552Z"
+    },
+    {
+      "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pbEUtVnpBdWh3MWg1LW40N2J5a05DRGtXY0tidUtCN2gtcVlZRUcydFhMZ2pucW1zUmJ4cmtLdGEzeUUweXNEaGQxZ3pudw?oc=5",
+      "source": "アットプレス",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-04T22:18:41.555Z"
     },
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
@@ -325,7 +375,7 @@
     {
       "title": "船橋駅南口徒歩3分にメキシコ本場仕込みのタコス＆カフェ「サンズ・タケリア」7月中旬オープン見込み",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaVVPdVpRT1NqRkpMSC10a0QyZlY4RmtzZ2l4WUZFdFdzQUtEWEw2U2ExT3dBclpQQW9acjhVMWlKY3p3MTl4UTBsZ2hFMXhVNlE?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
@@ -337,7 +387,7 @@
     {
       "title": "ヒルトン東京ベイ「ガーデンプールレストラン」グランドオープン！プールサイドで楽しむナイトビアガーデン【体験レポート】",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15cS1jRnJsQXhQbllyLXFyVW10YTR0VjFjUXk0dUdMMzVYSE9Ta3RZTUQzS2RLUHNaRnZXb3lKUkI4WDlCcEQ4Z09MU1g?oc=5",
-      "source": "precious.jp",
+      "source": "Precious.jp",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -374,7 +424,7 @@
     {
       "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -603,30 +653,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-13T22:02:39.791Z"
-    },
-    {
-      "title": "【新業態が判明】流山街道沿いの「らぁ麺 はやし田」は「元祖焼豚センター うる寅商店」になって6/26（金）オープン！懐かしい中華そばにボリューミーなチャーシュー",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wTWtpT0pFbFdCU2NtclJlVDBXa2wzVEFKMm9fa290b3MzTTA3MVlzeGdvSE83Tzl2R3N6R0VVa2xuS1ZfNjNLRDlSY0xXTWc?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "area": "流山市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "習志野市谷津に「古民家カフェ ハナレヤ」が6/14（日）オープン予定",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DaWNMZTcyajNVNlN1SDdWQXpnRXFSaDc4UUxYenJEcEowRDNQVFNsdjhvbWctMi0yQm5WeHZhUFVObzYwdDRTWFVSenQ5MWpVY1E?oc=5",
-      "source": "funabashi-tsushin.com",
-      "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "area": "習志野市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
     }
   ]
 }
