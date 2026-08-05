@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:18:45.270Z",
+  "generatedAt": "2026-08-05T22:17:00.272Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,31 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 10
+      "count": 7
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 40
+      "count": 36
     }
   ],
-  "itemCount": 52,
+  "itemCount": 51,
   "hotpepper": {},
   "items": [
+    {
+      "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
+      "source": "ホットペッパーグルメ",
+      "pubDate": "Wed, 05 Aug 2026 20:08:48 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋",
+        "レストラン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-04T22:18:41.551Z"
+    },
     {
       "title": "【千葉・松戸市根本】焼肉ここから 松戸店が8月下旬オープン予定｜元祖ぶ厚い焼肉が松戸駅東口に",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMVRuYnpZUlFlUTVnVmlQaTVPZzQ1MmlJX2ZhQ3dlNkY3dUFuZVB1eFltQVlTcmNOaEdxSml2Q01mZ2hMLUEwVktmbVdvU0FTRFVTenc4RHNBeW5sUmt1M1pzLTk?oc=5",
@@ -55,22 +68,21 @@
       "firstSeenAt": "2026-08-04T22:18:41.554Z"
     },
     {
-      "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "ホットペッパーグルメ",
-      "pubDate": "Sat, 01 Aug 2026 15:44:03 GMT",
-      "area": "",
+      "title": "【千葉・柏市若柴】国道16号沿いに「俺屋 柏の葉店」8月1日オープン！ちゃん系×ラーショの新感覚中華そば",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWUJrNGd2WThuejZfQzUwTllxWUNabnI1Y3VQQ09lVURLb29ybEtuMjNUNGZNekZrNFh1SkthM1g2eVhuUkJqMTA1SzB4aGdQUEJZUlY3NldWeFlkVm9lVVhJbFc?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Tue, 04 Aug 2026 11:39:39 GMT",
+      "area": "柏市",
       "genres": [
-        "居酒屋",
-        "レストラン"
+        "中華"
       ],
       "signal": "opening",
-      "firstSeenAt": "2026-08-04T22:18:41.551Z"
+      "firstSeenAt": "2026-08-05T22:16:57.245Z"
     },
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
       "pubDate": "Fri, 31 Jul 2026 09:11:00 GMT",
       "area": "四街道市",
       "genres": [
@@ -119,7 +131,7 @@
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54MG9qeEdHMllxdnFHQ0l2YnVpQnFEMV9EaFdFN251QjVnSFlNdTRJWml0TEJ3Sms2Vkh5eXE4M05wcXQ4cUtXSjlnZFJjaUZDbnc?oc=5",
       "source": "船橋つうしん",
-      "pubDate": "Tue, 28 Jul 2026 00:56:16 GMT",
+      "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
         "カフェ"
@@ -141,7 +153,7 @@
       "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
       "source": "号外NET 八尾",
-      "pubDate": "Sun, 26 Jul 2026 23:00:33 GMT",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バル",
@@ -424,7 +436,7 @@
     {
       "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
-      "source": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -465,6 +477,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-26T22:05:49.245Z"
+    },
+    {
+      "title": "「ミルキー」風味のドリンクやスイーツを揃えたカフェが東北初出店。不二家の新業態「ペコちゃんmilkyタイム」3号店が福島駅西口パワーシティピボットにオープン",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zd3Y1aU1MQjNDWUhTVU4xdVB4NXZkdkRvcDAwdy1Gd1hzSVplc21hNXdQR0pxUV9oWDlfamZvTWsxenN0enBFNXB2eE15cDFzOU1Bc2k0eXRpeGV1WWZDdGhwaDZUakdwSkE?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-05T22:16:57.247Z"
     },
     {
       "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ | チバテレ＋プラス",
@@ -553,7 +577,7 @@
     {
       "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtX0p0ZUN3LTJZWF9IRjdiQlNDTEhGc3VwV3ZtTEk4VjVmSHNaaXZ4Y05BTHpNRlVoeF9mY3hYOXBIVEVnTmYyQnlQUjJHZEFmTHZ4bk40OGl5bDg?oc=5",
-      "source": "愛媛新聞",
+      "source": "ehime-np.co.jp",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
       "area": "浦安市",
       "genres": [
@@ -619,40 +643,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "南柏駅西口すぐに「和食居酒屋 大安」が2/9（月）オープン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUTUJiaXozR0FKZjN3Zm4yTE4tdzEwc2NNeFlyQnVzbzhKYWZqSmhkT3pydElycjE1R1F1Y3YxbGVOM3lNSHVQcGtBMFlhQ0U?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "馬橋駅東口前に複合型サポート施設「なのわ」がオープン、モバイル通信・就労支援・カフェを併設",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qYlRjZk5lcWQxMFViWUlmbkJVWHdpY3BTM3htUzNpazBERG5hSXZ2c0dWOWNaYjhsVHNXSUlKWnNPNkQyNTRIbk5TU0NMUmc?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "【6月26日オープン】千葉・松戸に「元祖焼豚センター うる寅商店」が降臨！はやし田跡地で「ちゃん系」の衝撃と焼豚の山に圧倒される。",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tQWtMV3V6emk4cmF4WWZ4MUNBSDB5OEhXN19hQXVhejB0RHNERUljM3NSMndOODZ4bEJTRVpKd0ZLWWxlOE1FUm5za1N5MWYwYUl3ckotNHd6WVM2U3p6NmlScHI?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-13T22:02:39.791Z"
     }
   ]
 }
