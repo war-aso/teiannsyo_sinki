@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:17:00.272Z",
+  "generatedAt": "2026-08-07T01:01:44.973Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,23 +30,35 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 36
+      "count": 34
     }
   ],
   "itemCount": 51,
   "hotpepper": {},
   "items": [
     {
+      "title": "【松山市】大街道にイタリアンの新店が8月オープン予定？現地ではオープニングスタッフ募集の掲示も。",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPYThENlh0bGlLQm95bEZKTHFEbFNoMTNUWU0ydVJvMzc5OUpkbGN2LW84ekVmQkxxbGtzWmluWGJfNzB3aGhlNkt2UWFEUllLSlpuZG5sdllybnp5U1VBYTFRUmIwQQ?oc=5",
+      "source": "matsuyama.goguynet.jp",
+      "pubDate": "Thu, 06 Aug 2026 22:29:04 GMT",
+      "area": "",
+      "genres": [
+        "イタリアン"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-08-07T01:01:42.132Z"
+    },
+    {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
       "source": "ホットペッパーグルメ",
-      "pubDate": "Wed, 05 Aug 2026 20:08:48 GMT",
+      "pubDate": "Thu, 06 Aug 2026 15:13:30 GMT",
       "area": "",
       "genres": [
         "居酒屋",
@@ -254,7 +266,7 @@
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0k5blpxMWF6aFJEX1FCYVRCbHl2RVR4NEQ4WTFyNHRVYlZtRmlReDZhdTYxYm9KZzJSdGYyUVRGTFNIME01eDk1U0dWUjg?oc=5",
-      "source": "Newscast.jp",
+      "source": "newscast.jp",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -305,7 +317,7 @@
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Sun, 12 Jul 2026 00:53:48 GMT",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "中華"
@@ -517,7 +529,7 @@
     {
       "title": "物語コーポレーション／千葉県浦安市に「焼肉きんぐ マーヴ浦安店」6月30日オープン",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ydmt6Y2lnLUE5aVZ2V1hGczFFVjZmVGlEV2paZ1NIeTR6dWdiZkdFd3lCUWwzSVFGQnNKR203aXhqbWpBTUFfT29ZZGlUREM3dEQ1MQ?oc=5",
-      "source": "流通ニュース",
+      "source": "ryutsuu.biz",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
       "area": "浦安市",
       "genres": [
@@ -577,7 +589,7 @@
     {
       "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtX0p0ZUN3LTJZWF9IRjdiQlNDTEhGc3VwV3ZtTEk4VjVmSHNaaXZ4Y05BTHpNRlVoeF9mY3hYOXBIVEVnTmYyQnlQUjJHZEFmTHZ4bk40OGl5bDg?oc=5",
-      "source": "ehime-np.co.jp",
+      "source": "愛媛新聞",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
       "area": "浦安市",
       "genres": [
@@ -629,18 +641,6 @@
       "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "元山駅近く、五香南1丁目で何やら飲食店がオープンするかも、ベトナムカフェ「ハー・グエン」跡地",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZZ0U2OTFTTUJYSVF0bHVuZWJYaUpnVWVPOE1jSGRqX0tPOUYyemJrVkRPenNsbTRZV0xmN043TnhTYjZrVWo5RFJ1T1NwaGM?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "カフェ"
-      ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
     }
