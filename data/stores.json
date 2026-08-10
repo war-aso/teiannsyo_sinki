@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:40:21.454Z",
+  "generatedAt": "2026-08-10T21:51:11.217Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 36
+      "count": 38
     }
   ],
-  "itemCount": 51,
+  "itemCount": 52,
   "hotpepper": {},
   "items": [
     {
@@ -116,18 +116,6 @@
       "firstSeenAt": "2026-08-05T22:16:57.245Z"
     },
     {
-      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Fri, 31 Jul 2026 09:11:00 GMT",
-      "area": "四街道市",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-29T22:06:18.859Z"
-    },
-    {
       "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubS00UUNFZmtqUWFlTUhUWnN0Q001UmhodEhZQmVqX25OMkFCTUVMNmh5UWVpNTAzb21ZVERFb05pSEZMeGgxV1V3ejRKYU5uQUoxcWtySW1NNFE5d0RtNHFIZkFqSFB6WXpyNlZ4ZU1hVHVfd3A1YWNn?oc=5",
       "source": "毎日キレイ",
@@ -162,6 +150,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-31T22:11:57.496Z"
+    },
+    {
+      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
+      "source": "chibanippo.co.jp",
+      "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
+      "area": "四街道市",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-29T22:06:18.859Z"
     },
     {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
@@ -202,7 +202,7 @@
       "title": "「ガールズバー、キャバクラ」…捜査員に話しかけ、風俗店に勧誘も 客引きした疑い、男7人を逮捕 埼玉県警、大宮駅や南越谷駅周辺などの歓楽街で一斉取り締まり 「客引きがあった店舗には行かないで」",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01M2tHRzRnQ1JEZHpkd3hQZHFnOTV1cEFzd2dKVGE3eUIzLVcxdE9SOXdhZi1mVFFaVUw2M2tiWnhGdzQwZFFlTVhBSQ?oc=5",
       "source": "47NEWS",
-      "pubDate": "Thu, 23 Jul 2026 03:46:00 GMT",
+      "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -248,7 +248,7 @@
     {
       "title": "北小金駅南口の庄屋跡地にオリジン系列の中華食堂「れんげ食堂 Toshu北小金店」が9月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NXNVY2tVN3UxYmRmMGtkSlZuWEtWX192TklrV01fS1hLZnNDeDRBdWlyOGpuWDBKQldBSFZJQ0FpYk8xTjduUzA0ODdZTDQ?oc=5",
-      "source": "松戸つうしん",
+      "source": "matsudo-tsushin.com",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -472,7 +472,7 @@
     {
       "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -553,7 +553,7 @@
     {
       "title": "物語コーポレーション／千葉県浦安市に「焼肉きんぐ マーヴ浦安店」6月30日オープン",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ydmt6Y2lnLUE5aVZ2V1hGczFFVjZmVGlEV2paZ1NIeTR6dWdiZkdFd3lCUWwzSVFGQnNKR203aXhqbWpBTUFfT29ZZGlUREM3dEQ1MQ?oc=5",
-      "source": "流通ニュース",
+      "source": "ryutsuu.biz",
       "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
       "area": "浦安市",
       "genres": [
@@ -633,6 +633,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-26T22:05:49.245Z"
+    },
+    {
+      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uNzFhRE5qVmYtX2g1UFJ5VVEyVjJtTFllLVNpWmF6bHVtQ19QaDV5LTlIamRfXzZVUS1pa0traDlsSnNfSWkyS21qcDJpeHV1b3daUUJOYWhvaE9hd3BraDJQVWNxYkc5ckNN?oc=5",
+      "source": "時事ドットコム",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "area": "浦安市",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-10T21:51:07.162Z"
     },
     {
       "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
