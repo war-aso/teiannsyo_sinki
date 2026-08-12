@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T21:56:56.843Z",
+  "generatedAt": "2026-08-12T21:55:33.212Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 45
+      "count": 54
     }
   ],
-  "itemCount": 53,
+  "itemCount": 54,
   "hotpepper": {},
   "items": [
     {
@@ -82,7 +82,7 @@
     {
       "title": "柏市根戸の市営住宅そばにカフェ「and coffee」が7/31（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wclJ2TUdQcnZIVEc0UXpMcnFQcWc0bGNOYUU5eFRHc2Y4M3JvS0FEVnpyeEx2Qjl0NkJBa0IyNUR1Q1FOU1FZeGdmTXQyMHM?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Fri, 07 Aug 2026 08:25:22 GMT",
       "area": "柏市",
       "genres": [
@@ -94,7 +94,7 @@
     {
       "title": "【松山市】大街道にイタリアンの新店が8月オープン予定？現地ではオープニングスタッフ募集の掲示も。",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPYThENlh0bGlLQm95bEZKTHFEbFNoMTNUWU0ydVJvMzc5OUpkbGN2LW84ekVmQkxxbGtzWmluWGJfNzB3aGhlNkt2UWFEUllLSlpuZG5sdllybnp5U1VBYTFRUmIwQQ?oc=5",
-      "source": "号外NET 松山市",
+      "source": "matsuyama.goguynet.jp",
       "pubDate": "Thu, 06 Aug 2026 22:29:04 GMT",
       "area": "",
       "genres": [
@@ -128,21 +128,22 @@
       "firstSeenAt": "2026-08-05T22:16:57.245Z"
     },
     {
-      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "area": "四街道市",
+      "title": "松戸駅東口のおでん居酒屋・桜井電気商会跡地に「焼肉ここから 松戸店」が8月下旬オープン予定、元祖ぶ厚い焼肉",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wUllnczJMa2JDMU5Nb0EweFZlZHRBZzkxQVlRbU5IUlJBdXpxYS1EdGczM1ZGLTdxblJiNFUyN251Sm5xSVRib0V3aTlzX2s?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "area": "松戸市",
       "genres": [
-        "バー"
+        "居酒屋",
+        "焼肉"
       ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-29T22:06:18.859Z"
+      "signal": "opening",
+      "firstSeenAt": "2026-08-12T21:55:29.780Z"
     },
     {
       "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubS00UUNFZmtqUWFlTUhUWnN0Q001UmhodEhZQmVqX25OMkFCTUVMNmh5UWVpNTAzb21ZVERFb05pSEZMeGgxV1V3ejRKYU5uQUoxcWtySW1NNFE5d0RtNHFIZkFqSFB6WXpyNlZ4ZU1hVHVfd3A1YWNn?oc=5",
-      "source": "mainichikirei.jp",
+      "source": "毎日キレイ",
       "pubDate": "Fri, 31 Jul 2026 01:58:55 GMT",
       "area": "長柄町",
       "genres": [
@@ -174,6 +175,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-31T22:11:57.496Z"
+    },
+    {
+      "title": "深夜営業でガールズバー４０日営業停止 四街道署",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
+      "area": "四街道市",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-07-29T22:06:18.859Z"
     },
     {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
@@ -352,7 +365,7 @@
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
