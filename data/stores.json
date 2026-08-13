@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:55:33.212Z",
+  "generatedAt": "2026-08-13T21:55:01.537Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 8
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 54
+      "count": 56
     }
   ],
-  "itemCount": 54,
+  "itemCount": 56,
   "hotpepper": {},
   "items": [
     {
@@ -82,7 +82,7 @@
     {
       "title": "柏市根戸の市営住宅そばにカフェ「and coffee」が7/31（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wclJ2TUdQcnZIVEc0UXpMcnFQcWc0bGNOYUU5eFRHc2Y4M3JvS0FEVnpyeEx2Qjl0NkJBa0IyNUR1Q1FOU1FZeGdmTXQyMHM?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Fri, 07 Aug 2026 08:25:22 GMT",
       "area": "柏市",
       "genres": [
@@ -94,7 +94,7 @@
     {
       "title": "【松山市】大街道にイタリアンの新店が8月オープン予定？現地ではオープニングスタッフ募集の掲示も。",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPYThENlh0bGlLQm95bEZKTHFEbFNoMTNUWU0ydVJvMzc5OUpkbGN2LW84ekVmQkxxbGtzWmluWGJfNzB3aGhlNkt2UWFEUllLSlpuZG5sdllybnp5U1VBYTFRUmIwQQ?oc=5",
-      "source": "matsuyama.goguynet.jp",
+      "source": "号外NET 松山市",
       "pubDate": "Thu, 06 Aug 2026 22:29:04 GMT",
       "area": "",
       "genres": [
@@ -204,7 +204,7 @@
       "title": "【続報】松戸駅西口の「たい焼ききくや」跡地に「鮨処 すし白川」が8/10（月）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMTc3aW9ydkNQMHdHSDBFSFlheTFaLUx0eFhneDNFQlRRb0cwcnZPODlBLWxyNms5Rlkyc0xtRjhRemNBRHNPN3AtUjJYMW8?oc=5",
       "source": "松戸つうしん",
-      "pubDate": "Mon, 27 Jul 2026 09:08:14 GMT",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "area": "松戸市",
       "genres": [],
       "signal": "opening",
@@ -365,7 +365,7 @@
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -518,6 +518,18 @@
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
     },
     {
+      "title": "夏見1丁目の焼肉やまと駐車場に「コインランドリー ホワイトピア」がオープン、ペット用専用コインランドリースペースも併設",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zaUVqQ3BFeEZDNGlucUMyeVE2OF9ZeThCcmVrY0RkMEtSakhVRUlKMkJCYVhTUG9Lejg5alF2a3IzYWlsMUJoYks2NmdMT3pWdVE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "焼肉"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-13T21:54:59.120Z"
+    },
+    {
       "title": "炭火と蒸籠スミムス",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WU2RfYlZuZ0lGY2NTYWYtempnVWl3OTAyMmk4cWN2R2ZxYjdVS05PUXBRSlFUNVBvVG9zVHo4S3QzZm03bzBYVUJYWk95dWpY?oc=5",
       "source": "ホットペッパーグルメ",
@@ -526,6 +538,18 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-22T22:12:03.662Z"
+    },
+    {
+      "title": "屋外プール一新 レストラン開業 ヒルトン東京ベイ",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VUhrMGMzNVR6UzRPV3pQZlNELWd5LV9ObGd3dEJOZ2h3M0FoTm56MXZSbDNFMXNDbmYzRXVxNDV0VXJzMml1NUdlY04zY0thX3c0?oc=5",
+      "source": "東京新聞デジタル",
+      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "レストラン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-13T21:54:59.117Z"
     },
     {
       "title": "人気寿司店“鮨よしかわ”の新店「鮨よしかわ 新 -ARATA- 六本木」オープン",
