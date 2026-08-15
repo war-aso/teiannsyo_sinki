@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:32:16.151Z",
+  "generatedAt": "2026-08-15T21:28:21.402Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 56
+      "count": 58
     }
   ],
-  "itemCount": 59,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
     {
@@ -70,7 +70,7 @@
     {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "hotpepper.jp",
+      "source": "ホットペッパーグルメ",
       "pubDate": "Tue, 11 Aug 2026 05:14:49 GMT",
       "area": "",
       "genres": [
@@ -93,10 +93,10 @@
       "firstSeenAt": "2026-08-11T21:56:53.409Z"
     },
     {
-      "title": "勝田台 ガールズバー S2 店内動画 Tage Thompson (IiB2fBF0gu)",
+      "title": "勝田台 ガールズバー S2 店内動画 Tage Thompson (tIiB2fBF0g)",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVGYyM0ltXzNHLVdQOVBKWjZDcmk3N2dMR0dsaEZ6U3YwVkNGdDVQREpJS2dBakNySVlDRDJKZ2hlMlFuTXpVV3hFTHktcEVqNXlmdnk5aVF3Z1E?oc=5",
       "source": "Mshale",
-      "pubDate": "Sat, 08 Aug 2026 04:42:58 GMT",
+      "pubDate": "Sat, 08 Aug 2026 04:42:59 GMT",
       "area": "八千代市",
       "genres": [
         "バー"
@@ -216,7 +216,7 @@
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
       "area": "四街道市",
       "genres": [
@@ -250,7 +250,7 @@
     {
       "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
-      "source": "yao.goguynet.jp",
+      "source": "号外NET 八尾",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -364,7 +364,7 @@
     {
       "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bEtGS0FxRzkyZEFpcko2S0NhLURFRU1EUUtWcHBBclNkdW1HOEhReDIzQllyZVFJejhJeTR5TnJGYWM2MzZCWjkxZFpNX0szNzI3UHM0OXd5aWV4QVlOUFdQbjhlYkE?oc=5",
-      "source": "J-CAST ニュース",
+      "source": "j-cast.com",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -534,7 +534,7 @@
     {
       "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -579,7 +579,7 @@
     {
       "title": "屋外プール一新 レストラン開業 ヒルトン東京ベイ",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VUhrMGMzNVR6UzRPV3pQZlNELWd5LV9ObGd3dEJOZ2h3M0FoTm56MXZSbDNFMXNDbmYzRXVxNDV0VXJzMml1NUdlY04zY0thX3c0?oc=5",
-      "source": "東京新聞",
+      "source": "tokyo-np.co.jp",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -623,126 +623,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "【待望の西口進出】柏の人気店「藁焼き酒場 わらいち」がオープン予定！柏市場直送のカツオを五感で楽しむ居酒屋",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iQ1FZZFBXeEt6bmwwbi1WaVlWdUM4SFN2eDNiNTJ6NFRsblJsRUZTNmNXTVFKTmtGUVBMdFVkbFR3V1ZseGRYT3BmeXJPbVFxVE1MNzFmemFZRFJzeUt4cnJfTFE?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "物語コーポレーション／千葉県浦安市に「焼肉きんぐ マーヴ浦安店」6月30日オープン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ydmt6Y2lnLUE5aVZ2V1hGczFFVjZmVGlEV2paZ1NIeTR6dWdiZkdFd3lCUWwzSVFGQnNKR203aXhqbWpBTUFfT29ZZGlUREM3dEQ1MQ?oc=5",
-      "source": "流通ニュース",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydnJWUVkzbGkwLWtfNzNGMnlDeFNmNXhGVzRxanpiN2RfaVR6Z2ZlVktBTm1xNDVIVHNuQTluYWYwNVdaMUZwb2pRM0QwWFlVaFBTTGdkSFM4OHc?oc=5",
-      "source": "朝日新聞",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6⽉30⽇(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lWFRNZXg4YWdCMS1zYm92VThDcld4WG5qcFZTRzhqYW9kNVlkckZRM2RxSzB3OTZhNVB5YmtCNlJvQzlfdXo4eko0Tkt2b1l3aUZ0dVhGWExBNkVjS04zXzBUZnF3dkJxWXc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.795Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jM1QybVhBXzNWY2NWZnNGS0dkWVk3Y2RkOVR1MG9nLWFZdG03NTR6bjdDaXpqa21jYnNwUlZnYjF2eG01dURTUTJvb21fMzg?oc=5",
-      "source": "紀伊民報AGARA",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-13T22:02:39.791Z"
-    },
-    {
-      "title": "『焼肉きんぐ』アプリについて",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MekJCTUZqeVhiTFBELWVESS1INmxheWtjZkROOXJ5aXcxeUpmZURPMG10eFNNYk1nTkJGY1dlaHdnWW43Y280SHVwSlZLVGhYQnFZSTRrbEZDLS1yRkE?oc=5",
-      "source": "eltha",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-15T22:08:54.216Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtX0p0ZUN3LTJZWF9IRjdiQlNDTEhGc3VwV3ZtTEk4VjVmSHNaaXZ4Y05BTHpNRlVoeF9mY3hYOXBIVEVnTmYyQnlQUjJHZEFmTHZ4bk40OGl5bDg?oc=5",
-      "source": "愛媛新聞",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-19T21:59:41.238Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HTV9maEw4TURQdUxZd05KcjI5ZzJiOFVpaXpfelRXeHF2RDV4cWd4SldyeG8tbE51Sk43eE0zZlhvWG14Tmx3RXVZZWhQNTZXU1RSNXNn?oc=5",
-      "source": "フーズチャネル",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-26T22:05:49.245Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uNzFhRE5qVmYtX2g1UFJ5VVEyVjJtTFllLVNpWmF6bHVtQ19QaDV5LTlIamRfXzZVUS1pa0traDlsSnNfSWkyS21qcDJpeHV1b3daUUJOYWhvaE9hd3BraDJQVWNxYkc5ckNN?oc=5",
-      "source": "時事ドットコム",
-      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-10T21:51:07.162Z"
-    },
-    {
-      "title": "【焼肉きんぐ】『焼肉きんぐ マーヴ浦安店』が2026年6月30日(火)グランドオープン！",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hQlIxcnRYS01nZG81QUdPSktPeDNBNUM2SUVXWHZ2TnZ1UTdXaXJHNk5yUnd0ZWVLaXp3d1BDYlJzRTd6NUs5U2k2MGFJeFF3MVp0bWp6TQ?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Tue, 16 Jun 2026 02:01:56 GMT",
-      "area": "浦安市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-10T08:25:43.435Z"
     }
   ]
 }
