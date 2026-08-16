@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T21:28:21.402Z",
+  "generatedAt": "2026-08-16T21:27:34.188Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,30 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 14
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 58
+      "count": 52
     }
   ],
-  "itemCount": 49,
+  "itemCount": 50,
   "hotpepper": {},
   "items": [
+    {
+      "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUVFLOGpUcHR2X2xXZVFuUTdfaDdoV0J1TXcwOGFscDB0WjBXT2oxNDUtbmhPeGd2LTQtaXR4N25Tbkpwc2QxT0FLTG1NZkJWd1E?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Sat, 15 Aug 2026 02:23:39 GMT",
+      "area": "船橋市",
+      "genres": [
+        "韓国料理"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-16T21:27:28.305Z"
+    },
     {
       "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
@@ -214,9 +226,21 @@
       "firstSeenAt": "2026-07-31T22:11:57.496Z"
     },
     {
+      "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も｜Infoseekニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsaTZuMXh3T21WdnZCNnFLYmxNaXF3Y2RNcU5aeC11N1dNRm9VWXJqWnp0VEJJUmFlUEpUWXkzNkxzSVpfZEpuMEwtRDVDTTB0dUFzeHVnX2VwVWJ1bGxXSUk4WUloaGR1WnI2a0t1bWd4dw?oc=5",
+      "source": "Infoseek",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "area": "長柄町",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-16T21:27:28.306Z"
+    },
+    {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
       "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
       "area": "四街道市",
       "genres": [
@@ -364,7 +388,7 @@
     {
       "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bEtGS0FxRzkyZEFpcko2S0NhLURFRU1EUUtWcHBBclNkdW1HOEhReDIzQllyZVFJejhJeTR5TnJGYWM2MzZCWjkxZFpNX0szNzI3UHM0OXd5aWV4QVlOUFdQbjhlYkE?oc=5",
-      "source": "j-cast.com",
+      "source": "J-CAST ニュース",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -534,7 +558,7 @@
     {
       "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
-      "source": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
       "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -579,7 +603,7 @@
     {
       "title": "屋外プール一新 レストラン開業 ヒルトン東京ベイ",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VUhrMGMzNVR6UzRPV3pQZlNELWd5LV9ObGd3dEJOZ2h3M0FoTm56MXZSbDNFMXNDbmYzRXVxNDV0VXJzMml1NUdlY04zY0thX3c0?oc=5",
-      "source": "tokyo-np.co.jp",
+      "source": "東京新聞",
       "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -611,18 +635,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-05T22:16:57.247Z"
-    },
-    {
-      "title": "千葉県「佐倉市立美術館」にカフェがオープン！多彩なメニューをラインナップ | チバテレ＋プラス",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53cFBPZFRmZzZfUVk1WlVibWxvalFYM2ZzNTI1U1p5S1lhLXNLWVNjQWFzWVVjenFoeEhsUWxMaGNWR1Nxb1U1NmI3UlJka2FUYVR5ZkYzR1BOU2NRRmtz0gFkQVVfeXFMUEh1cnNkRmpJTENZYkp6dXI5bUpfR1ZhUmFNS2dwd0thWVd6b2NfZTVrVFAxb09BZUdjUEIxZmRUVjR1N2swekNIWUpSZF9Zd2kzY3VEYWFKaXVvaWhWWUFoYzFUMQ?oc=5",
-      "source": "千葉テレビ放送",
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "area": "佐倉市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.796Z"
     }
   ]
 }
