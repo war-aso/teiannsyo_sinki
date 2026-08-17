@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T21:27:34.188Z",
+  "generatedAt": "2026-08-17T21:32:36.526Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,30 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 14
+      "count": 15
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 52
+      "count": 45
     }
   ],
   "itemCount": 50,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVG1oVHZrV21mQVJjc2dpRFRXZkNNM2hFaDRua1JobHIyLVBiTTQxYTBvRXFCclkyUVY0OWRLWXZfM3JjMnVlRkYwU3FSN1p2S0k0?oc=5",
+      "source": "STRAIGHT PRESS",
+      "pubDate": "Mon, 17 Aug 2026 11:41:04 GMT",
+      "area": "長柄町",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-17T21:32:29.762Z"
+    },
     {
       "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUVFLOGpUcHR2X2xXZVFuUTdfaDdoV0J1TXcwOGFscDB0WjBXT2oxNDUtbmhPeGd2LTQtaXR4N25Tbkpwc2QxT0FLTG1NZkJWd1E?oc=5",
@@ -67,7 +79,7 @@
       "firstSeenAt": "2026-08-14T21:32:13.589Z"
     },
     {
-      "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン | 株式会社一家ホールディングスのプレスリリース",
+      "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
       "source": "PR TIMES",
       "pubDate": "Thu, 13 Aug 2026 07:10:02 GMT",
@@ -324,7 +336,7 @@
     {
       "title": "京成西船駅前に麻辣湯のお店「小辣椒 マーラータン店」がオープン予定、現在オープニングスタッフ募集中",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GcTZGSHZHYVBxcDBGUWhfa1psdjg4VnRmTVgwZ0QxSldjVWZUNjlJMVFYM09HRFp4RTRKV0Z2U2Vfb1FEUjk5ZzNXdTdVSVRGNVE?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Sat, 18 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [],
@@ -414,7 +426,7 @@
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pbEUtVnpBdWh3MWg1LW40N2J5a05DRGtXY0tidUtCN2gtcVlZRUcydFhMZ2pucW1zUmJ4cmtLdGEzeUUweXNEaGQxZ3pudw?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -623,18 +635,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-26T22:05:49.245Z"
-    },
-    {
-      "title": "「ミルキー」風味のドリンクやスイーツを揃えたカフェが東北初出店。不二家の新業態「ペコちゃんmilkyタイム」3号店が福島駅西口パワーシティピボットにオープン",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zd3Y1aU1MQjNDWUhTVU4xdVB4NXZkdkRvcDAwdy1Gd1hzSVplc21hNXdQR0pxUV9oWDlfamZvTWsxenN0enBFNXB2eE15cDFzOU1Bc2k0eXRpeGV1WWZDdGhwaDZUakdwSkE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-05T22:16:57.247Z"
     }
   ]
 }
