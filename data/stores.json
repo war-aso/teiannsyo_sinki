@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T21:32:36.526Z",
+  "generatedAt": "2026-08-18T21:31:07.616Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,7 +30,7 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 15
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
@@ -39,7 +39,7 @@
       "count": 45
     }
   ],
-  "itemCount": 50,
+  "itemCount": 52,
   "hotpepper": {},
   "items": [
     {
@@ -53,6 +53,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-17T21:32:29.762Z"
+    },
+    {
+      "title": "【8/31グランドOPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくすぐるイタリアン",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45blVBLU82ZHNqcjBsMkUtS1RRNC14TUcxRGp3eXJKNkdWeUFOMnRWN3Y5dzBjTk1FckZkZ0xkOHlQeDFtS3Fhc2ZDcnNhWXFkamMxaFVWODZ5RHMyQzNyNDBLdHlZT1BnY1ZNZlQ5bWxPUXVGTVE?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Mon, 17 Aug 2026 01:21:28 GMT",
+      "area": "",
+      "genres": [
+        "イタリアン",
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-18T21:31:04.285Z"
     },
     {
       "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
@@ -144,7 +157,7 @@
       "title": "【松山市】大街道にイタリアンの新店が8月オープン予定？現地ではオープニングスタッフ募集の掲示も。",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPYThENlh0bGlLQm95bEZKTHFEbFNoMTNUWU0ydVJvMzc5OUpkbGN2LW84ekVmQkxxbGtzWmluWGJfNzB3aGhlNkt2UWFEUllLSlpuZG5sdllybnp5U1VBYTFRUmIwQQ?oc=5",
       "source": "号外NET 松山市",
-      "pubDate": "Thu, 06 Aug 2026 22:29:04 GMT",
+      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "イタリアン"
@@ -202,6 +215,16 @@
       "firstSeenAt": "2026-08-14T21:32:13.592Z"
     },
     {
+      "title": "【7月25日オープン】千葉県野田市に新店「麺屋 虎と雷」誕生！迫力の虎×雷神ロゴが目印",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BdUNaN2REMVFhWUNoMVpaZjlCa1BtLW82bVJRSWlGemMwNG5PS2t1R3Z1aXMtSEpJU2xDUDAxX0pzQk96T2s3VE15SWdkTmZsRVhBczFvZ2JMbWNGNEVOUGdwWUc?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "area": "野田市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-18T21:31:04.285Z"
+    },
+    {
       "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ubS00UUNFZmtqUWFlTUhUWnN0Q001UmhodEhZQmVqX25OMkFCTUVMNmh5UWVpNTAzb21ZVERFb05pSEZMeGgxV1V3ejRKYU5uQUoxcWtySW1NNFE5d0RtNHFIZkFqSFB6WXpyNlZ4ZU1hVHVfd3A1YWNn?oc=5",
       "source": "毎日キレイ",
@@ -253,7 +276,7 @@
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
       "source": "千葉日報オンライン",
-      "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
       "area": "四街道市",
       "genres": [
         "バー"
@@ -286,7 +309,7 @@
     {
       "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
-      "source": "号外NET 八尾",
+      "source": "yao.goguynet.jp",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -426,7 +449,7 @@
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pbEUtVnpBdWh3MWg1LW40N2J5a05DRGtXY0tidUtCN2gtcVlZRUcydFhMZ2pucW1zUmJ4cmtLdGEzeUUweXNEaGQxZ3pudw?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
