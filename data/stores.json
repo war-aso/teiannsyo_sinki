@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:31:07.616Z",
+  "generatedAt": "2026-08-19T21:32:31.735Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 45
+      "count": 51
     }
   ],
   "itemCount": 52,
@@ -169,7 +169,7 @@
       "title": "【千葉・松戸市根本】焼肉ここから 松戸店が8月下旬オープン予定｜元祖ぶ厚い焼肉が松戸駅東口に",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMVRuYnpZUlFlUTVnVmlQaTVPZzQ1MmlJX2ZhQ3dlNkY3dUFuZVB1eFltQVlTcmNOaEdxSml2Q01mZ2hMLUEwVktmbVdvU0FTRFVTenc4RHNBeW5sUmt1M1pzLTk?oc=5",
       "source": "gummaumaimono.info",
-      "pubDate": "Tue, 04 Aug 2026 15:56:42 GMT",
+      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
       "area": "松戸市",
       "genres": [
         "焼肉"
@@ -309,7 +309,7 @@
     {
       "title": "【八尾市】久宝寺駅近くに中華バル「スタンド フジサン」が7月22日頃オープン予定！オープニングスタッフも募集中",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ3hpcjBYYW5SdC15RGJQY2R0SmVJRmhSZDV5UUFDTkYtYmQzOXF2UjV5cE5yTkVfdXkyakY4enJfdFd5VmtjdzdOTUFyUDg3NXlNWDNoVXU4a2NKbWdYMzlUUQ?oc=5",
-      "source": "yao.goguynet.jp",
+      "source": "号外NET 八尾",
       "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
