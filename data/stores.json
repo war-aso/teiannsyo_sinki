@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T21:31:40.313Z",
+  "generatedAt": "2026-08-22T21:28:47.129Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,13 +30,13 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 50
+      "count": 56
     }
   ],
   "itemCount": 55,
@@ -107,7 +107,7 @@
       "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Fri, 14 Aug 2026 08:36:21 GMT",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "中華"
@@ -507,6 +507,16 @@
       "firstSeenAt": "2026-07-12T21:58:23.041Z"
     },
     {
+      "title": "【祝！復活】惜しまれつつ閉店した「中国料理 川菜味」が湊町2丁目に移転して7/16（木）復活オープン！ココイチの上",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOEg5bVNpZTFHcXotd3lTZ05xc000UHFVQkFKLS1DNFdqdVZhSU9wcE4wZEdpRTZBWDRldXFTRVB2RndweHZFaGh0TnZ5NDYxelE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-22T21:28:43.736Z"
+    },
+    {
       "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑（ANNニュース）",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02VURDS0ZLN1poLUg0Z2ZrVzZmNjBNekU3ZUo3bFl0YnBfX0R6X09KRVZQZ2VtUkhfN2tUTFN3RW1uSUFMV01lZGhIYV9lVU1ZNHhMOHlSTGdtX0FfMmpwT1h0Tng?oc=5",
       "source": "nagoyatv.com",
@@ -682,18 +692,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-13T21:54:59.117Z"
-    },
-    {
-      "title": "人気寿司店“鮨よしかわ”の新店「鮨よしかわ 新 -ARATA- 六本木」オープン",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vTHFQVEJCR1RsTmh4THRSbktEdWtINUxMU2xRSlBLczNRLV9GRXFEQ1lGakh4Sy0zYnA3NmE0bndnWUV4V3BJTlBqV3VGMUhPMFRsb3ZjTHRtSGk3XzZR?oc=5",
-      "source": "千葉テレビ放送",
-      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "寿司"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-26T22:05:49.245Z"
     }
   ]
 }
