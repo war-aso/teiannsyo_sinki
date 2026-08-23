@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T21:28:47.129Z",
+  "generatedAt": "2026-08-23T21:28:27.745Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 56
+      "count": 55
     }
   ],
   "itemCount": 55,
@@ -119,7 +119,7 @@
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
       "source": "PR TIMES",
-      "pubDate": "Thu, 13 Aug 2026 07:10:02 GMT",
+      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "居酒屋",
@@ -379,6 +379,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-23T22:10:10.418Z"
+    },
+    {
+      "title": "下関・安岡地区にビュッフェ形式のレストランオープン！揚げたて天ぷらを提供するライブキッチンも",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vd0U1WmF6RVNpUnkxTWZwZUdDQmlJWGU3WG5EUThET2o0QzRqb3RHcjhYcFlWUk1SR1V0b3FURjlneWxRRllWdFdhQnVNN2FzbDhSMENSUQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "レストラン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-23T21:28:24.629Z"
     },
     {
       "title": "船橋駅南口近くにタコス＆カフェ「サンズ・タケリア」が7/19（日）からオープン、キャッシュレス決済のみ",
@@ -680,18 +692,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-22T22:12:03.662Z"
-    },
-    {
-      "title": "屋外プール一新 レストラン開業 ヒルトン東京ベイ",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4VUhrMGMzNVR6UzRPV3pQZlNELWd5LV9ObGd3dEJOZ2h3M0FoTm56MXZSbDNFMXNDbmYzRXVxNDV0VXJzMml1NUdlY04zY0thX3c0?oc=5",
-      "source": "東京新聞",
-      "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-13T21:54:59.117Z"
     }
   ]
 }
