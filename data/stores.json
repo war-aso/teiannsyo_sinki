@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T21:28:27.745Z",
+  "generatedAt": "2026-08-24T21:36:33.460Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 7
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 55
+      "count": 49
     }
   ],
-  "itemCount": 55,
+  "itemCount": 56,
   "hotpepper": {},
   "items": [
     {
@@ -200,6 +200,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-08-07T01:01:42.132Z"
+    },
+    {
+      "title": "新静岡セノバに「シェア型レストラン」オープン 初期費用を抑えて\"お試し出店\"できる新たな営業スタイル＝静岡市",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyX0JwekphalFuM1RlUVIwTExBcldUQUVVV1dhV0U1OW43emVjZmRTUUJieE5hOGduRzE2RmNiWThOTXdGYzZZb2Q0Mmkyb2x5Q1NmVVFaNA?oc=5",
+      "source": "TBS NEWS DIG",
+      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "レストラン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-24T21:36:30.075Z"
     },
     {
       "title": "【千葉・松戸市根本】焼肉ここから 松戸店が8月下旬オープン予定｜元祖ぶ厚い焼肉が松戸駅東口に",
@@ -636,6 +648,18 @@
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
     },
     {
+      "title": "【倒産】わずか1年足らずで破産…2025年6月オープンの居酒屋を運営 キッズメニュー・飲み放題メニュー追加などリニューアル行うも、集客に苦戦…破産開始決定 | BSSニュース | BSS山陰放送 (1ページ)",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kb0dua2diTWxSbWUtb1BDaUtCZmJBdk5JTTVIZEhUNG1vZF9qbWhvOFd5dFBjU3FnVDNqekk3TGFlOHNNUjY3YXVwQjk2WWVMbThmbE9RS3FYN1pJT1FfUTdxSk9kR0k?oc=5",
+      "source": "TBS NEWS DIG",
+      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-24T21:36:30.076Z"
+    },
+    {
       "title": "クラフトビール専門カフェが成田空港にオープン　搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vVHQzYXlsM0loc3VUUTlxajVESHU5QjJ0a3NYVXBDUUVvakdXYlJKSjZqV3l2WGc4T0JtQV9fS3UwbkRJZldrN05KckZJUzJEbklTX1VvZ3NoUFo3ekVvZ2JrUGhfbWt4RmdSdjZDaWg2akxLUnMzUkdKR3NCQdIBgwFBVV95cUxOVGlQbzM1c0M5Z1BxYmZVSUpiNkRjTDJNeXVRTGZlYlBCaGx6ODNxa2NlR1hZTXEtaXNiN3Q5bHJjN3IxS0VudERBakhIeFN4MFBNcnI0RmY0NDNzVURKOExFS2swNzlhRTZzdTVBeUFpWTQ0aklKdThBRVBVdkpMTC1LVQ?oc=5",
       "source": "ｄメニューニュース",
@@ -682,16 +706,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-13T21:54:59.120Z"
-    },
-    {
-      "title": "炭火と蒸籠スミムス",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WU2RfYlZuZ0lGY2NTYWYtempnVWl3OTAyMmk4cWN2R2ZxYjdVS05PUXBRSlFUNVBvVG9zVHo4S3QzZm03bzBYVUJYWk95dWpY?oc=5",
-      "source": "ホットペッパーグルメ",
-      "pubDate": "Wed, 24 Jun 2026 22:03:12 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-22T22:12:03.662Z"
     }
   ]
 }
