@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:36:33.460Z",
+  "generatedAt": "2026-08-25T21:35:58.256Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 49
+      "count": 43
     }
   ],
-  "itemCount": 56,
+  "itemCount": 54,
   "hotpepper": {},
   "items": [
     {
@@ -648,6 +648,19 @@
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
     },
     {
+      "title": "\"日本三大秘境\"宮崎県椎葉村 待望のレストランとスナックがオープンへ",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oUTFLU1k5ZmZRaktjbXh3QmZkdXMtRlJaR3N4QlNab0pqR09ReDRpMzJrbXp4U2ZyYWE3a01sUjdwQk1HanljM1RJRFZiY3dlQTE4c256M1Ezd3kzc1lyZ3RIbS13aGM?oc=5",
+      "source": "TBS NEWS DIG",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "レストラン",
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-25T21:35:54.155Z"
+    },
+    {
       "title": "【倒産】わずか1年足らずで破産…2025年6月オープンの居酒屋を運営 キッズメニュー・飲み放題メニュー追加などリニューアル行うも、集客に苦戦…破産開始決定 | BSSニュース | BSS山陰放送 (1ページ)",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kb0dua2diTWxSbWUtb1BDaUtCZmJBdk5JTTVIZEhUNG1vZF9qbWhvOFd5dFBjU3FnVDNqekk3TGFlOHNNUjY3YXVwQjk2WWVMbThmbE9RS3FYN1pJT1FfUTdxSk9kR0k?oc=5",
       "source": "TBS NEWS DIG",
@@ -671,41 +684,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.796Z"
-    },
-    {
-      "title": "クラフトビール専門カフェが成田空港にオープン 搭乗前に地ビール飲み比べ、千葉県内食材使ったソーセージやライスバーガーも",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNGNLd0JrMDVlekM2RDY3ZnJ6RDFzZmp5QjlfOTZTSjViQm1qRzc0WmROdzA3WEpNOVpWWF81NzdnbmlmdEFkRnQ5NW90WldjLXpBQTBEVVI?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ",
-        "バー"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-10T08:25:43.437Z"
-    },
-    {
-      "title": "【千葉県初出店】「焼鳥 蕎麦 二尺五寸」マーヴ浦安店を2026年6月30日(火)オープンいたします。",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QdXp1b2N5YUlNcXVQaUtTYWhiVEZiU05Qd0MtZmtRNzVHNnY5QVhYX1FCRU4zZFFjZWZ3Yk1DSjVySEU4LTdzSTE5bXFTUjNleUJwbjIzOXJQWDNRVER3NzFwejBfbU1GdEE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "area": "浦安市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "夏見1丁目の焼肉やまと駐車場に「コインランドリー ホワイトピア」がオープン、ペット用専用コインランドリースペースも併設",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zaUVqQ3BFeEZDNGlucUMyeVE2OF9ZeThCcmVrY0RkMEtSakhVRUlKMkJCYVhTUG9Lejg5alF2a3IzYWlsMUJoYks2NmdMT3pWdVE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-13T21:54:59.120Z"
     }
   ]
 }
