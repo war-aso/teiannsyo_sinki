@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T23:12:32.202Z",
+  "generatedAt": "2026-08-30T23:22:15.540Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 45
+      "count": 48
     }
   ],
-  "itemCount": 68,
+  "itemCount": 69,
   "hotpepper": {},
   "items": [
+    {
+      "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GemxCcWhZUXdYb0xKTGtsNnJlSVhrclo4VHRtTk1jdS1WcGpjd2lPZTlEdlFvSGVkS3NERnJZNGFIQlBzQUd4VURkQUdqOUFwckhLVUhiREVPdGpEcWNBYlNGVURoSEw4UHczcWdPUzRDcjJYdUdIT2dvQ1dQaHc?oc=5",
+      "source": "Yahoo!ニュース",
+      "pubDate": "Sun, 30 Aug 2026 09:02:46 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-30T23:22:11.235Z"
+    },
     {
       "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaUDYxNnNUOFo3cm9fY0k4aWhDVzJia3o2RU15SUNjWlp3YVlOUG51Nmc3T1ExQzJ6M2VNS01XOXp6SjhHLUk4REhkOTV5eUY2NWpR?oc=5",
@@ -114,6 +126,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-08-27T00:37:59.523Z"
+    },
+    {
+      "title": "国分町のガールズバー無許可風俗営業で家宅捜索 風営法違反容疑で店長とみられる女ら計4人逮捕",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOERaejU2YXVIcmV4RlE2U3FRWkVad2c1YmpGVVFpUVhHSzlabkNyTmhIb0M0VkRWOHhRX2d2ZlA5ci1qamNiTGROLURzaFBfX2k1SjFJM284akREVGZN?oc=5",
+      "source": "TBS NEWS DIG",
+      "pubDate": "Wed, 26 Aug 2026 00:56:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-08-30T23:22:11.236Z"
     },
     {
       "title": "無許可で客の隣に座り接待か 国分町のガールズバー経営者ら逮捕＜宮城・仙台＞",
@@ -224,19 +248,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-14T21:32:13.586Z"
-    },
-    {
-      "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "ホットペッパーグルメ",
-      "pubDate": "Tue, 11 Aug 2026 05:14:49 GMT",
-      "area": "",
-      "genres": [
-        "居酒屋",
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-04T22:18:41.551Z"
     },
     {
       "title": "【ドッグホテル】２０２３年３月千葉県富津市にオープンしたイタリアングレイハウンド限定リゾートドッグホテルBESTIEの紹介です Cdl (BTI6ys5CXe)",
@@ -452,6 +463,29 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-29T03:07:57.539Z"
+    },
+    {
+      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-08-30T23:22:11.236Z"
+    },
+    {
+      "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
+      "source": "ホットペッパーグルメ",
+      "pubDate": "Wed, 29 Jul 2026 22:40:31 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋",
+        "レストラン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-04T22:18:41.551Z"
     },
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
@@ -829,30 +863,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-25T21:35:54.155Z"
-    },
-    {
-      "title": "【倒産】わずか1年足らずで破産…2025年6月オープンの居酒屋を運営 キッズメニュー・飲み放題メニュー追加などリニューアル行うも、集客に苦戦…破産開始決定 | BSSニュース | BSS山陰放送 (1ページ)",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kb0dua2diTWxSbWUtb1BDaUtCZmJBdk5JTTVIZEhUNG1vZF9qbWhvOFd5dFBjU3FnVDNqekk3TGFlOHNNUjY3YXVwQjk2WWVMbThmbE9RS3FYN1pJT1FfUTdxSk9kR0k?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-24T21:36:30.076Z"
-    },
-    {
-      "title": "【倒産】わずか1年足らずで破産…2025年6月オープンの居酒屋を運営 キッズメニュー・飲み放題メニュー追加などリニューアル行うも、集客に苦戦…破産開始決定",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHb2FSYlQ0SVNtWmduc0Qxa0tCODlZSWZmNEtJZk14eXZTNFQ5OExJRlcwS2NLOWdETUFRdW83d2lSdDRGeHJnZm92a1AtZzdVMW1sYW9Xcw?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-29T03:07:57.536Z"
     }
   ]
 }
