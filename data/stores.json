@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T00:31:53.855Z",
+  "generatedAt": "2026-09-01T23:13:41.735Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,28 +24,28 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 2
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 46
+      "count": 37
     }
   ],
-  "itemCount": 69,
+  "itemCount": 70,
   "hotpepper": {},
   "items": [
     {
       "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Mon, 31 Aug 2026 07:03:19 GMT",
       "area": "柏市",
       "genres": [
@@ -128,6 +128,18 @@
       "firstSeenAt": "2026-08-28T05:11:35.478Z"
     },
     {
+      "title": "ぼったくり相談で発覚 無許可でのガールズバー営業容疑で男女4人逮捕 警察は認否を明らかにせず 仙台",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcVNzSkRfRFRaMEpfZzU3TXNGaDYwZDhseWJvUWhHdElhazVHZHBqeDdsVndPZTNTMFFScDJjX1QyLU1fN3BCckJfNzFnWkUyRUxiRXRteWd3dw?oc=5",
+      "source": "TBS NEWS DIG",
+      "pubDate": "Wed, 26 Aug 2026 09:11:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-01T23:13:37.374Z"
+    },
+    {
       "title": "国分町のガールズバー無許可風俗営業で家宅捜索 風営法違反容疑で店長とみられる女ら計4人逮捕",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSV8takV1U3hST2NjckdwR2hwTFRRNi13NDdsMy1mQTB3aE14Z2NkdHRtNTdUWFUwd2x3ekMzYUh1RG9vNjJBbXRTTjhadXBWS2trdlFOWVpqdw?oc=5",
       "source": "TBS NEWS DIG",
@@ -198,6 +210,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-20T21:35:15.617Z"
+    },
+    {
+      "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhlQ1NDeFYzSlJub2FLV19jWjFCbzVMV25seWQxVnMtN01PMzFUNHdUMGRkbFlJeC1QalZvOFkxNnQ1SU9oRzh0WQ?oc=5",
+      "source": "ガジェット通信",
+      "pubDate": "Mon, 17 Aug 2026 10:45:56 GMT",
+      "area": "長柄町",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-01T23:13:37.373Z"
     },
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
@@ -725,7 +749,7 @@
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pbEUtVnpBdWh3MWg1LW40N2J5a05DRGtXY0tidUtCN2gtcVlZRUcydFhMZ2pucW1zUmJ4cmtLdGEzeUUweXNEaGQxZ3pudw?oc=5",
-      "source": "アットプレス",
+      "source": "atpress.ne.jp",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -737,7 +761,7 @@
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -847,18 +871,6 @@
       "area": "",
       "genres": [
         "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "船橋市三山2丁目に居酒屋「芯」がオープン",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JZkdRM0pxb1lvcGFjT2E4WWFfYlI5LVNibU5XSmFOSDdPVXh2WkZLMUlueG0zcV9KcUVwR2dSdUdKNmZQVDc2Q3l0MEZuUGkyY0E?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋"
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
