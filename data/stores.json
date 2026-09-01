@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:22:15.540Z",
+  "generatedAt": "2026-09-01T00:31:53.855Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 48
+      "count": 46
     }
   ],
   "itemCount": 69,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
+      "source": "kashiwa-tsushin.com",
+      "pubDate": "Mon, 31 Aug 2026 07:03:19 GMT",
+      "area": "柏市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-01T00:31:50.625Z"
+    },
     {
       "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GemxCcWhZUXdYb0xKTGtsNnJlSVhrclo4VHRtTk1jdS1WcGpjd2lPZTlEdlFvSGVkS3NERnJZNGFIQlBzQUd4VURkQUdqOUFwckhLVUhiREVPdGpEcWNBYlNGVURoSEw4UHczcWdPUzRDcjJYdUdIT2dvQ1dQaHc?oc=5",
@@ -190,8 +202,8 @@
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVG1oVHZrV21mQVJjc2dpRFRXZkNNM2hFaDRua1JobHIyLVBiTTQxYTBvRXFCclkyUVY0OWRLWXZfM3JjMnVlRkYwU3FSN1p2S0k0?oc=5",
-      "source": "STRAIGHT PRESS",
-      "pubDate": "Mon, 17 Aug 2026 11:41:04 GMT",
+      "source": "straightpress.jp",
+      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
         "カフェ"
@@ -725,7 +737,7 @@
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -850,19 +862,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-09T22:38:36.793Z"
-    },
-    {
-      "title": "\"日本三大秘境\"宮崎県椎葉村 待望のレストランとスナックがオープンへ",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oUTFLU1k5ZmZRaktjbXh3QmZkdXMtRlJaR3N4QlNab0pqR09ReDRpMzJrbXp4U2ZyYWE3a01sUjdwQk1HanljM1RJRFZiY3dlQTE4c256M1Ezd3kzc1lyZ3RIbS13aGM?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン",
-        "スナック"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-25T21:35:54.155Z"
     }
   ]
 }
