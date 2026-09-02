@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:13:41.735Z",
+  "generatedAt": "2026-09-02T23:13:53.051Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,24 +24,34 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 2
+      "count": 1
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 39
     }
   ],
-  "itemCount": 70,
+  "itemCount": 74,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSG4yaDk3bGdkTmU4Szk1eWg3cnZzb1lIa1VBT09TT0plUzdxRmVlVUJyS0xySnJuc0RDZDBNd1lWdE9vZWhYbHVLOUlVQ3RjNDNmN2hmNUY1c09nczZrMFVQRTM?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Tue, 01 Sep 2026 12:57:13 GMT",
+      "area": "鎌ケ谷市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-02T23:13:46.312Z"
+    },
     {
       "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
@@ -53,6 +63,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-01T00:31:50.625Z"
+    },
+    {
+      "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSUhjdEVMLS1GWVlfaUh6NlVPVHphMEszUUNsbjhDdGxqLUJUTGFFNHZCLVZ1SjhQdGZXU3NfWjFONjRHOFY4VXpqUzc5MzFHWmc?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Mon, 31 Aug 2026 07:02:46 GMT",
+      "area": "船橋市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-02T23:13:46.311Z"
     },
     {
       "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
@@ -138,6 +160,30 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-09-01T23:13:37.374Z"
+    },
+    {
+      "title": "総額1700万円》ガールズバーも…竹中工務店「接待リスト」を入手〈接待側は「概ね事実」と回答〉（文春オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80UUs1cVhrYUVXWkJDNHdLYlk5UGx4N0NTNTFscVQwUzkxdjlLNkNnUDVQN0F1US16Wm00NkRzQVFxWG1EZ2RSMFlZVWtaUmhpbDJpVENoM1c4ZHd5bWFDaTl4TUQ0RDFZeElXQko4SEU3eWw4eEwxVnN3?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Wed, 26 Aug 2026 07:24:18 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-02T23:13:46.313Z"
+    },
+    {
+      "title": "国分町で無許可の風俗営業か ガールズバーを家宅捜索し４人逮捕 トクリュウとの関わりも視野に捜査 仙台",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRRy1ucmVralVMTE5UalRCYnZ3N2p2RjBoUlhBdUs3ZHhxZnZQdnFZNUJ0eXVLaFNEaTRlVzIxMEVuaW0wNzloMElkV2xtdw?oc=5",
+      "source": "fnn.jp",
+      "pubDate": "Wed, 26 Aug 2026 02:22:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-02T23:13:46.313Z"
     },
     {
       "title": "国分町のガールズバー無許可風俗営業で家宅捜索 風営法違反容疑で店長とみられる女ら計4人逮捕",
@@ -252,7 +298,7 @@
       "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUVFLOGpUcHR2X2xXZVFuUTdfaDdoV0J1TXcwOGFscDB0WjBXT2oxNDUtbmhPeGd2LTQtaXR4N25Tbkpwc2QxT0FLTG1NZkJWd1E?oc=5",
       "source": "船橋つうしん",
-      "pubDate": "Sat, 15 Aug 2026 02:23:39 GMT",
+      "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
         "韓国料理"
@@ -360,7 +406,7 @@
     {
       "title": "新静岡セノバに「シェア型レストラン」オープン 初期費用を抑えて\"お試し出店\"できる新たな営業スタイル＝静岡市",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyX0JwekphalFuM1RlUVIwTExBcldUQUVVV1dhV0U1OW43emVjZmRTUUJieE5hOGduRzE2RmNiWThOTXdGYzZZb2Q0Mmkyb2x5Q1NmVVFaNA?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -622,7 +668,7 @@
     {
       "title": "下関・安岡地区にビュッフェ形式のレストランオープン！揚げたて天ぷらを提供するライブキッチンも",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtWFc5T3hCa1ZfckZNUUNSYnIyNnlhczdvSG5PWkEyMWR6RWhzdVduZVZRQXdnRF9kUTRZbUVzRTEyM25FSERUQVVreWJHWTZ5SjdreWs1QU02Zw?oc=5",
-      "source": "TBS NEWS DIG",
+      "source": "newsdig.tbs.co.jp",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -866,7 +912,7 @@
     {
       "title": "ヒルトン東京ベイ「ガーデンプールレストラン」グランドオープン！プールサイドで楽しむナイトビアガーデン【体験レポート】",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15cS1jRnJsQXhQbllyLXFyVW10YTR0VjFjUXk0dUdMMzVYSE9Ta3RZTUQzS2RLUHNaRnZXb3lKUkI4WDlCcEQ4Z09MU1g?oc=5",
-      "source": "Precious.jp",
+      "source": "precious.jp",
       "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
