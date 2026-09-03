@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T23:13:53.051Z",
+  "generatedAt": "2026-09-03T23:11:52.181Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,24 +24,36 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 1
+      "count": 4
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 39
+      "count": 25
     }
   ],
-  "itemCount": 74,
+  "itemCount": 80,
   "hotpepper": {},
   "items": [
+    {
+      "title": "学生が有機食材使って古民家カフェ！ 地域課題解決のため 千葉・城西国際大",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mVHBrMDlXWWhVUFVEbEhNdlpfSDU4VmlDZmItQkFvQ2JiTjBXVnA2OGpDUUxBTTlsakwxYlh5dVgxTl9ySW5aaDR0aThuNGxiaHRJREpmbDFrOUh2R0w5OGIyR1N4S0hRbWxWWlVrd3Zfdw?oc=5",
+      "source": "Infoseek",
+      "pubDate": "Thu, 03 Sep 2026 00:51:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-03T23:11:47.706Z"
+    },
     {
       "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSG4yaDk3bGdkTmU4Szk1eWg3cnZzb1lIa1VBT09TT0plUzdxRmVlVUJyS0xySnJuc0RDZDBNd1lWdE9vZWhYbHVLOUlVQ3RjNDNmN2hmNUY1c09nczZrMFVQRTM?oc=5",
@@ -112,6 +124,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-29T23:12:29.113Z"
+    },
+    {
+      "title": "世界の魚が集結！千葉県木更津市で「ジュエリーアクアリウム」期間限定オープン",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUNWZBbFZDUU1hYjhHSVFrWGR2V0E1VV9XaS1rNWpsa0lRc3Vna1hxdVZLQWw4a29aZF9PbjNfcVp4b04tQTd1WXdUQjdsTjI2MExLVHh30gFbQVVfeXFMUGNpa3BObkVEREk4RlFBX04tZ3JQYlI2aHNCclpWX29oNlpKUTlFd2tuSHgtaWtYYTNMYkJ2d3hXUmlQNDg4aDE3VW1LSS1iN00xUG5DV1FEM244NA?oc=5",
+      "source": "ウォーカープラス",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "area": "木更津市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-03T23:11:47.706Z"
     },
     {
       "title": "船橋市本中山4丁目に「どんと 和（なごみ）」がオープン、居酒屋どんと跡地",
@@ -244,6 +266,30 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-21T21:31:37.203Z"
+    },
+    {
+      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRFJFQXR2VmFoRmlsRGdKM3FPTWlGdUZScTBhOWxEOHhIWVFINk5JQmN2VmJLTGRieUs1aHJ6a0M0UmhjdFgwWTlQWG9GWTg0QjN2N1poQjREdw?oc=5",
+      "source": "Kstyle",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-03T23:11:47.706Z"
+    },
+    {
+      "title": "SEA ANGEL｜富津市新舞子海水浴場に7/18オープンのカフェ、9時〜24時営業",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LTDN2OGR5dkFvMUxvcVlsZVJtYmNFeFhOS29oYVBvVGxZRFBEY1Bxc25rUkV3Nll3cFB2NS1ieEJhRmxuMnJvTlRSTWt3OHFxdENKMjFIcGVyVjd1eVFGaS1Naw?oc=5",
+      "source": "ジモはる",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "area": "富津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-03T23:11:47.706Z"
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
@@ -406,7 +452,7 @@
     {
       "title": "新静岡セノバに「シェア型レストラン」オープン 初期費用を抑えて\"お試し出店\"できる新たな営業スタイル＝静岡市",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyX0JwekphalFuM1RlUVIwTExBcldUQUVVV1dhV0U1OW43emVjZmRTUUJieE5hOGduRzE2RmNiWThOTXdGYzZZb2Q0Mmkyb2x5Q1NmVVFaNA?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -668,7 +714,7 @@
     {
       "title": "下関・安岡地区にビュッフェ形式のレストランオープン！揚げたて天ぷらを提供するライブキッチンも",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtWFc5T3hCa1ZfckZNUUNSYnIyNnlhczdvSG5PWkEyMWR6RWhzdVduZVZRQXdnRF9kUTRZbUVzRTEyM25FSERUQVVreWJHWTZ5SjdreWs1QU02Zw?oc=5",
-      "source": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
       "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -733,6 +779,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-27T00:37:59.522Z"
+    },
+    {
+      "title": "【千葉初上陸】柏駅徒歩1分に「韓無量」オープン！全品328円～の韓国屋台めし",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40cVJ4dThIV0ZrNmxqUGhsM0N4Skp5RDNNQVBQa0cwMThoQUJYVVZ5bHVhREJ6TlZUZm5fMGNDRndoa1I1Ykt5WGdtY2N3enBFSTNrYkV6MFIyZEZfRmZxRzVsZmQ?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "area": "柏市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-03T23:11:47.705Z"
     },
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
@@ -803,6 +859,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-04T22:18:41.555Z"
+    },
+    {
+      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQYnlsWlNXeE1rQlF4MUF3N0tHanlDYXBKTTUyQ2R2OGQzTUk3Ny1TUUs3cERxck1VQ09QeDJMVzlfaUROd3pmUjQ4eWFtV2d3NjItcjAxLU9jYlZNVmlMMmZCUjBBVjQ0aTVnakdWMXRNS25FZ251UjNPZlpRdjZQWkZ0NDlxUnhhY1FndFI3U2NlakRvSi1KcTFLSmdjVXFhbDhWMUJVUXFhVkEzM1ZJUGxaTXlLT2tQcDMxR2YzUmpwX1BIVk0ybWRMdGhoZXluZmZGcW9FNWpxTUZoTzVBbjI4bG1td2pJc1hFYVJKQ3VHSTBCNF9FNmNPcFZPcEhvRGF0eXJFbFpHaUFQLWFsUzVtc3RUcmEtNGlsX1RUOUl5enR5TEZjb0FqMFB6dmNVb01UVHIwRlpkRC04cG1iNGd30gHHAkFVX3lxTFBrTEFveC01NjJSM1k1MGgtYjhNMWlBSWZRTjlpTVNkc0ZjVzNyX2VvZ21EdDJoeWZ6Zmtpd0dJeFRROXBFdllFNHdqcjliaTVERTdxNmV0S0RrVmVQQzgtUnktX3M4TW5UTW1YUTRPYlgxYmxEcGN3YmU0Mll5V28wQ2xlcXlsUmUxQWpqU1pocGRUbzl4WE9sUUdNWUE5NTZIWVBpZTRPcVJfc2xjN2tqTlBlQjZQT3ZHV05YczVYdTByQjJ3aFRUeGxkUm5lMG1lWU5pLU5PRVg4SXZlcjVONDdkOGgyeEd2VXllMXFqVFctbUZuVnllWDZPSGhKcWtaVGtENDVmUE1CaWtZZk40dUp0SFdGSU5wejlkVFFweWFWcWVEa3RGMU92OWZTOXdqc2x5UkgxdXAzSVRJaFJCR2tIXzRDWQ?oc=5",
+      "source": "South65",
+      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "ダイニング",
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-03T23:11:47.707Z"
     },
     {
       "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
