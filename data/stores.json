@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T23:11:52.181Z",
+  "generatedAt": "2026-09-04T22:57:25.818Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 4
+      "count": 2
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 25
+      "count": 33
     }
   ],
-  "itemCount": 80,
+  "itemCount": 82,
   "hotpepper": {},
   "items": [
     {
@@ -55,6 +55,42 @@
       "firstSeenAt": "2026-09-03T23:11:47.706Z"
     },
     {
+      "title": "学生が有機食材使って古民家カフェ！ 地域課題解決のため 千葉・城西国際大",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpN2hranhmS1F1ZkFqVm9LeTB1YXNWMEg2TEJqUjZzZ2hSMllRcUg4cmI4SWRWeFlkaVdIRDc2UF9ZbFZDTm5IMFFRRVlmdw?oc=5",
+      "source": "NEWSjp",
+      "pubDate": "Thu, 03 Sep 2026 00:51:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-04T22:57:22.211Z"
+    },
+    {
+      "title": "海ほたるに和カフェ「富士波珈琲（FUJINAMI COFFEE）」オープン 厳選あんこ、抹茶使用のスイーツやドリンク",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRTJteWZJWUNwN1NUWkZKQllKa3gtZE9PQmNkNWhkaDlYMEpCc2Y2RFdRRkdVbE1oN21BVFRmUngtV3kzcnJJNlBaRmRyU0dEdHMyMkRDRWJuUmZqUV9MNzkyR3hramQ3UVlTeHZhLXk1WG5qVTRLaw?oc=5",
+      "source": "au Webポータル",
+      "pubDate": "Wed, 02 Sep 2026 11:06:08 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-04T22:57:22.212Z"
+    },
+    {
+      "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Wed, 02 Sep 2026 09:05:00 GMT",
+      "area": "いすみ市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-04T22:57:22.211Z"
+    },
+    {
       "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSG4yaDk3bGdkTmU4Szk1eWg3cnZzb1lIa1VBT09TT0plUzdxRmVlVUJyS0xySnJuc0RDZDBNd1lWdE9vZWhYbHVLOUlVQ3RjNDNmN2hmNUY1c09nczZrMFVQRTM?oc=5",
       "source": "gummaumaimono.info",
@@ -63,6 +99,18 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-02T23:13:46.312Z"
+    },
+    {
+      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-21T21:31:37.203Z"
     },
     {
       "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
@@ -136,18 +184,6 @@
       "firstSeenAt": "2026-09-03T23:11:47.706Z"
     },
     {
-      "title": "船橋市本中山4丁目に「どんと 和（なごみ）」がオープン、居酒屋どんと跡地",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ob3M0VWF5N3dYbV9UTDhwczZQVFNwX080cmgya19hVVdRQlpVeFladU5ib3h2SmRjbzI2SDl5YjU5SkNZZ2JMczFwdkxzSE9IU1E?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Wed, 26 Aug 2026 10:05:32 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-27T00:37:59.518Z"
-    },
-    {
       "title": "ぼったくり相談で発覚 無許可でのガールズバー営業容疑で男女4人逮捕 警察は認否を明らかにせず 仙台",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZERMZU5UR2ZwSzNjUFc5aUhyRDNVeTFERjV6cG42VnU3VzdvSmNOQVNEUHRsZFZFbGhmUmxyMnRjRnRWRXItTEw0N2lkUnBiNm05cHVNTF9HMEF4WHpv?oc=5",
       "source": "TBS NEWS DIG",
@@ -194,6 +230,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-09-02T23:13:46.313Z"
+    },
+    {
+      "title": "船橋市本中山4丁目に「どんと 和（なごみ）」がオープン、居酒屋どんと跡地",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ob3M0VWF5N3dYbV9UTDhwczZQVFNwX080cmgya19hVVdRQlpVeFladU5ib3h2SmRjbzI2SDl5YjU5SkNZZ2JMczFwdkxzSE9IU1E?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-27T00:37:59.518Z"
     },
     {
       "title": "国分町で無許可の風俗営業か ガールズバーを家宅捜索し４人逮捕 トクリュウとの関わりも視野に捜査 仙台",
@@ -257,18 +305,6 @@
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-21T21:31:37.203Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRFJFQXR2VmFoRmlsRGdKM3FPTWlGdUZScTBhOWxEOHhIWVFINk5JQmN2VmJLTGRieUs1aHJ6a0M0UmhjdFgwWTlQWG9GWTg0QjN2N1poQjREdw?oc=5",
       "source": "Kstyle",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -318,7 +354,7 @@
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVG1oVHZrV21mQVJjc2dpRFRXZkNNM2hFaDRua1JobHIyLVBiTTQxYTBvRXFCclkyUVY0OWRLWXZfM3JjMnVlRkYwU3FSN1p2S0k0?oc=5",
-      "source": "straightpress.jp",
+      "source": "STRAIGHT PRESS",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
@@ -792,6 +828,16 @@
     },
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STWFyUWo4eG01MUtoOVFKMGFTWGpqR0p2R1ItSm9ScC1rdFBEVDlrSFRBUWhocUZ5WWx4WW5YaDYxQ1BWZGVzeWtJTlRpNi1PcmpaaQ?oc=5",
+      "source": "news.nicovideo.jp",
+      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "area": "鴨川市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-07-17T22:00:21.220Z"
+    },
+    {
+      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTlpWdTZOM3RFNGRkRnNwZkd3YTljTi1DRlROVUo5dXRMYW9CSUNpV28wbUEtMUNtQ29ubmxTZmRBRTZmU0dHeFdXWDlQSE5IQnZjaXY1enExVlFyLWUzYmFDRDBWRzVHSHN1clJnQ0tRa1M0Wkc5Slhmbw?oc=5",
       "source": "ニコニコニュース",
       "pubDate": "Tue, 14 Jul 2026 02:48:19 GMT",
@@ -799,16 +845,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-14T22:05:55.996Z"
-    },
-    {
-      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STWFyUWo4eG01MUtoOVFKMGFTWGpqR0p2R1ItSm9ScC1rdFBEVDlrSFRBUWhocUZ5WWx4WW5YaDYxQ1BWZGVzeWtJTlRpNi1PcmpaaQ?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Tue, 14 Jul 2026 02:48:19 GMT",
-      "area": "鴨川市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-17T22:00:21.220Z"
     },
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
@@ -851,7 +887,7 @@
     {
       "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pbEUtVnpBdWh3MWg1LW40N2J5a05DRGtXY0tidUtCN2gtcVlZRUcydFhMZ2pucW1zUmJ4cmtLdGEzeUUweXNEaGQxZ3pudw?oc=5",
-      "source": "atpress.ne.jp",
+      "source": "アットプレス",
       "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -977,18 +1013,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-07-11T21:57:37.267Z"
-    },
-    {
-      "title": "ヒルトン東京ベイ「ガーデンプールレストラン」グランドオープン！プールサイドで楽しむナイトビアガーデン【体験レポート】",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15cS1jRnJsQXhQbllyLXFyVW10YTR0VjFjUXk0dUdMMzVYSE9Ta3RZTUQzS2RLUHNaRnZXb3lKUkI4WDlCcEQ4Z09MU1g?oc=5",
-      "source": "precious.jp",
-      "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-09T22:38:36.793Z"
     }
   ]
 }
