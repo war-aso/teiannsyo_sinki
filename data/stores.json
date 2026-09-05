@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:57:25.818Z",
+  "generatedAt": "2026-09-05T22:46:14.528Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,31 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 33
+      "count": 42
     }
   ],
-  "itemCount": 82,
+  "itemCount": 85,
   "hotpepper": {},
   "items": [
+    {
+      "title": "柏駅東口前プールドゥビル4階にイタリアンバル「The Attachment（アタッチメント）」が11月オープン予定",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWlM5UXpNVXFhcGFZWm9qZHZ4MXV2c0tST0RyZXNNLTNETm5zZ3dWbmZuSVozNXpISThPdTUyeXFjRmtPYjF4UTNQbkYwMVU?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Sat, 05 Sep 2026 03:11:23 GMT",
+      "area": "柏市",
+      "genres": [
+        "バル",
+        "イタリアン"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-05T22:46:10.663Z"
+    },
     {
       "title": "学生が有機食材使って古民家カフェ！ 地域課題解決のため 千葉・城西国際大",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mVHBrMDlXWWhVUFVEbEhNdlpfSDU4VmlDZmItQkFvQ2JiTjBXVnA2OGpDUUxBTTlsakwxYlh5dVgxTl9ySW5aaDR0aThuNGxiaHRJREpmbDFrOUh2R0w5OGIyR1N4S0hRbWxWWlVrd3Zfdw?oc=5",
@@ -81,7 +94,7 @@
     {
       "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
-      "source": "ｄメニューニュース",
+      "source": "topics.smt.docomo.ne.jp",
       "pubDate": "Wed, 02 Sep 2026 09:05:00 GMT",
       "area": "いすみ市",
       "genres": [
@@ -164,7 +177,7 @@
       "title": "【9月1日オープン】ミスタージェントルマン船橋店、船橋駅南口に和洋創作ダイニング居酒屋",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zWGNMWUdpeG4wcnYyRjFHdW9DRzZuX1Z3SjMyWFE3c09PTGFVRmhaR2FnTlRROER0TFJQWW9JVDBuWmRSTk96TnpYVERxTWNMZ2VBTmdxQlhjQjFhNE95SzUzSDA?oc=5",
       "source": "gummaumaimono.info",
-      "pubDate": "Thu, 27 Aug 2026 14:25:48 GMT",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
         "居酒屋",
@@ -699,6 +712,30 @@
       "firstSeenAt": "2026-07-27T22:13:28.110Z"
     },
     {
+      "title": "佐渡寿司弁慶が千葉・津田沼に関東最大級の直営店オープン 3世代をターゲットに首都圏へ本格進出",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4S3ZyZVVtSk1xZHRNWFNiS1BtLW81ZkhfZ3hGVXJiMmF5MUNzYng5NDAyX2xjbFQ4ckduQm9PbVpjeTR4ZEtmZjQ2cWZad2hrWHFfUi1sQQ?oc=5",
+      "source": "CLASSY.[クラッシィ]",
+      "pubDate": "Sun, 26 Jul 2026 12:04:10 GMT",
+      "area": "習志野市",
+      "genres": [
+        "寿司"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-05T22:46:10.667Z"
+    },
+    {
+      "title": "柏市にボードゲームバーをオープン！梅酒と日本酒も楽しめる交流の場",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SDlkS0ZKelRaZ3hMNlRXLVlmcDlZalI5NzloZExkOGpaeXd1TzRyeWlvd0IzY3NNaXgyb1VGZDhhMnlsYjlvYUI2NUpyS0JpMjVz?oc=5",
+      "source": "camp-fire.jp",
+      "pubDate": "Fri, 24 Jul 2026 14:12:33 GMT",
+      "area": "柏市",
+      "genres": [
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-05T22:46:10.668Z"
+    },
+    {
       "title": "食品衛生法違反など容疑で暴力団組員(30)を逮捕 許可得ず“ガールズバー”営業か 広島",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52SlNyZ3p3RXBQUmVhWllldFR5N051X0hGZVNnYnVYWGVqb3k4bldRX2plS1QybUxSR2Nrem16VW5ZZXB3SmdCRlYwUXZQSGJ0dHY1WUZWMy02N3oySW0teXg1Y1B5ZEU?oc=5",
       "source": "TBS NEWS DIG",
@@ -829,7 +866,7 @@
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STWFyUWo4eG01MUtoOVFKMGFTWGpqR0p2R1ItSm9ScC1rdFBEVDlrSFRBUWhocUZ5WWx4WW5YaDYxQ1BWZGVzeWtJTlRpNi1PcmpaaQ?oc=5",
-      "source": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "area": "鴨川市",
       "genres": [],
