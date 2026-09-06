@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T22:46:14.528Z",
+  "generatedAt": "2026-09-06T22:51:28.825Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 42
+      "count": 43
     }
   ],
   "itemCount": 85,
@@ -94,7 +94,7 @@
     {
       "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
-      "source": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "pubDate": "Wed, 02 Sep 2026 09:05:00 GMT",
       "area": "いすみ市",
       "genres": [
@@ -160,6 +160,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-30T23:22:11.235Z"
+    },
+    {
+      "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸　成田にオープン",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVkxfbWJzTXZzRFcySmU0dXZJTC1qSnJYMVJPTGtubUFNSlNRUXZhX0VMd25odVJ3azZubWNwcUtfSGU2bUx6QzJXaWozalBSUThPOVlMUXM5VWhaM21FOW5qNE04SEJvMnpNQ3JSb0R2LU5BS1lFd3FuMlQ4Z9IBgwFBVV95cUxNV2Z3aDVYdzJVR3pqM09keFVsS3NTcGFZd3lPNVQ1VkRpRGpoS3p2LTN5ZlRTbElJWFRlZGF0bnBrUndPdEs3STEyTENES1RpSjA4RnQtZmdFT0NqV1JpU2hvUVhKU2VGdjFzZl9OZmR4QUF4Z1pZQ19Kb1ZCV0tfTTFSaw?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Sun, 30 Aug 2026 09:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-06T22:51:20.350Z"
     },
     {
       "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
@@ -367,7 +379,7 @@
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVG1oVHZrV21mQVJjc2dpRFRXZkNNM2hFaDRua1JobHIyLVBiTTQxYTBvRXFCclkyUVY0OWRLWXZfM3JjMnVlRkYwU3FSN1p2S0k0?oc=5",
-      "source": "STRAIGHT PRESS",
+      "source": "straightpress.jp",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
@@ -642,19 +654,9 @@
       "firstSeenAt": "2026-08-29T03:07:57.539Z"
     },
     {
-      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-30T23:22:11.236Z"
-    },
-    {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "ホットペッパーグルメ",
+      "source": "hotpepper.jp",
       "pubDate": "Wed, 29 Jul 2026 22:40:31 GMT",
       "area": "",
       "genres": [
@@ -675,6 +677,16 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-29T22:06:18.859Z"
+    },
+    {
+      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Wed, 29 Jul 2026 20:34:54 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-08-30T23:22:11.236Z"
     },
     {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
@@ -726,7 +738,7 @@
     {
       "title": "柏市にボードゲームバーをオープン！梅酒と日本酒も楽しめる交流の場",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SDlkS0ZKelRaZ3hMNlRXLVlmcDlZalI5NzloZExkOGpaeXd1TzRyeWlvd0IzY3NNaXgyb1VGZDhhMnlsYjlvYUI2NUpyS0JpMjVz?oc=5",
-      "source": "camp-fire.jp",
+      "source": "CAMPFIRE (キャンプファイヤー)",
       "pubDate": "Fri, 24 Jul 2026 14:12:33 GMT",
       "area": "柏市",
       "genres": [
@@ -1038,18 +1050,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-12T21:58:23.045Z"
-    },
-    {
-      "title": "船橋駅南口徒歩3分にメキシコ本場仕込みのタコス＆カフェ「サンズ・タケリア」7月中旬オープン見込み",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VaVVPdVpRT1NqRkpMSC10a0QyZlY4RmtzZ2l4WUZFdFdzQUtEWEw2U2ExT3dBclpQQW9acjhVMWlKY3p3MTl4UTBsZ2hFMXhVNlE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-11T21:57:37.267Z"
     }
   ]
 }
