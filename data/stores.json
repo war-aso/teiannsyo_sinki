@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-06T22:51:28.825Z",
+  "generatedAt": "2026-09-07T23:25:11.906Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 100
+      "count": 62
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 43
+      "count": 38
     }
   ],
-  "itemCount": 85,
+  "itemCount": 82,
   "hotpepper": {},
   "items": [
     {
@@ -92,6 +92,18 @@
       "firstSeenAt": "2026-09-04T22:57:22.212Z"
     },
     {
+      "title": "海ほたるに和カフェ「富士波珈琲（FUJINAMI COFFEE）」オープン　厳選あんこ、抹茶使用のスイーツやドリンク",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Ny1JSlJrc1lIV1F4OVBueG5OWmk4b2tuWGdNTk1obUpfOFZwMkpxNnRiWV9qLVBrNUJ1OWFXV0FnRjEyUjBzbGhxR0UyWjVPeV9uQ2tGQ01DeXpIbXBPR05TU3k1aWl0Q3lmRVgzX0V5NE4xZFlpdm9IQ1dqZ9IBgwFBVV95cUxNejdJR2FmbThqNGJBSi1mZllYSXdPN1pMV3BLTktCUVBWWkcxZlRjOGU1bTJuYTdCSlBsNzhOck1jb05MRzhQbklid3lwV2QxTXFpR0dIX0RXUTBLdHpSYnlCd2l5ZFl5ZVFvb3poZ2c3NTVLZTU5dEx5Um9NOXhNMklHbw?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Wed, 02 Sep 2026 11:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-07T23:25:08.234Z"
+    },
+    {
       "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
       "source": "ｄメニューニュース",
@@ -116,7 +128,7 @@
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -379,7 +391,7 @@
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVG1oVHZrV21mQVJjc2dpRFRXZkNNM2hFaDRua1JobHIyLVBiTTQxYTBvRXFCclkyUVY0OWRLWXZfM3JjMnVlRkYwU3FSN1p2S0k0?oc=5",
-      "source": "straightpress.jp",
+      "source": "STRAIGHT PRESS",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
@@ -428,7 +440,7 @@
     {
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -632,7 +644,7 @@
     {
       "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yV0sxXzdUSTMwbUQyY3hkZGhpOFVRZi1ENmVvdWVnZFdTcGZLSG5nazZUT2NMOTJxMDB6eHZLUHM1UXE0blRMa0ZLeVpjUHRvMEpVSFZjaFBtWEotWTJYV1NFU01uNjItNFE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
@@ -845,7 +857,7 @@
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TG1FcXpZTzV0TXFqZU1iVFg3QUk0QnZjc1BCRG82VXVDYU52RTVFdUxsLXczTmJLb2oxNkRtZjdacEFwYk9xejYxSXNiRDlVUGxKc2JrUXEwQmh1V0huUGZ5Y19VUGxMeEE?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "area": "鴨川市",
       "genres": [],
@@ -1003,53 +1015,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-10T22:11:59.818Z"
-    },
-    {
-      "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaVBhWktRMVpBMVhHOXdZcVBfWXRHa1M1TUZXYkVCWWZNd3JRUTMyeXVfOFkzVWRTaXpDcFRqMXdtZGdEaVZQdzg2OXdrT253UGZCYm1LSzVQWUE?oc=5",
-      "source": "ABEMA",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-11T21:57:37.269Z"
-    },
-    {
-      "title": "1259億破綻「全東信」で夜の街が悲鳴！クレカ停止と売上未入金で連鎖倒産危機",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jUGtBNUdmeVlnNG1DVW15ejhmX3RMM2VqZmdsdm1Kd3ZoMzF6ZkJVZ1JIWVh1bU1pYTV3M3RBWGJuanliNUR5eTEyUmNTYXVudnZGYTNMUmszQ3lEc2JPallUSEpjakJvT0tvMUJ6OVYyUkNNVnB3VtIBjAFBVV95cUxPLWlwbmszNFFDTHRXdnc0YjJzbEVjV0JvXzNrR0EydU1NZjNBal9hS2M3czNfZU1IY3lOTUM1T043SjM2cnhneDJMSWgyRjJlaDh6VFdfVGk1RWVIUWpNcGMyNFk5enJwYXd5UlBXWmhJdzl2OERpSnpPX3RmNmUweXJjTm8wUG1LQWhhNA?oc=5",
-      "source": "zakⅡ",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-10T07:58:53.264Z"
-    },
-    {
-      "title": "ハワイアン カフェ・レストラン「コナズ珈琲」愛知県4店舗目は、名古屋市内！コナズ珈琲 大高インター店2026年7月23日（木）10時オープン",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nTC0yZUdUUkZXYzVRbXFlNEgtbHl0bkdxUGdUZk0yYmt5a3dKRkZZT05CNDlSYkFSTzNtaDR4Tk5YOTg2T2FIQmYwZ0ItWlEwM1JwR2pWMlFDc1VDT2dTaXBzOGxCbEtSRUE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-11T21:57:37.267Z"
-    },
-    {
-      "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUMU9MRzV6MF9aT3R0aVFRRWF0dHNfQkRjN2pYRlR3VGsyZXBFcUo1OGtPWExINUF2NlFxTDltcDlmTW51aDZhZllYOXJaUXBUUmkxS3BNREgyWldnNlktRTQ5eDZkNjVOelBqeGZDQnV1UQ?oc=5",
-      "source": "テレ朝NEWS",
-      "pubDate": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-12T21:58:23.045Z"
     }
   ]
 }
