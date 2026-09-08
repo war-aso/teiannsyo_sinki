@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-07T23:25:11.906Z",
+  "generatedAt": "2026-09-08T23:17:56.386Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 62
+      "count": 100
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -42,6 +42,18 @@
   "itemCount": 82,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcDQzdTZRWEZqcWZlZHdMREJ6RkE3bk9mMDRPZHNiZHFwU0ZiRUxQdEZHazJvMTZXSzFKeFptUWJBeXlnbVpMV1FVV3c4N1ZRWEFESzVGY05yMjMxeEhnWS0tRzFBUlF4aVE?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 08 Sep 2026 01:00:02 GMT",
+      "area": "館山市",
+      "genres": [
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-08T23:17:52.630Z"
+    },
     {
       "title": "柏駅東口前プールドゥビル4階にイタリアンバル「The Attachment（アタッチメント）」が11月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWlM5UXpNVXFhcGFZWm9qZHZ4MXV2c0tST0RyZXNNLTNETm5zZ3dWbmZuSVozNXpISThPdTUyeXFjRmtPYjF4UTNQbkYwMVU?oc=5",
@@ -128,7 +140,7 @@
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -136,18 +148,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-21T21:31:37.203Z"
-    },
-    {
-      "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Mon, 31 Aug 2026 07:03:19 GMT",
-      "area": "柏市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-01T00:31:50.625Z"
     },
     {
       "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
@@ -160,6 +160,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-02T23:13:46.311Z"
+    },
+    {
+      "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "area": "柏市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-01T00:31:50.625Z"
     },
     {
       "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
@@ -177,7 +189,7 @@
       "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸　成田にオープン",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVkxfbWJzTXZzRFcySmU0dXZJTC1qSnJYMVJPTGtubUFNSlNRUXZhX0VMd25odVJ3azZubWNwcUtfSGU2bUx6QzJXaWozalBSUThPOVlMUXM5VWhaM21FOW5qNE04SEJvMnpNQ3JSb0R2LU5BS1lFd3FuMlQ4Z9IBgwFBVV95cUxNV2Z3aDVYdzJVR3pqM09keFVsS3NTcGFZd3lPNVQ1VkRpRGpoS3p2LTN5ZlRTbElJWFRlZGF0bnBrUndPdEs3STEyTENES1RpSjA4RnQtZmdFT0NqV1JpU2hvUVhKU2VGdjFzZl9OZmR4QUF4Z1pZQ19Kb1ZCV0tfTTFSaw?oc=5",
       "source": "ｄメニューニュース",
-      "pubDate": "Sun, 30 Aug 2026 09:00:00 GMT",
+      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
         "カフェ"
@@ -440,7 +452,7 @@
     {
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -644,7 +656,7 @@
     {
       "title": "【オープン6周年】無農薬野菜の収穫体験＆テラスBBQが楽しめる千葉県長柄町の農園料理カフェ「大地の恵み」が夏の予約を開始！放し飼い名古屋コーチンの「希少な限定プリン」や、街灯ゼロの星空キャンプ場も",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yV0sxXzdUSTMwbUQyY3hkZGhpOFVRZi1ENmVvdWVnZFdTcGZLSG5nazZUT2NMOTJxMDB6eHZLUHM1UXE0blRMa0ZLeVpjUHRvMEpVSFZjaFBtWEotWTJYV1NFU01uNjItNFE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
@@ -666,9 +678,19 @@
       "firstSeenAt": "2026-08-29T03:07:57.539Z"
     },
     {
+      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-08-30T23:22:11.236Z"
+    },
+    {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "hotpepper.jp",
+      "source": "ホットペッパーグルメ",
       "pubDate": "Wed, 29 Jul 2026 22:40:31 GMT",
       "area": "",
       "genres": [
@@ -689,16 +711,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-29T22:06:18.859Z"
-    },
-    {
-      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
-      "source": "千葉日報オンライン",
-      "pubDate": "Wed, 29 Jul 2026 20:34:54 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-30T23:22:11.236Z"
     },
     {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
@@ -746,6 +758,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-05T22:46:10.667Z"
+    },
+    {
+      "title": "柏駅西口2分に炭火焼鳥×蒸籠料理の居酒屋「スミムス」7/16（水）オープン、半個室完備",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByaVl5OU45YTZmTHBpb0NGdVVnNHE0cEFVaFJ3cWNTeFhSSXRLNUMxVnY0RTdkcDNNcjRWSzBOTkJSbktCZnhOQVFFSFBoVk0?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
+      "area": "柏市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-08T23:17:52.627Z"
     },
     {
       "title": "柏市にボードゲームバーをオープン！梅酒と日本酒も楽しめる交流の場",
@@ -857,7 +881,7 @@
     {
       "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TG1FcXpZTzV0TXFqZU1iVFg3QUk0QnZjc1BCRG82VXVDYU52RTVFdUxsLXczTmJLb2oxNkRtZjdacEFwYk9xejYxSXNiRDlVUGxKc2JrUXEwQmh1V0huUGZ5Y19VUGxMeEE?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
       "area": "鴨川市",
       "genres": [],
@@ -991,30 +1015,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-08-22T21:28:43.736Z"
-    },
-    {
-      "title": "東京・池袋 ガールズバー売春強要事件 店長の男に懲役8年を求刑（ANNニュース）",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02VURDS0ZLN1poLUg0Z2ZrVzZmNjBNekU3ZUo3bFl0YnBfX0R6X09KRVZQZ2VtUkhfN2tUTFN3RW1uSUFMV01lZGhIYV9lVU1ZNHhMOHlSTGdtX0FfMmpwT1h0Tng?oc=5",
-      "source": "nagoyatv.com",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-11T21:57:37.269Z"
-    },
-    {
-      "title": "兵庫県警が西宮でガールズバーなどの立ち入り調査",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZRll0c1FzOUpVZVoyNHdJZXRmSUE0MW9aM1prYk1TdDB3Z3I3ZjRRaFNoM3pYZVlYSmc2bHltY29uZ0xmc3FiTkxlVmx3LThsSXpmWG9FRU9EWHBUNlZ0UGl4N3pCN2p1cW5sbzlpcDk?oc=5",
-      "source": "Excite エキサイト",
-      "pubDate": "Fri, 10 Jul 2026 03:41:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-07-10T22:11:59.818Z"
     }
   ]
 }
