@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:17:56.386Z",
+  "generatedAt": "2026-09-09T23:08:28.113Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,19 +24,19 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 38
+      "count": 41
     }
   ],
   "itemCount": 82,
@@ -138,22 +138,10 @@
       "firstSeenAt": "2026-09-02T23:13:46.312Z"
     },
     {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-21T21:31:37.203Z"
-    },
-    {
       "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSUhjdEVMLS1GWVlfaUh6NlVPVHphMEszUUNsbjhDdGxqLUJUTGFFNHZCLVZ1SjhQdGZXU3NfWjFONjRHOFY4VXpqUzc5MzFHWmc?oc=5",
       "source": "船橋つうしん",
-      "pubDate": "Mon, 31 Aug 2026 07:02:46 GMT",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
         "中華"
@@ -351,6 +339,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-27T00:37:59.522Z"
+    },
+    {
+      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-21T21:31:37.203Z"
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
