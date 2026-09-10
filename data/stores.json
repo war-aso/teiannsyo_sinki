@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:08:28.113Z",
+  "generatedAt": "2026-09-10T23:03:55.213Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 41
+      "count": 38
     }
   ],
-  "itemCount": 82,
+  "itemCount": 83,
   "hotpepper": {},
   "items": [
     {
@@ -55,9 +55,19 @@
       "firstSeenAt": "2026-09-08T23:17:52.630Z"
     },
     {
+      "title": "「れんげ食堂Toshu 北小金店」オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83SUVsZnhuX0RON0tLZEVDZi1KeG1heW1IM1otam94Tk43cnlkdFdqSnlWdHF3ZXQtaC0zLVQ5MDhFMTJ5ZlZHY0t1bFhfZVc2QTVzYkYyVm1RaXhGdmZJV0dLZlZycm45MHc?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Mon, 07 Sep 2026 01:00:02 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-10T23:03:49.895Z"
+    },
+    {
       "title": "柏駅東口前プールドゥビル4階にイタリアンバル「The Attachment（アタッチメント）」が11月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWlM5UXpNVXFhcGFZWm9qZHZ4MXV2c0tST0RyZXNNLTNETm5zZ3dWbmZuSVozNXpISThPdTUyeXFjRmtPYjF4UTNQbkYwMVU?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Sat, 05 Sep 2026 03:11:23 GMT",
       "area": "柏市",
       "genres": [
@@ -104,18 +114,6 @@
       "firstSeenAt": "2026-09-04T22:57:22.212Z"
     },
     {
-      "title": "海ほたるに和カフェ「富士波珈琲（FUJINAMI COFFEE）」オープン　厳選あんこ、抹茶使用のスイーツやドリンク",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Ny1JSlJrc1lIV1F4OVBueG5OWmk4b2tuWGdNTk1obUpfOFZwMkpxNnRiWV9qLVBrNUJ1OWFXV0FnRjEyUjBzbGhxR0UyWjVPeV9uQ2tGQ01DeXpIbXBPR05TU3k1aWl0Q3lmRVgzX0V5NE4xZFlpdm9IQ1dqZ9IBgwFBVV95cUxNejdJR2FmbThqNGJBSi1mZllYSXdPN1pMV3BLTktCUVBWWkcxZlRjOGU1bTJuYTdCSlBsNzhOck1jb05MRzhQbklid3lwV2QxTXFpR0dIX0RXUTBLdHpSYnlCd2l5ZFl5ZVFvb3poZ2c3NTVLZTU5dEx5Um9NOXhNMklHbw?oc=5",
-      "source": "ｄメニューニュース",
-      "pubDate": "Wed, 02 Sep 2026 11:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-07T23:25:08.234Z"
-    },
-    {
       "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
       "source": "ｄメニューニュース",
@@ -128,6 +126,18 @@
       "firstSeenAt": "2026-09-04T22:57:22.211Z"
     },
     {
+      "title": "海ほたるに和カフェ「富士波珈琲（FUJINAMI COFFEE）」オープン　厳選あんこ、抹茶使用のスイーツやドリンク",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Ny1JSlJrc1lIV1F4OVBueG5OWmk4b2tuWGdNTk1obUpfOFZwMkpxNnRiWV9qLVBrNUJ1OWFXV0FnRjEyUjBzbGhxR0UyWjVPeV9uQ2tGQ01DeXpIbXBPR05TU3k1aWl0Q3lmRVgzX0V5NE4xZFlpdm9IQ1dqZ9IBgwFBVV95cUxNejdJR2FmbThqNGJBSi1mZllYSXdPN1pMV3BLTktCUVBWWkcxZlRjOGU1bTJuYTdCSlBsNzhOck1jb05MRzhQbklid3lwV2QxTXFpR0dIX0RXUTBLdHpSYnlCd2l5ZFl5ZVFvb3poZ2c3NTVLZTU5dEx5Um9NOXhNMklHbw?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-07T23:25:08.234Z"
+    },
+    {
       "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSG4yaDk3bGdkTmU4Szk1eWg3cnZzb1lIa1VBT09TT0plUzdxRmVlVUJyS0xySnJuc0RDZDBNd1lWdE9vZWhYbHVLOUlVQ3RjNDNmN2hmNUY1c09nczZrMFVQRTM?oc=5",
       "source": "gummaumaimono.info",
@@ -136,6 +146,18 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-02T23:13:46.312Z"
+    },
+    {
+      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-21T21:31:37.203Z"
     },
     {
       "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
@@ -152,7 +174,7 @@
     {
       "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -281,6 +303,18 @@
       "firstSeenAt": "2026-08-27T00:37:59.518Z"
     },
     {
+      "title": "ぼったくり被害の相談も 仙台・国分町のガールズバー経営者ら4人逮捕 無許可営業疑いで仙台中央署",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMkZqVXk3MnFZSG85bG1RcmVLMVA1YmM5QmJQQVR4NTgxSmtybC1vbGhDeXJxbk5QUnlHakQ5b1BXS2owOUwyM1dmdTc2SUdWSDZ3V1l3YVRkM0VGVU5ndQ?oc=5",
+      "source": "河北新報オンライン",
+      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-10T23:03:49.899Z"
+    },
+    {
       "title": "国分町で無許可の風俗営業か ガールズバーを家宅捜索し４人逮捕 トクリュウとの関わりも視野に捜査 仙台",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRRy1ucmVralVMTE5UalRCYnZ3N2p2RjBoUlhBdUs3ZHhxZnZQdnFZNUJ0eXVLaFNEaTRlVzIxMEVuaW0wNzloMElkV2xtdw?oc=5",
       "source": "fnn.jp",
@@ -339,18 +373,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-27T00:37:59.522Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-21T21:31:37.203Z"
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
@@ -440,7 +462,7 @@
     {
       "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -748,6 +770,19 @@
       "firstSeenAt": "2026-07-27T22:13:28.110Z"
     },
     {
+      "title": "京成船橋駅3分に韓国料理居酒屋「金家 船橋店」6/11（木）オープン、薬膳ポッサムが人気",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ENVZTZVFEOF9iZW8tcWhLTzRZdE9QX0dQQ2QtQ09Nd0E4WDJzQjdpRE5hZGdheVM4R2Q4QXJtbFNSeE55VVFWcE53dEQyZkhhQkE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [
+        "居酒屋",
+        "韓国料理"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-10T23:03:49.896Z"
+    },
+    {
       "title": "佐渡寿司弁慶が千葉・津田沼に関東最大級の直営店オープン 3世代をターゲットに首都圏へ本格進出",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4S3ZyZVVtSk1xZHRNWFNiS1BtLW81ZkhfZ3hGVXJiMmF5MUNzYng5NDAyX2xjbFQ4ckduQm9PbVpjeTR4ZEtmZjQ2cWZad2hrWHFfUi1sQQ?oc=5",
       "source": "CLASSY.[クラッシィ]",
@@ -993,28 +1028,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-03T23:11:47.707Z"
-    },
-    {
-      "title": "南柏駅から徒歩15分ほどの所に中華料理「金東（KANETO）」が5/29（木）オープン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QX09hN3BkeXk3dU1XRnFxenhFZ0pIbmNleWhTRmIyQnM3U0p1RFJqano2Ti1rcE4zLWIxYjNPOUhndFhmdkZGTUFrMmM5cW8?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-12T21:58:23.041Z"
-    },
-    {
-      "title": "【祝！復活】惜しまれつつ閉店した「中国料理 川菜味」が湊町2丁目に移転して7/16（木）復活オープン！ココイチの上",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SOEg5bVNpZTFHcXotd3lTZ05xc000UHFVQkFKLS1DNFdqdVZhSU9wcE4wZEdpRTZBWDRldXFTRVB2RndweHZFaGh0TnZ5NDYxelE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-22T21:28:43.736Z"
     }
   ]
 }
