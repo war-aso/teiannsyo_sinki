@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:03:55.213Z",
+  "generatedAt": "2026-09-11T23:10:18.641Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 38
+      "count": 37
     }
   ],
-  "itemCount": 83,
+  "itemCount": 80,
   "hotpepper": {},
   "items": [
     {
@@ -206,6 +206,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-06T22:51:20.350Z"
+    },
+    {
+      "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1NPNC00Nk1yT1VXZFBZQndlTDYwTFdYaHBhNW5FQzVONmdrc1laQTQ0U1I4clI5MTI4STVRdVN3ME96Um1tOFRhbENmMmxnc3pKbF9sNlJYNE5tVjBuZWxMcEM0U1BnOGRmOUFjUFJzZUZQdGJwLXJxSzBiVU80dFV0MGNaOVZib2FaLXNYZEZkYjIyZlFVUHk4RDBzNHRSLTNjU19aUGEyZEJ4SXhOcXRBdGNoclRXQUJ0SkQ4U3M3MDlyMTA1aDhidFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-11T23:10:14.913Z"
     },
     {
       "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
@@ -433,6 +445,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-17T21:32:29.762Z"
+    },
+    {
+      "title": "【8/31グランドOPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくすぐるイタリアン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VNnExdEt3N0Y0eGhndmRpbDNZenN3M1lSSHVXNTNSLUhrei1vNTRVS2xXc21VVnBKYXlwNFlnaHIwWVlnV1JFQ2FjNXIzdERuek9FZQ?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "イタリアン",
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-11T23:10:14.913Z"
     },
     {
       "title": "【8/31グランドOPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくすぐるイタリアン",
@@ -797,7 +822,7 @@
     {
       "title": "柏駅西口2分に炭火焼鳥×蒸籠料理の居酒屋「スミムス」7/16（水）オープン、半個室完備",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByaVl5OU45YTZmTHBpb0NGdVVnNHE0cEFVaFJ3cWNTeFhSSXRLNUMxVnY0RTdkcDNNcjRWSzBOTkJSbktCZnhOQVFFSFBoVk0?oc=5",
-      "source": "柏つうしん",
+      "source": "kashiwa-tsushin.com",
       "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -965,69 +990,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-07-14T22:05:55.996Z"
-    },
-    {
-      "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd0k5blpxMWF6aFJEX1FCYVRCbHl2RVR4NEQ4WTFyNHRVYlZtRmlReDZhdTYxYm9KZzJSdGYyUVRGTFNIME01eDk1U0dWUjg?oc=5",
-      "source": "Newscast.jp",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-13T22:02:39.792Z"
-    },
-    {
-      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2bEtGS0FxRzkyZEFpcko2S0NhLURFRU1EUUtWcHBBclNkdW1HOEhReDIzQllyZVFJejhJeTR5TnJGYWM2MzZCWjkxZFpNX0szNzI3UHM0OXd5aWV4QVlOUFdQbjhlYkE?oc=5",
-      "source": "J-CAST ニュース",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "ダイニング",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-14T22:05:55.996Z"
-    },
-    {
-      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObHJZY2lIRnZzbjVoMTNhcnhNNUVid1k0SjhTbEYzdjlWNVJpU3JCQ21GanVYb2oxSUlsQl9fbEtqbWxBX3VvUl9mS0tHTVNLNWRtdnhZb2o5ZUNJWm0yaWRMWnBKRTd2ci1yYw?oc=5",
-      "source": "J-CAST ニュース",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "ダイニング",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-04T22:18:41.552Z"
-    },
-    {
-      "title": "記念日に特化したお洒落カフェが7/28に千葉でオープン！ 「FLOWER CHEERS CAFE(フラワーチアーズカフェ)」",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pbEUtVnpBdWh3MWg1LW40N2J5a05DRGtXY0tidUtCN2gtcVlZRUcydFhMZ2pucW1zUmJ4cmtLdGEzeUUweXNEaGQxZ3pudw?oc=5",
-      "source": "アットプレス",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-04T22:18:41.555Z"
-    },
-    {
-      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQYnlsWlNXeE1rQlF4MUF3N0tHanlDYXBKTTUyQ2R2OGQzTUk3Ny1TUUs3cERxck1VQ09QeDJMVzlfaUROd3pmUjQ4eWFtV2d3NjItcjAxLU9jYlZNVmlMMmZCUjBBVjQ0aTVnakdWMXRNS25FZ251UjNPZlpRdjZQWkZ0NDlxUnhhY1FndFI3U2NlakRvSi1KcTFLSmdjVXFhbDhWMUJVUXFhVkEzM1ZJUGxaTXlLT2tQcDMxR2YzUmpwX1BIVk0ybWRMdGhoZXluZmZGcW9FNWpxTUZoTzVBbjI4bG1td2pJc1hFYVJKQ3VHSTBCNF9FNmNPcFZPcEhvRGF0eXJFbFpHaUFQLWFsUzVtc3RUcmEtNGlsX1RUOUl5enR5TEZjb0FqMFB6dmNVb01UVHIwRlpkRC04cG1iNGd30gHHAkFVX3lxTFBrTEFveC01NjJSM1k1MGgtYjhNMWlBSWZRTjlpTVNkc0ZjVzNyX2VvZ21EdDJoeWZ6Zmtpd0dJeFRROXBFdllFNHdqcjliaTVERTdxNmV0S0RrVmVQQzgtUnktX3M4TW5UTW1YUTRPYlgxYmxEcGN3YmU0Mll5V28wQ2xlcXlsUmUxQWpqU1pocGRUbzl4WE9sUUdNWUE5NTZIWVBpZTRPcVJfc2xjN2tqTlBlQjZQT3ZHV05YczVYdTByQjJ3aFRUeGxkUm5lMG1lWU5pLU5PRVg4SXZlcjVONDdkOGgyeEd2VXllMXFqVFctbUZuVnllWDZPSGhKcWtaVGtENDVmUE1CaWtZZk40dUp0SFdGSU5wejlkVFFweWFWcWVEa3RGMU92OWZTOXdqc2x5UkgxdXAzSVRJaFJCR2tIXzRDWQ?oc=5",
-      "source": "South65",
-      "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "ダイニング",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-03T23:11:47.707Z"
     }
   ]
 }
