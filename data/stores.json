@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:10:18.641Z",
+  "generatedAt": "2026-09-13T23:04:26.267Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,24 +24,36 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 4
+      "count": 8
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 40
     }
   ],
-  "itemCount": 80,
+  "itemCount": 76,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YdkRJaG9YNmVKazU4YzNjS1VTWTdyZ05oSjVaTG9oVk5JNHJ4Q2F4anJ6ZXRyNFRLX2NjQzNFT3Q5dERVVVRCSHN5elBqaXI3UmRoSHN6VTItb0RScVVRbTRQa2NiaHo5d1R5aTdUUkJ0cWc?oc=5",
+      "source": "Excite エキサイト",
+      "pubDate": "Sun, 13 Sep 2026 02:15:00 GMT",
+      "area": "館山市",
+      "genres": [
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-13T23:04:21.992Z"
+    },
     {
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcDQzdTZRWEZqcWZlZHdMREJ6RkE3bk9mMDRPZHNiZHFwU0ZiRUxQdEZHazJvMTZXSzFKeFptUWJBeXlnbVpMV1FVV3c4N1ZRWEFESzVGY05yMjMxeEhnWS0tRzFBUlF4aVE?oc=5",
@@ -117,7 +129,7 @@
       "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
       "source": "ｄメニューニュース",
-      "pubDate": "Wed, 02 Sep 2026 09:05:00 GMT",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
       "area": "いすみ市",
       "genres": [
         "カフェ"
@@ -487,7 +499,7 @@
     {
       "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -937,59 +949,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-17T22:00:21.221Z"
-    },
-    {
-      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TG1FcXpZTzV0TXFqZU1iVFg3QUk0QnZjc1BCRG82VXVDYU52RTVFdUxsLXczTmJLb2oxNkRtZjdacEFwYk9xejYxSXNiRDlVUGxKc2JrUXEwQmh1V0huUGZ5Y19VUGxMeEE?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "area": "鴨川市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-15T22:08:54.216Z"
-    },
-    {
-      "title": "千葉駅徒歩圏内にカフェダイニング「FLOWER CHEERS CAFE」が7月28日オープン",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qOGNPVjNlLWtzTGtZMFZhVW5aV0dOUlRjaUZoVDhXdm4ydkExM2xqdjNzNUVQRDZmN3hWX1hTZWNGaHFHcWc?oc=5",
-      "source": "トレンドお届けメディア Trepo",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "ダイニング",
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-27T00:37:59.522Z"
-    },
-    {
-      "title": "【千葉初上陸】柏駅徒歩1分に「韓無量」オープン！全品328円～の韓国屋台めし",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40cVJ4dThIV0ZrNmxqUGhsM0N4Skp5RDNNQVBQa0cwMThoQUJYVVZ5bHVhREJ6TlZUZm5fMGNDRndoa1I1Ykt5WGdtY2N3enBFSTNrYkV6MFIyZEZfRmZxRzVsZmQ?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-03T23:11:47.705Z"
-    },
-    {
-      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STWFyUWo4eG01MUtoOVFKMGFTWGpqR0p2R1ItSm9ScC1rdFBEVDlrSFRBUWhocUZ5WWx4WW5YaDYxQ1BWZGVzeWtJTlRpNi1PcmpaaQ?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "area": "鴨川市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-17T22:00:21.220Z"
-    },
-    {
-      "title": "千葉県鴨川市の海辺に、小さなスペシャルティコーヒースタンド「MARINE COFFEE」公式ECサイトを7月14日（火）にオープン",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTlpWdTZOM3RFNGRkRnNwZkd3YTljTi1DRlROVUo5dXRMYW9CSUNpV28wbUEtMUNtQ29ubmxTZmRBRTZmU0dHeFdXWDlQSE5IQnZjaXY1enExVlFyLWUzYmFDRDBWRzVHSHN1clJnQ0tRa1M0Wkc5Slhmbw?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Tue, 14 Jul 2026 02:48:19 GMT",
-      "area": "鴨川市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-14T22:05:55.996Z"
     }
   ]
 }
