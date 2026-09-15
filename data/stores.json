@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:49:12.981Z",
+  "generatedAt": "2026-09-15T23:29:19.523Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 46
+      "count": 43
     }
   ],
-  "itemCount": 76,
+  "itemCount": 77,
   "hotpepper": {},
   "items": [
     {
@@ -53,6 +53,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-13T23:04:21.992Z"
+    },
+    {
+      "title": "従業員への売春強要事件 ガールズバー店長に懲役7年「尊厳を顧みない悪質な犯行」",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcC1vNk8xdDA2LUY0RHRESmtoSnlJa0lOSksxUGlMXzAtTlpDS2hfQ0RxaHRMRjdWYzFaUkZid2ZpQ2VHQzhkc3gwWTFNc3VuR1pkQ3dMTkdCblJGM1hDVS1QN2ZqaWlCODFqV0tiVWswdw?oc=5",
+      "source": "テレ朝NEWS",
+      "pubDate": "Wed, 09 Sep 2026 04:13:04 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-15T23:29:14.363Z"
     },
     {
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
@@ -162,7 +174,7 @@
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -511,7 +523,7 @@
     {
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
