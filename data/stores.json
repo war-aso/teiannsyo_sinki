@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:36:41.939Z",
+  "generatedAt": "2026-09-17T23:29:26.773Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,12 +36,44 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 46
     }
   ],
-  "itemCount": 75,
+  "itemCount": 81,
   "hotpepper": {},
   "items": [
+    {
+      "title": "PRESS | CLASSY.[クラッシィ]",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mNnFkZExnNXRCTTNRUnNnMVRqbG14bFVWbVA3WXluVjg4R3pJY1lFZG5VSnBkZ3hndGpXSlo1TURKTHhMaUlHWnNvZGdjVEE2MVRheEEwcw?oc=5",
+      "source": "CLASSY.[クラッシィ]",
+      "pubDate": "Thu, 17 Sep 2026 06:01:15 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-17T23:29:18.415Z"
+    },
+    {
+      "title": "九州博多の風物詩 “中洲の屋台村”を再現！活気ある雰囲気と名物料理が楽しめる！劇場型酒場『屋台屋 博多劇場 南越谷店 オープン』 | 株式会社一家ホールディングスのプレスリリース",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZ25tcVFTSzhLaWVTY0ZsWkQ2N3RTTXNneXhXd0hfdGRTQWRBWk01ekRrSnh4RXJPa19ma1NoZHZKbGJzS2hZbGtQTU9jWmJSNU5aeW4zUWlUNTZLS2lHeGIyZExZSG1jY2c?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Mon, 14 Sep 2026 07:10:01 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-17T23:29:18.412Z"
+    },
+    {
+      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始…",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZVFxajJVWHhYUDJnbjFBRTdZMFEzZGxBR1dObmxIc2lubUNLeWtOSEFzZWxXTFRFeHByTUZEWXAtUUtraXBFZjN1X3hJQjM1WVA1dzFn?oc=5",
+      "source": "フーズチャネル",
+      "pubDate": "Sun, 13 Sep 2026 04:38:34 GMT",
+      "area": "館山市",
+      "genres": [
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-17T23:29:18.416Z"
+    },
     {
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YdkRJaG9YNmVKazU4YzNjS1VTWTdyZ05oSjVaTG9oVk5JNHJ4Q2F4anJ6ZXRyNFRLX2NjQzNFT3Q5dERVVVRCSHN5elBqaXI3UmRoSHN6VTItb0RScVVRbTRQa2NiaHo5d1R5aTdUUkJ0cWc?oc=5",
@@ -65,6 +97,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-09-15T23:29:14.363Z"
+    },
+    {
+      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNW1ZSjVDU3VuVXhqSlZfdWR0X19rZVdaM2dRTWl4QXN2WjgtSUhXTmp1aWFIbEk1SUhKdlZnYUp2c0RLOTlzRTNsLU1TUWR2RVBFRVNKcHROUWRlX211bGJhUXYxQy1zNzM4QnJFdkRUcVl4cE1Yalg2X21iMEk5VG1EM3k0dHNP?oc=5",
+      "source": "Mantan Web",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "area": "館山市",
+      "genres": [
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-17T23:29:18.416Z"
     },
     {
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
@@ -172,6 +216,18 @@
       "firstSeenAt": "2026-09-02T23:13:46.312Z"
     },
     {
+      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-21T21:31:37.203Z"
+    },
+    {
       "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSUhjdEVMLS1GWVlfaUh6NlVPVHphMEszUUNsbjhDdGxqLUJUTGFFNHZCLVZ1SjhQdGZXU3NfWjFONjRHOFY4VXpqUzc5MzFHWmc?oc=5",
       "source": "船橋つうしん",
@@ -199,7 +255,7 @@
       "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GemxCcWhZUXdYb0xKTGtsNnJlSVhrclo4VHRtTk1jdS1WcGpjd2lPZTlEdlFvSGVkS3NERnJZNGFIQlBzQUd4VURkQUdqOUFwckhLVUhiREVPdGpEcWNBYlNGVURoSEw4UHczcWdPUzRDcjJYdUdIT2dvQ1dQaHc?oc=5",
       "source": "Yahoo!ニュース",
-      "pubDate": "Sun, 30 Aug 2026 09:02:46 GMT",
+      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
         "カフェ"
@@ -242,6 +298,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-29T03:07:57.539Z"
+    },
+    {
+      "title": "千葉・市原のバームクーヘンカフェ「SARAri」 公式オンラインストアを8月21日に開設",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vcy1PbGc2YWtTdDc4WlFrS29vaWRrVkhKQ1g4WGxJLVY4R0tudWg2SHBIU19sRXBZdmd6dXlHaktWWEd0T1l3?oc=5",
+      "source": "Newscast.jp",
+      "pubDate": "Thu, 27 Aug 2026 18:40:19 GMT",
+      "area": "市原市",
+      "genres": [
+        "カフェ",
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-17T23:29:18.416Z"
     },
     {
       "title": "【9月1日オープン】ミスタージェントルマン船橋店、船橋駅南口に和洋創作ダイニング居酒屋",
@@ -400,18 +469,6 @@
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-21T21:31:37.203Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRFJFQXR2VmFoRmlsRGdKM3FPTWlGdUZScTBhOWxEOHhIWVFINk5JQmN2VmJLTGRieUs1aHJ6a0M0UmhjdFgwWTlQWG9GWTg0QjN2N1poQjREdw?oc=5",
       "source": "Kstyle",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -484,6 +541,16 @@
       "firstSeenAt": "2026-09-11T23:10:14.913Z"
     },
     {
+      "title": "【流山市】おおたかの森に「おおたかのぱりぱり」誕生！柏で人気の素揚げ酒場が流山初進出",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTzQ3bmVoeFgxMUZlLVd0SGdXa2s3a2xIQlRxZmY0NVd0ZG1sZmZnNVdOdjAwYldSaVduSzZCaTIwOEpXVUFiajRfTV94OEdNTXM4Z3Z2aS1MeUNjZjc2Qklab3g?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "area": "流山市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-17T23:29:18.413Z"
+    },
+    {
       "title": "【8/31グランドOPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくすぐるイタリアン",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45blVBLU82ZHNqcjBsMkUtS1RRNC14TUcxRGp3eXJKNkdWeUFOMnRWN3Y5dzBjTk1FckZkZ0xkOHlQeDFtS3Fhc2ZDcnNhWXFkamMxaFVWODZ5RHMyQzNyNDBLdHlZT1BnY1ZNZlQ5bWxPUXVGTVE?oc=5",
       "source": "ニコニコニュース",
@@ -511,7 +578,7 @@
     {
       "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -764,7 +831,7 @@
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
       "area": "四街道市",
       "genres": [
@@ -776,7 +843,7 @@
     {
       "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Wed, 29 Jul 2026 20:34:54 GMT",
       "area": "",
       "genres": [],
