@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:29:26.773Z",
+  "generatedAt": "2026-09-18T23:11:22.610Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,19 +24,19 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 2
+      "count": 3
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 46
+      "count": 44
     }
   ],
   "itemCount": 81,
@@ -90,7 +90,7 @@
       "title": "従業員への売春強要事件 ガールズバー店長に懲役7年「尊厳を顧みない悪質な犯行」",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcC1vNk8xdDA2LUY0RHRESmtoSnlJa0lOSksxUGlMXzAtTlpDS2hfQ0RxaHRMRjdWYzFaUkZid2ZpQ2VHQzhkc3gwWTFNc3VuR1pkQ3dMTkdCblJGM1hDVS1QN2ZqaWlCODFqV0tiVWswdw?oc=5",
       "source": "テレ朝NEWS",
-      "pubDate": "Wed, 09 Sep 2026 04:13:04 GMT",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -816,6 +816,16 @@
       "firstSeenAt": "2026-08-29T03:07:57.539Z"
     },
     {
+      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
+      "source": "千葉日報オンライン",
+      "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-08-30T23:22:11.236Z"
+    },
+    {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
       "source": "ホットペッパーグルメ",
@@ -831,7 +841,7 @@
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
       "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
       "area": "四街道市",
       "genres": [
@@ -839,16 +849,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-29T22:06:18.859Z"
-    },
-    {
-      "title": "組員脱退妨害、組長に再発防止命令 千葉県警",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4UElvRUpJTzgxQTk4THRXYUZjbHVZMlJDVk16OTBVX0o5eDNSNi1ETlNmNk1DTVhVZ09ZXzJjZ1EwMGhzNERyaGgwT3UtRVhJRE9FSWhMdlc?oc=5",
-      "source": "chibanippo.co.jp",
-      "pubDate": "Wed, 29 Jul 2026 20:34:54 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-30T23:22:11.236Z"
     },
     {
       "title": "船橋市本町に「PHILOCOFFEA旧焙煎所」が7/31（金）オープン、バリスタ世界王者の原点の場所が新カフェに",
