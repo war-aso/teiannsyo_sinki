@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T23:11:22.610Z",
+  "generatedAt": "2026-09-19T22:52:03.086Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 42
     }
   ],
-  "itemCount": 81,
+  "itemCount": 80,
   "hotpepper": {},
   "items": [
     {
@@ -994,18 +994,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-27T00:37:59.518Z"
-    },
-    {
-      "title": "船橋駅南口近くにタコス＆カフェ「サンズ・タケリア」が7/19（日）からオープン、キャッシュレス決済のみ",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xZmtLNUJ4bnV0VmwxSFhsaGpURVRlMk9TQVRBWlQ0Z2t3UUI4clcwUlU4dEhmUjRsYWZuNDZvcWZNX05TcjRfYndYWENUSUNCQWc?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-24T22:12:36.515Z"
     }
   ]
 }
