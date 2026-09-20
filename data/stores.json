@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:52:03.086Z",
+  "generatedAt": "2026-09-20T23:08:57.301Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,30 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 42
+      "count": 47
     }
   ],
-  "itemCount": 80,
+  "itemCount": 79,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【11月下旬オープン】李朝園が関東初上陸！流山おおたかの森に韓国料理店",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wRXRyQmV2WmNUOTAtQjA2VG9DQXRBV19Mb1hoWnVteTBkWGN3S3VWR3VhN215ZWRfVldMX0dMVWJMSlY4RkFFbGV2ZnlBWFY3RE00U0x0b2MxaTFxeXZQQy1wOE4?oc=5",
+      "source": "gummaumaimono.info",
+      "pubDate": "Sun, 20 Sep 2026 13:11:45 GMT",
+      "area": "流山市",
+      "genres": [
+        "韓国料理"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-20T23:08:51.331Z"
+    },
     {
       "title": "PRESS | CLASSY.[クラッシィ]",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mNnFkZExnNXRCTTNRUnNnMVRqbG14bFVWbVA3WXluVjg4R3pJY1lFZG5VSnBkZ3hndGpXSlo1TURKTHhMaUlHWnNvZGdjVEE2MVRheEEwcw?oc=5",
@@ -204,6 +216,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-07T23:25:08.234Z"
+    },
+    {
+      "title": "城西国際大生たちがカフェオープン 9月5日までの期間限定営業 いすみ市で",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kZTJvQ1lYY1NJT1ZVcmRISjNZZ082eXh3UWR1TUJfbXZhR0JQUmhzeFVhT0hwdVNxN2pielBDQjl2VEltNkFrWWl0Ujl5T2hGaEcxbkZpaGFRY25NMkRCWmlkellUam90YWtodTNXUGhWcUZxcnc?oc=5",
+      "source": "産経ニュース",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "area": "いすみ市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-20T23:08:51.333Z"
     },
     {
       "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
@@ -841,7 +865,7 @@
     {
       "title": "深夜営業でガールズバー４０日営業停止 四街道署",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZHBNUkZzQUZmZnF5OUZKZ2RpWnF4dXFDRTF3M29vc0c3SVRMZml4bnZvSkNCdnNBY1JTTVFzWXdxajBWc2k0emkzX1pubFlrZFFWOGF2SkM?oc=5",
-      "source": "千葉日報オンライン",
+      "source": "chibanippo.co.jp",
       "pubDate": "Wed, 29 Jul 2026 21:08:43 GMT",
       "area": "四街道市",
       "genres": [
@@ -913,7 +937,7 @@
     {
       "title": "柏駅西口2分に炭火焼鳥×蒸籠料理の居酒屋「スミムス」7/16（水）オープン、半個室完備",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByaVl5OU45YTZmTHBpb0NGdVVnNHE0cEFVaFJ3cWNTeFhSSXRLNUMxVnY0RTdkcDNNcjRWSzBOTkJSbktCZnhOQVFFSFBoVk0?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -957,43 +981,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-07-29T22:06:18.859Z"
-    },
-    {
-      "title": "本町2丁目に「中華そば居酒屋処 杉ちゃんラーメン」が7/19（日）からオープン、タイロン食堂跡地",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mNXMtWEI1SmJNWkZfUHpIT0JHRXYzZVJVaF9wQUxFOUpSSDVhMzM3NGpFMzF1WWJCbmNtTC1TR2M4dmxnQmJhQTFhNGRILWhZR3c?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "居酒屋",
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-07-23T22:10:10.418Z"
-    },
-    {
-      "title": "下関・安岡地区にビュッフェ形式のレストランオープン！揚げたて天ぷらを提供するライブキッチンも",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vd0U1WmF6RVNpUnkxTWZwZUdDQmlJWGU3WG5EUThET2o0QzRqb3RHcjhYcFlWUk1SR1V0b3FURjlneWxRRllWdFdhQnVNN2FzbDhSMENSUQ?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-23T21:28:24.629Z"
-    },
-    {
-      "title": "下関・安岡地区にビュッフェ形式のレストランオープン！揚げたて天ぷらを提供するライブキッチンも",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtWFc5T3hCa1ZfckZNUUNSYnIyNnlhczdvSG5PWkEyMWR6RWhzdVduZVZRQXdnRF9kUTRZbUVzRTEyM25FSERUQVVreWJHWTZ5SjdreWs1QU02Zw?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-27T00:37:59.518Z"
     }
   ]
 }
