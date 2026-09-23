@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:33:47.677Z",
+  "generatedAt": "2026-09-23T23:34:33.193Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 73
+      "count": 58
     }
   ],
-  "itemCount": 80,
+  "itemCount": 81,
   "hotpepper": {},
   "items": [
     {
@@ -159,6 +159,18 @@
       "firstSeenAt": "2026-09-17T23:29:18.416Z"
     },
     {
+      "title": "従業員への売春強要事件 ガールズバー店長に懲役7年「尊厳を顧みない悪質な犯行」",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNY3RWWEE4VW10YzVCYm9ZeEtSTUNCWVFJSE5JZWRJZ19vVzZLSmJMRVptaGJPbkJTemszNW5rV1dlTVF6WDUtb0RlTUVwXzJtMnAxQkJzbXV4X2M?oc=5",
+      "source": "ABEMA",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-23T23:34:27.574Z"
+    },
+    {
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcDQzdTZRWEZqcWZlZHdMREJ6RkE3bk9mMDRPZHNiZHFwU0ZiRUxQdEZHazJvMTZXSzFKeFptUWJBeXlnbVpMV1FVV3c4N1ZRWEFESzVGY05yMjMxeEhnWS0tRzFBUlF4aVE?oc=5",
       "source": "PR TIMES",
@@ -173,8 +185,8 @@
     {
       "title": "「れんげ食堂Toshu 北小金店」オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83SUVsZnhuX0RON0tLZEVDZi1KeG1heW1IM1otam94Tk43cnlkdFdqSnlWdHF3ZXQtaC0zLVQ5MDhFMTJ5ZlZHY0t1bFhfZVc2QTVzYkYyVm1RaXhGdmZJV0dLZlZycm45MHc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Mon, 07 Sep 2026 01:00:02 GMT",
+      "source": "prtimes.jp",
+      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
       "area": "",
       "genres": [],
       "signal": "opening",
@@ -192,6 +204,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-05T22:46:10.663Z"
+    },
+    {
+      "title": "【オープン日判明】北小金駅南口の庄屋跡地に「れんげ食堂Toshu 北小金店」9/9（水）オープン決定",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DeS02cFVNTzMwMTg5QWEwUVUxNGwxNXUwOXIwTGQ2bE5qZjdEZWZ2V1JyT1did1V4ZklhQmpvVWpKTkFSbTJaRkg1YldJWVE?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-23T23:34:27.571Z"
     },
     {
       "title": "学生が有機食材使って古民家カフェ！ 地域課題解決のため 千葉・城西国際大",
@@ -278,7 +300,7 @@
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -660,7 +682,7 @@
     {
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -898,7 +920,7 @@
     {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "ホットペッパーグルメ",
+      "source": "hotpepper.jp",
       "pubDate": "Wed, 29 Jul 2026 22:40:31 GMT",
       "area": "",
       "genres": [
@@ -979,18 +1001,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-05T22:46:10.667Z"
-    },
-    {
-      "title": "柏駅西口2分に炭火焼鳥×蒸籠料理の居酒屋「スミムス」7/16（水）オープン、半個室完備",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByaVl5OU45YTZmTHBpb0NGdVVnNHE0cEFVaFJ3cWNTeFhSSXRLNUMxVnY0RTdkcDNNcjRWSzBOTkJSbktCZnhOQVFFSFBoVk0?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-08T23:17:52.627Z"
     }
   ]
 }
