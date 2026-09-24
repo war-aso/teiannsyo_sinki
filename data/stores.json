@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:34:33.193Z",
+  "generatedAt": "2026-09-24T23:50:19.202Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 58
+      "count": 52
     }
   ],
   "itemCount": 81,
@@ -53,6 +53,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
+    },
+    {
+      "title": "《酒を片手にタクシーでガールズバーへ》消えた大河俳優 芸能界引退→2度の離婚後に“意味深投稿”→アルコール依存症、借金生活を経て“芸人転向”の現在地",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JUjhxNEpNQjhEeFhCRXBSd09iMXlhYWYtc2xUcUszNGE0NlVvX3V0VEQ3Qjk2emhTcVZCWGctU2paLUgyZVBmVkhCNEpoNnZrRDRFYmhwNmMtczJvZGdyRkVsTGlPUWIzLWRVeXp3?oc=5",
+      "source": "article.auone.jp",
+      "pubDate": "Sat, 19 Sep 2026 02:00:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-09-24T23:50:15.385Z"
     },
     {
       "title": "PRESS | CLASSY.[クラッシィ]",
@@ -185,7 +197,7 @@
     {
       "title": "「れんげ食堂Toshu 北小金店」オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83SUVsZnhuX0RON0tLZEVDZi1KeG1heW1IM1otam94Tk43cnlkdFdqSnlWdHF3ZXQtaC0zLVQ5MDhFMTJ5ZlZHY0t1bFhfZVc2QTVzYkYyVm1RaXhGdmZJV0dLZlZycm45MHc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
       "area": "",
       "genres": [],
@@ -300,7 +312,7 @@
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -599,7 +611,7 @@
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhlQ1NDeFYzSlJub2FLV19jWjFCbzVMV25seWQxVnMtN01PMzFUNHdUMGRkbFlJeC1QalZvOFkxNnQ1SU9oRzh0WQ?oc=5",
       "source": "ガジェット通信",
-      "pubDate": "Mon, 17 Aug 2026 10:45:56 GMT",
+      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
         "カフェ"
@@ -682,7 +694,7 @@
     {
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -732,7 +744,7 @@
       "title": "柏市根戸の市営住宅そばにカフェ「and coffee」が7/31（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wclJ2TUdQcnZIVEc0UXpMcnFQcWc0bGNOYUU5eFRHc2Y4M3JvS0FEVnpyeEx2Qjl0NkJBa0IyNUR1Q1FOU1FZeGdmTXQyMHM?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Fri, 07 Aug 2026 08:25:22 GMT",
+      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "カフェ"
@@ -920,7 +932,7 @@
     {
       "title": "大衆酒場レストラン(千葉中央/居酒屋)＜ネット予約可",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVS1mc2NiSGR4d1FKYkMxMktzMHVqUmVXMFh4cnBmUU5DYkdEN2d1Sk5uLUhBVjNmQ2F4WlBKOGVubGM2MWFrV3h4ZlpUVk54?oc=5",
-      "source": "hotpepper.jp",
+      "source": "ホットペッパーグルメ",
       "pubDate": "Wed, 29 Jul 2026 22:40:31 GMT",
       "area": "",
       "genres": [
@@ -989,18 +1001,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-10T23:03:49.896Z"
-    },
-    {
-      "title": "佐渡寿司弁慶が千葉・津田沼に関東最大級の直営店オープン 3世代をターゲットに首都圏へ本格進出",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4S3ZyZVVtSk1xZHRNWFNiS1BtLW81ZkhfZ3hGVXJiMmF5MUNzYng5NDAyX2xjbFQ4ckduQm9PbVpjeTR4ZEtmZjQ2cWZad2hrWHFfUi1sQQ?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "pubDate": "Sun, 26 Jul 2026 12:04:10 GMT",
-      "area": "習志野市",
-      "genres": [
-        "寿司"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-05T22:46:10.667Z"
     }
   ]
 }
