@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:56:15.566Z",
+  "generatedAt": "2026-09-30T00:17:30.238Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,28 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 14
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 74
+      "count": 71
     }
   ],
-  "itemCount": 72,
+  "itemCount": 71,
   "hotpepper": {},
   "items": [
+    {
+      "title": "BONTEMPS成田店が9/1オープン｜韓国発ドーナツ千葉初出店、約20種・当日製造当日完売",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUkJ2SmwtZ2VZNlRwSU1kOG9YRDAyUHRYMkF3eTlKTEZiYkVrcWItZjhJb0J3MXVwckhuMjQ5M1Y3cGEtRVdiQWpQeE93YmZoYnVJeFRGN09KUGdxVG9VWQ?oc=5",
+      "source": "ジモはる",
+      "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-09-30T00:17:23.907Z"
+    },
     {
       "title": "柏市明原に「まいばすけっと」がオープンするようです、柏駅から徒歩7分でオープニングスタッフを募集",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yQWN5aVVzYWpRTmxpYVlCTGg4UUJUdUppRldaWTFTdndwSDhmZ01ibFk4aHRGUDZ3UDR5Z3BubkRNY1FqYnkwMVIyRHlDNUk?oc=5",
@@ -55,7 +65,7 @@
     {
       "title": "9/17（木）津田沼駅北口から徒歩3分に「串カツ田中 津田沼店」がオープン！揚げたて串カツの居酒屋",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxMzh4MlU2by00dnZHdTBvRldrUHFlcXNXYUdVd1BpdUNDcmNlOHhZdHF6OGk0UHFHd0g0clptWm1Rc2xaUk8zVnBHWVJqWWYxSVE?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Thu, 24 Sep 2026 02:28:14 GMT",
       "area": "習志野市",
       "genres": [
@@ -380,7 +390,7 @@
     {
       "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSUhjdEVMLS1GWVlfaUh6NlVPVHphMEszUUNsbjhDdGxqLUJUTGFFNHZCLVZ1SjhQdGZXU3NfWjFONjRHOFY4VXpqUzc5MzFHWmc?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
@@ -656,7 +666,7 @@
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhlQ1NDeFYzSlJub2FLV19jWjFCbzVMV25seWQxVnMtN01PMzFUNHdUMGRkbFlJeC1QalZvOFkxNnQ1SU9oRzh0WQ?oc=5",
-      "source": "getnews.jp",
+      "source": "ガジェット通信",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
@@ -765,7 +775,7 @@
     {
       "title": "船橋市本町2丁目のワインバー内に天然酵母ベーグル専門店「+C Bagel」が7/31（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xTzlmMmV4Qk9TNUxWRDFGTTJwNWpJRjhCazJlY3A3LWJHc0FTMWtmSXBYRGpsTElrSXJuYlk5Z05JS1JYV0h2bFNqVU1GTDE0T3c?oc=5",
-      "source": "funabashi-tsushin.com",
+      "source": "船橋つうしん",
       "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
@@ -870,28 +880,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-12T21:55:29.780Z"
-    },
-    {
-      "title": "深夜営業でガールズバー４０日営業停止　四街道署",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pTDAwaTRwSFdNZVVTQVNjeHNsN1dNLThaaXFoeWpZZzgySjhLN0J3ZHpkbWpRbV8wVWhGT3l1SmI5M2VpZXZyQm1QV2tIUWdwU1RwQ3FVNVU5NFNjU1JlSG5Fa0NlM2NJSEg5OEd6SlhDLUF4OHdGZ21iNWhZQdIBgwFBVV95cUxPR21RSi1KN182cTBuMXJDcV8xdTNQT0kwdG9veWZXUkdreGdwNUF1dFA4djBkUmZyTThfekkzLWZ6Q2x5VmxvVTNZbTZpSDhsRE5Ja2VDTTVqU2VhVFE2bEN2V2g2aVJTSXFwRmtfeHVOSmowMkVYdW05RU5kbWRlUGVFOA?oc=5",
-      "source": "ｄメニューニュース",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "area": "四街道市",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-14T21:32:13.592Z"
-    },
-    {
-      "title": "【7月25日オープン】千葉県野田市に新店「麺屋 虎と雷」誕生！迫力の虎×雷神ロゴが目印",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BdUNaN2REMVFhWUNoMVpaZjlCa1BtLW82bVJRSWlGemMwNG5PS2t1R3Z1aXMtSEpJU2xDUDAxX0pzQk96T2s3VE15SWdkTmZsRVhBczFvZ2JMbWNGNEVOUGdwWUc?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "area": "野田市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-18T21:31:04.285Z"
     }
   ]
 }
