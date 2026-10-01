@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:17:30.238Z",
+  "generatedAt": "2026-10-01T00:28:30.297Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,16 +36,28 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 71
+      "count": 70
     }
   ],
-  "itemCount": 71,
+  "itemCount": 73,
   "hotpepper": {},
   "items": [
     {
+      "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOGVPOGZQY3VfQmt1eFNENGNuNlhoQW9hSG9qQWt0bEFaT1dxZHBkcFFLcU5jZkxTbXBVMXV6M2lpTVBNVkRVMjhibDdqQ3F6dUFRWEpTSU5QRzMzUEpBNlBOMWM0ZUQxT2c?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Wed, 30 Sep 2026 23:00:01 GMT",
+      "area": "柏市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-01T00:28:26.889Z"
+    },
+    {
       "title": "BONTEMPS成田店が9/1オープン｜韓国発ドーナツ千葉初出店、約20種・当日製造当日完売",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUkJ2SmwtZ2VZNlRwSU1kOG9YRDAyUHRYMkF3eTlKTEZiYkVrcWItZjhJb0J3MXVwckhuMjQ5M1Y3cGEtRVdiQWpQeE93YmZoYnVJeFRGN09KUGdxVG9VWQ?oc=5",
-      "source": "ジモはる",
+      "source": "jimoharu.net",
       "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [],
@@ -354,6 +366,19 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-20T23:08:51.333Z"
+    },
+    {
+      "title": "船橋駅南口徒歩3分に和洋創作ダイニング居酒屋「Mr.Gentleman（ミスター・ジェントルマン）」9/1（火）グランドオープン",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nRFBGY0g0REk2Y0t1eFZuZGR5RHZQa2Y4cVdBX3p0VkNIem9JcF9pcjd6YktPWmN6dFQtd1l4d3RxbXhnRy1pZElNcmdLeGN3YkE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [
+        "居酒屋",
+        "ダイニング"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-01T00:28:26.885Z"
     },
     {
       "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
@@ -666,7 +691,7 @@
     {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhlQ1NDeFYzSlJub2FLV19jWjFCbzVMV25seWQxVnMtN01PMzFUNHdUMGRkbFlJeC1QalZvOFkxNnQ1SU9oRzh0WQ?oc=5",
-      "source": "ガジェット通信",
+      "source": "ガジェット通信 GetNews",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "長柄町",
       "genres": [
