@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:38:52.153Z",
+  "generatedAt": "2026-10-03T00:21:57.468Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,22 +30,22 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 14
+      "count": 12
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 70
+      "count": 63
     }
   ],
-  "itemCount": 74,
+  "itemCount": 75,
   "hotpepper": {},
   "items": [
     {
       "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間 | ウッドデザインパーク株式会社のプレスリリース",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOGVPOGZQY3VfQmt1eFNENGNuNlhoQW9hSG9qQWt0bEFaT1dxZHBkcFFLcU5jZkxTbXBVMXV6M2lpTVBNVkRVMjhibDdqQ3F6dUFRWEpTSU5QRzMzUEpBNlBOMWM0ZUQxT2c?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Wed, 30 Sep 2026 23:00:01 GMT",
       "area": "柏市",
       "genres": [
@@ -57,7 +57,7 @@
     {
       "title": "【千葉県初出店】舞浜・イクスピアリ®に「カスタマイズ麻辣湯」が登場！『極味薬膳スープ 菜菜麻辣湯』10月19日（月）フードコート内にオープン！ | 株式会社クリエイト・レストランツ・ホールディングスのプレスリリース",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LQWlYTTJ4MVUzeFdPd0dyYUd0VzNFekkyQXd2T0FEcmUtZnJneUVScS1ONHo5dW5WWU8tNnBSUFlhNEFlajBncmdSSDZnOU1IeEpZTWpzVEdGWVlTS0ppd25vWTB5bUt3Y0E?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Tue, 29 Sep 2026 05:10:01 GMT",
       "area": "浦安市",
       "genres": [
@@ -79,12 +79,22 @@
     {
       "title": "柏市明原に「まいばすけっと」がオープンするようです、柏駅から徒歩7分でオープニングスタッフを募集",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yQWN5aVVzYWpRTmxpYVlCTGg4UUJUdUppRldaWTFTdndwSDhmZ01ibFk4aHRGUDZ3UDR5Z3BubkRNY1FqYnkwMVIyRHlDNUk?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Sun, 27 Sep 2026 02:02:51 GMT",
       "area": "柏市",
       "genres": [],
       "signal": "hiring",
       "firstSeenAt": "2026-09-27T23:44:33.579Z"
+    },
+    {
+      "title": "【オープン日決定】10/13（火）新松戸3丁目に「MAISON IMPECCABLE（メゾンアンペック）」がオープン！ケーキやパフェ、アフタヌーンティーが楽しめるスイーツ店",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Cc01TMkVoaTRDNTBTZ3Z6dmt1T0prVkZyMWpTX1hoNUZvNGFZX0F4eWY3QzNfNXNFNGhGdmtWbjVNOFFzR1R0dGh6YjVKYnc?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Thu, 24 Sep 2026 02:28:41 GMT",
+      "area": "松戸市",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-10-03T00:21:53.992Z"
     },
     {
       "title": "9/17（木）津田沼駅北口から徒歩3分に「串カツ田中 津田沼店」がオープン！揚げたて串カツの居酒屋",
@@ -181,7 +191,7 @@
     {
       "title": "従業員への売春強要事件 ガールズバー店長に懲役7年「尊厳を顧みない悪質な犯行」",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcC1vNk8xdDA2LUY0RHRESmtoSnlJa0lOSksxUGlMXzAtTlpDS2hfQ0RxaHRMRjdWYzFaUkZid2ZpQ2VHQzhkc3gwWTFNc3VuR1pkQ3dMTkdCblJGM1hDVS1QN2ZqaWlCODFqV0tiVWswdw?oc=5",
-      "source": "news.tv-asahi.co.jp",
+      "source": "テレ朝NEWS",
       "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -403,18 +413,6 @@
       "firstSeenAt": "2026-09-02T23:13:46.312Z"
     },
     {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "prtimes.jp",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-21T21:31:37.203Z"
-    },
-    {
       "title": "《大の仲良し兄妹だったのに…》ガルバ共同経営していた妹を遺棄した“イケメンお兄ちゃん”片岡諭志容疑者の犯行とは裏腹の“兄妹愛っぷり”「でも怒ると怖いと言う人もいた」",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMTkyWS1WNWhmSVRZQkFsdXN2S3RETFJ5UVdyTjRCdjRsT0VoT2E1T0o0dGNCOVdhY2hhRGxDSWhUS0wtR1Q5enUzWnZOZzdCSHBTR2FpZ005TEY3ODI5eVVRbmJvaWFvUkpYQmJ3?oc=5",
       "source": "au Webポータル",
@@ -451,7 +449,7 @@
     {
       "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GemxCcWhZUXdYb0xKTGtsNnJlSVhrclo4VHRtTk1jdS1WcGpjd2lPZTlEdlFvSGVkS3NERnJZNGFIQlBzQUd4VURkQUdqOUFwckhLVUhiREVPdGpEcWNBYlNGVURoSEw4UHczcWdPUzRDcjJYdUdIT2dvQ1dQaHc?oc=5",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
       "area": "成田市",
       "genres": [
@@ -666,6 +664,18 @@
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "area": "成田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-08-21T21:31:37.203Z"
+    },
+    {
+      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRFJFQXR2VmFoRmlsRGdKM3FPTWlGdUZScTBhOWxEOHhIWVFINk5JQmN2VmJLTGRieUs1aHJ6a0M0UmhjdFgwWTlQWG9GWTg0QjN2N1poQjREdw?oc=5",
       "source": "Kstyle",
       "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -775,7 +785,7 @@
     {
       "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -787,7 +797,7 @@
     {
       "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "prtimes.jp",
+      "source": "PR TIMES",
       "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
       "area": "",
       "genres": [
@@ -836,7 +846,7 @@
     {
       "title": "柏市根戸の市営住宅そばにカフェ「and coffee」が7/31（木）オープン",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wclJ2TUdQcnZIVEc0UXpMcnFQcWc0bGNOYUU5eFRHc2Y4M3JvS0FEVnpyeEx2Qjl0NkJBa0IyNUR1Q1FOU1FZeGdmTXQyMHM?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
