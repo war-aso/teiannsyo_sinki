@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:21:57.468Z",
+  "generatedAt": "2026-10-04T23:55:04.675Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 5
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 63
+      "count": 43
     }
   ],
-  "itemCount": 75,
+  "itemCount": 72,
   "hotpepper": {},
   "items": [
     {
@@ -276,7 +276,7 @@
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcDQzdTZRWEZqcWZlZHdMREJ6RkE3bk9mMDRPZHNiZHFwU0ZiRUxQdEZHazJvMTZXSzFKeFptUWJBeXlnbVpMV1FVV3c4N1ZRWEFESzVGY05yMjMxeEhnWS0tRzFBUlF4aVE?oc=5",
       "source": "PR TIMES",
-      "pubDate": "Tue, 08 Sep 2026 01:00:02 GMT",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
       "area": "館山市",
       "genres": [
         "スナック"
@@ -497,7 +497,7 @@
     {
       "title": "千葉・市原のバームクーヘンカフェ「SARAri」 公式オンラインストアを8月21日に開設",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vcy1PbGc2YWtTdDc4WlFrS29vaWRrVkhKQ1g4WGxJLVY4R0tudWg2SHBIU19sRXBZdmd6dXlHaktWWEd0T1l3?oc=5",
-      "source": "newscast.jp",
+      "source": "Newscast.jp",
       "pubDate": "Thu, 27 Aug 2026 18:40:19 GMT",
       "area": "市原市",
       "genres": [
@@ -890,43 +890,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-24T21:36:30.075Z"
-    },
-    {
-      "title": "【千葉・松戸市根本】焼肉ここから 松戸店が8月下旬オープン予定｜元祖ぶ厚い焼肉が松戸駅東口に",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMVRuYnpZUlFlUTVnVmlQaTVPZzQ1MmlJX2ZhQ3dlNkY3dUFuZVB1eFltQVlTcmNOaEdxSml2Q01mZ2hMLUEwVktmbVdvU0FTRFVTenc4RHNBeW5sUmt1M1pzLTk?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-04T22:18:41.554Z"
-    },
-    {
-      "title": "【千葉・柏市若柴】国道16号沿いに「俺屋 柏の葉店」8月1日オープン！ちゃん系×ラーショの新感覚中華そば",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWUJrNGd2WThuejZfQzUwTllxWUNabnI1Y3VQQ09lVURLb29ybEtuMjNUNGZNekZrNFh1SkthM1g2eVhuUkJqMTA1SzB4aGdQUEJZUlY3NldWeFlkVm9lVVhJbFc?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-05T22:16:57.245Z"
-    },
-    {
-      "title": "松戸駅東口のおでん居酒屋・桜井電気商会跡地に「焼肉ここから 松戸店」が8月下旬オープン予定、元祖ぶ厚い焼肉",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wUllnczJMa2JDMU5Nb0EweFZlZHRBZzkxQVlRbU5IUlJBdXpxYS1EdGczM1ZGLTdxblJiNFUyN251Sm5xSVRib0V3aTlzX2s?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "居酒屋",
-        "焼肉"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-12T21:55:29.780Z"
     }
   ]
 }
