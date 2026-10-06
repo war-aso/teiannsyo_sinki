@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:55:04.675Z",
+  "generatedAt": "2026-10-06T01:43:05.830Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 43
+      "count": 45
     }
   ],
   "itemCount": 72,
@@ -380,7 +380,7 @@
     {
       "title": "城西国際大生たちがカフェオープン 9月5日までの期間限定営業 いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kZTJvQ1lYY1NJT1ZVcmRISjNZZ082eXh3UWR1TUJfbXZhR0JQUmhzeFVhT0hwdVNxN2pielBDQjl2VEltNkFrWWl0Ujl5T2hGaEcxbkZpaGFRY25NMkRCWmlkellUam90YWtodTNXUGhWcUZxcnc?oc=5",
-      "source": "産経ニュース",
+      "source": "sankei.com",
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
       "area": "いすみ市",
       "genres": [
@@ -437,7 +437,7 @@
     {
       "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
@@ -649,6 +649,18 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-08-27T00:37:59.523Z"
+    },
+    {
+      "title": "新松戸1丁目に居酒屋「やきとり にしだ場 新松戸店」が8/10（月）からオープンされていました",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVRDZQeUJQeWs2MUJRMzI0MmtNNVdHN3NUNWVfdV9kVmc2WTBXdXBQNlZzY2pqWnY3Wjdjbmh5VF9WZGlPRG5mZVVpSl85aEk?oc=5",
+      "source": "matsudo-tsushin.com",
+      "pubDate": "Sat, 22 Aug 2026 07:00:00 GMT",
+      "area": "松戸市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-06T01:43:02.759Z"
     },
     {
       "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
@@ -878,18 +890,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-29T23:12:29.117Z"
-    },
-    {
-      "title": "新静岡セノバに「シェア型レストラン」オープン 初期費用を抑えて\"お試し出店\"できる新たな営業スタイル＝静岡市",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyX0JwekphalFuM1RlUVIwTExBcldUQUVVV1dhV0U1OW43emVjZmRTUUJieE5hOGduRzE2RmNiWThOTXdGYzZZb2Q0Mmkyb2x5Q1NmVVFaNA?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "レストラン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-24T21:36:30.075Z"
     }
   ]
 }
