@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T01:43:05.830Z",
+  "generatedAt": "2026-10-07T00:34:16.693Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,12 +36,22 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 45
+      "count": 43
     }
   ],
-  "itemCount": 72,
+  "itemCount": 71,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【10月3日オープン】船橋・芝山に「麺家大和」誕生｜麺・味・油を選べる新店ラーメンのメニューと駐車場まとめ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMWNUMEMzRGVaME4zRnlDTWlVcnoyMWo2SE1UM04ybExSYlRmSnE2NTVYSWxQeERCTGVLU2huclFGOEdIdG96TDVFZlN1RTlGekdlcGlIMmNIUjRUWDNQT1dqOVo?oc=5",
+      "source": "ぐんぐるブログ",
+      "pubDate": "Mon, 05 Oct 2026 10:54:44 GMT",
+      "area": "船橋市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-07T00:34:11.995Z"
+    },
     {
       "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間 | ウッドデザインパーク株式会社のプレスリリース",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOGVPOGZQY3VfQmt1eFNENGNuNlhoQW9hSG9qQWt0bEFaT1dxZHBkcFFLcU5jZkxTbXBVMXV6M2lpTVBNVkRVMjhibDdqQ3F6dUFRWEpTSU5QRzMzUEpBNlBOMWM0ZUQxT2c?oc=5",
@@ -111,7 +121,7 @@
     {
       "title": "【11月下旬オープン】李朝園が関東初上陸！流山おおたかの森に韓国料理店",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wRXRyQmV2WmNUOTAtQjA2VG9DQXRBV19Mb1hoWnVteTBkWGN3S3VWR3VhN215ZWRfVldMX0dMVWJMSlY4RkFFbGV2ZnlBWFY3RE00U0x0b2MxaTFxeXZQQy1wOE4?oc=5",
-      "source": "gummaumaimono.info",
+      "source": "ぐんぐるブログ",
       "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
       "area": "流山市",
       "genres": [
@@ -380,7 +390,7 @@
     {
       "title": "城西国際大生たちがカフェオープン 9月5日までの期間限定営業 いすみ市で",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kZTJvQ1lYY1NJT1ZVcmRISjNZZ082eXh3UWR1TUJfbXZhR0JQUmhzeFVhT0hwdVNxN2pielBDQjl2VEltNkFrWWl0Ujl5T2hGaEcxbkZpaGFRY25NMkRCWmlkellUam90YWtodTNXUGhWcUZxcnc?oc=5",
-      "source": "sankei.com",
+      "source": "産経ニュース",
       "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
       "area": "いすみ市",
       "genres": [
@@ -483,6 +493,18 @@
       "firstSeenAt": "2026-09-11T23:10:14.913Z"
     },
     {
+      "title": "松戸駅西口近くに「寿司と焼鳥大地 松戸店」10/15（水）オープン予定、豊洲直送の鮮魚と備長炭焼鳥が揃う",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MUml3Zk5HTEdtS09vNkZWOHNlcEpQQU51NFNsazZCZkJCWHRaU08zMlhOdE1OUWZGTDU4TkROVi11d1lhYVJDS2pRNVF2TTQ?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
+      "area": "松戸市",
+      "genres": [
+        "寿司"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-07T00:34:11.995Z"
+    },
+    {
       "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaUDYxNnNUOFo3cm9fY0k4aWhDVzJia3o2RU15SUNjWlp3YVlOUG51Nmc3T1ExQzJ6M2VNS01XOXp6SjhHLUk4REhkOTV5eUY2NWpR?oc=5",
       "source": "CAMPFIRE (キャンプファイヤー)",
@@ -510,7 +532,7 @@
     {
       "title": "【9月1日オープン】ミスタージェントルマン船橋店、船橋駅南口に和洋創作ダイニング居酒屋",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zWGNMWUdpeG4wcnYyRjFHdW9DRzZuX1Z3SjMyWFE3c09PTGFVRmhaR2FnTlRROER0TFJQWW9JVDBuWmRSTk96TnpYVERxTWNMZ2VBTmdxQlhjQjFhNE95SzUzSDA?oc=5",
-      "source": "gummaumaimono.info",
+      "source": "ぐんぐるブログ",
       "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
       "area": "船橋市",
       "genres": [
@@ -854,42 +876,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-08-08T21:38:05.087Z"
-    },
-    {
-      "title": "柏市根戸の市営住宅そばにカフェ「and coffee」が7/31（木）オープン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wclJ2TUdQcnZIVEc0UXpMcnFQcWc0bGNOYUU5eFRHc2Y4M3JvS0FEVnpyeEx2Qjl0NkJBa0IyNUR1Q1FOU1FZeGdmTXQyMHM?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-07T21:48:37.622Z"
-    },
-    {
-      "title": "【松山市】大街道にイタリアンの新店が8月オープン予定？現地ではオープニングスタッフ募集の掲示も。",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPYThENlh0bGlLQm95bEZKTHFEbFNoMTNUWU0ydVJvMzc5OUpkbGN2LW84ekVmQkxxbGtzWmluWGJfNzB3aGhlNkt2UWFEUllLSlpuZG5sdllybnp5U1VBYTFRUmIwQQ?oc=5",
-      "source": "号外NET 松山市",
-      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "イタリアン"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-07T01:01:42.132Z"
-    },
-    {
-      "title": "えんがわカフェオープン日について by 千葉県多古町に地域交流できるチャレンジショップ「えんがわカフェ」を作りたい！",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZVVjWmdELUZ6c3M5akFoTGRPRkYxSFlFOXRHQ1o4ZkFTa05zaEw1UHhheGZjUk52ZXNyZU4tMW5HQ0Y3SjRiX0x2ZEdLQ0tjeVlKMmZGVzUtUmlMaW44WV9TeTJTZjdOTWpJ?oc=5",
-      "source": "CAMPFIRE (キャンプファイヤー)",
-      "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "area": "多古町",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-29T23:12:29.117Z"
     }
   ]
 }
