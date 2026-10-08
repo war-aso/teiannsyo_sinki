@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T00:34:16.693Z",
+  "generatedAt": "2026-10-08T00:54:42.151Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,7 +36,7 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 43
+      "count": 42
     }
   ],
   "itemCount": 71,
@@ -129,6 +129,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
+    },
+    {
+      "title": "【千葉・川間駅】野田市の町中華「中華白龍」でワンタン麺を実食",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HRlUxNXYxdkhvaE5JVkhPRUl4cE0xRUdILVNCRDlydzc1MVpnY3ptNjZ3T2VoblRsVEc4dHNtU0tQbDAweHhrNkpwZ3M5Ni1SNy15OW9LQkR0SzNhb0dqUDJjNTE?oc=5",
+      "source": "ぐんぐるブログ",
+      "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "area": "野田市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-08T00:54:37.517Z"
     },
     {
       "title": "《酒を片手にタクシーでガールズバーへ》消えた大河俳優 芸能界引退→2度の離婚後に“意味深投稿”→アルコール依存症、借金生活を経て“芸人転向”の現在地",
@@ -864,18 +876,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-20T21:35:15.618Z"
-    },
-    {
-      "title": "勝田台 ガールズバー S2 店内動画 Tage Thompson (tIiB2fBF0g)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVGYyM0ltXzNHLVdQOVBKWjZDcmk3N2dMR0dsaEZ6U3YwVkNGdDVQREpJS2dBakNySVlDRDJKZ2hlMlFuTXpVV3hFTHktcEVqNXlmdnk5aVF3Z1E?oc=5",
-      "source": "Mshale",
-      "pubDate": "Sat, 08 Aug 2026 04:42:59 GMT",
-      "area": "八千代市",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-08T21:38:05.087Z"
     }
   ]
 }
