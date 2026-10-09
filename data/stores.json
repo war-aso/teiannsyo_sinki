@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:54:42.151Z",
+  "generatedAt": "2026-10-09T01:09:10.059Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,30 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 42
+      "count": 40
     }
   ],
-  "itemCount": 71,
+  "itemCount": 72,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【10月1日オープン】千葉・柏駅徒歩2分に「あて劇場 ろまん坐」｜三大名物の創作和食居酒屋",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TTGxHMUVZUEhET0NsQVVQUWpFcThuSFNaVmVKU05jUjZnclFmQlF1VUhEbGhvRWpMUWdFTGlPZXZ1ZWtlalRaYXZTRHp0RHd0cWdabWU4YWU2VnIxbExxeEJkaXk?oc=5",
+      "source": "ぐんぐるブログ",
+      "pubDate": "Thu, 08 Oct 2026 11:50:43 GMT",
+      "area": "柏市",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-09T01:09:04.394Z"
+    },
     {
       "title": "【10月3日オープン】船橋・芝山に「麺家大和」誕生｜麺・味・油を選べる新店ラーメンのメニューと駐車場まとめ",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMWNUMEMzRGVaME4zRnlDTWlVcnoyMWo2SE1UM04ybExSYlRmSnE2NTVYSWxQeERCTGVLU2huclFGOEdIdG96TDVFZlN1RTlGekdlcGlIMmNIUjRUWDNQT1dqOVo?oc=5",
@@ -319,7 +331,7 @@
     {
       "title": "柏駅東口前プールドゥビル4階にイタリアンバル「The Attachment（アタッチメント）」が11月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWlM5UXpNVXFhcGFZWm9qZHZ4MXV2c0tST0RyZXNNLTNETm5zZ3dWbmZuSVozNXpISThPdTUyeXFjRmtPYjF4UTNQbkYwMVU?oc=5",
-      "source": "kashiwa-tsushin.com",
+      "source": "柏つうしん",
       "pubDate": "Sat, 05 Sep 2026 03:11:23 GMT",
       "area": "柏市",
       "genres": [
@@ -796,7 +808,7 @@
     {
       "title": "【流山市】おおたかの森に「おおたかのぱりぱり」誕生！柏で人気の素揚げ酒場が流山初進出",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTzQ3bmVoeFgxMUZlLVd0SGdXa2s3a2xIQlRxZmY0NVd0ZG1sZmZnNVdOdjAwYldSaVduSzZCaTIwOEpXVUFiajRfTV94OEdNTXM4Z3Z2aS1MeUNjZjc2Qklab3g?oc=5",
-      "source": "gummaumaimono.info",
+      "source": "ぐんぐるブログ",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "area": "流山市",
       "genres": [],
