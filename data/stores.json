@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:40:59.002Z",
+  "generatedAt": "2026-10-11T00:11:13.995Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 41
+      "count": 42
     }
   ],
-  "itemCount": 72,
+  "itemCount": 74,
   "hotpepper": {},
   "items": [
+    {
+      "title": "磯村勇斗 朝ドラ出演直後「ガールズバー」発言で事務所社長から雷！「反省しました」浜田雅功からも忠告",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaG1nRkI5RjdaRU0wdFBNOVRKdTFKdW9rNUZGTkM5cmNDNjd5OHN5V21DS3pJMktmZGJGSVpTcDFyTjNHVXBBd3pVZldBVFIzZG5seFNfVmN2RmtzZ3FpYkRObmtma0RzQW9zOHNxc3dGZVNVSWpmRUZWSWM3bkxMRl9pbWVQWUFyUmhkbTFfRE83RFJvM0E?oc=5",
+      "source": "スポニチ Sponichi Annex",
+      "pubDate": "Sat, 10 Oct 2026 08:04:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-10-11T00:11:09.705Z"
+    },
     {
       "title": "【10月1日オープン】千葉・柏駅徒歩2分に「あて劇場 ろまん坐」｜三大名物の創作和食居酒屋",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TTGxHMUVZUEhET0NsQVVQUWpFcThuSFNaVmVKU05jUjZnclFmQlF1VUhEbGhvRWpMUWdFTGlPZXZ1ZWtlalRaYXZTRHp0RHd0cWdabWU4YWU2VnIxbExxeEJkaXk?oc=5",
@@ -65,10 +77,22 @@
       "firstSeenAt": "2026-10-07T00:34:11.995Z"
     },
     {
+      "title": "セルフカフェ フィールズ南柏店が10/1オープン｜ドリンク1杯で時間無制限、営業時間・料金・駐車場",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNzRrRERzRmNTbTB0ODV4dVFMVUpqM0hUeFJ4NUN5NXBLQjJPTDYzTGZINHgxVk9Ha3dqVTUyNXlHdDFHdnlUVUplbnhLSng3a3hGLWxHWGV2M0JMeDdFUFRka0RBOVlXalA4WjRDVUFwVjQ?oc=5",
+      "source": "ジモはる",
+      "pubDate": "Fri, 02 Oct 2026 05:49:13 GMT",
+      "area": "柏市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-11T00:11:09.704Z"
+    },
+    {
       "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間 | ウッドデザインパーク株式会社のプレスリリース",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOGVPOGZQY3VfQmt1eFNENGNuNlhoQW9hSG9qQWt0bEFaT1dxZHBkcFFLcU5jZkxTbXBVMXV6M2lpTVBNVkRVMjhibDdqQ3F6dUFRWEpTSU5QRzMzUEpBNlBOMWM0ZUQxT2c?oc=5",
       "source": "PR TIMES",
-      "pubDate": "Wed, 30 Sep 2026 23:00:01 GMT",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "カフェ"
@@ -779,6 +803,19 @@
       "firstSeenAt": "2026-08-20T21:35:15.617Z"
     },
     {
+      "title": "柏6丁目のたこ焼き海賊船跡地に週末限定のカフェバー「weekends.」4/25（金）オープン",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBd3hwd1FLM2FESUdTSUlfQWw1V3VDWE9CV3h6MG9qSTNEQnR2ckQwRGswVGlNRmh5LTdYV2xLTHFfb3BEalNuenRLb24xWUE?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "area": "柏市",
+      "genres": [
+        "カフェ",
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-11T00:11:09.705Z"
+    },
+    {
       "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhlQ1NDeFYzSlJub2FLV19jWjFCbzVMV25seWQxVnMtN01PMzFUNHdUMGRkbFlJeC1QalZvOFkxNnQ1SU9oRzh0WQ?oc=5",
       "source": "ガジェット通信 GetNews",
@@ -874,18 +911,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-14T21:32:13.586Z"
-    },
-    {
-      "title": "【ドッグホテル】２０２３年３月千葉県富津市にオープンしたイタリアングレイハウンド限定リゾートドッグホテルBESTIEの紹介です Cdl (BTI6ys5CXe)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WNjF3WEJ0LWxoLXJCMUw5NmlMR1FjQXZjSGtOSm5KQTdUbDgxemU4dHNBTGRqR3VmaTF5dUFtSlpjY1ktc1lDSUNPekh4MWZoVzRLemVpNXFCaTA?oc=5",
-      "source": "Mshale",
-      "pubDate": "Tue, 11 Aug 2026 00:55:54 GMT",
-      "area": "富津市",
-      "genres": [
-        "イタリアン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-11T21:56:53.409Z"
     }
   ]
 }
