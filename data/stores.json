@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:11:13.995Z",
+  "generatedAt": "2026-10-12T00:25:08.495Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 42
+      "count": 43
     }
   ],
-  "itemCount": 74,
+  "itemCount": 75,
   "hotpepper": {},
   "items": [
     {
@@ -153,6 +153,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-26T23:28:56.527Z"
+    },
+    {
+      "title": "柏駅東口近くに「焼き鳥と寿司の すし鳥商店 柏店」が8/24（月）からオープン",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wWnZnUklTMTFqM2x4VG81ZWNIa2lVQmdRNlBEUWJfMm50TFFtVVd3QXI0TFBJdDhJb2V3NXo3OFpFd1NIcURFWTBqcDJmOUk?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "area": "柏市",
+      "genres": [
+        "寿司"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-12T00:25:04.558Z"
     },
     {
       "title": "【11月下旬オープン】李朝園が関東初上陸！流山おおたかの森に韓国料理店",
