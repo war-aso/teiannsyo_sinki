@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:25:08.495Z",
+  "generatedAt": "2026-10-13T02:31:13.028Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,18 +30,30 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 43
+      "count": 47
     }
   ],
   "itemCount": 75,
   "hotpepper": {},
   "items": [
+    {
+      "title": "ららぽーとTOKYO-BAYの1階フードコートに担々麺専門店「虎子担々 船橋ららぽーと店」が10月中旬オープン予定！担々麺と麻婆豆腐の本格中華",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nMVhJOUNNb3gtUzBUelR1WkhnV3FkQzZpSTVoNldObXdLUjFQNk45emtHT1FRTldka3NJRklZS3M0ZGw4MlNPS3lORkpIZFBHMFE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Mon, 12 Oct 2026 02:28:24 GMT",
+      "area": "船橋市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-13T02:31:08.743Z"
+    },
     {
       "title": "磯村勇斗 朝ドラ出演直後「ガールズバー」発言で事務所社長から雷！「反省しました」浜田雅功からも忠告",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaG1nRkI5RjdaRU0wdFBNOVRKdTFKdW9rNUZGTkM5cmNDNjd5OHN5V21DS3pJMktmZGJGSVpTcDFyTjNHVXBBd3pVZldBVFIzZG5seFNfVmN2RmtzZ3FpYkRObmtma0RzQW9zOHNxc3dGZVNVSWpmRUZWSWM3bkxMRl9pbWVQWUFyUmhkbTFfRE83RFJvM0E?oc=5",
@@ -568,7 +580,7 @@
       "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaUDYxNnNUOFo3cm9fY0k4aWhDVzJia3o2RU15SUNjWlp3YVlOUG51Nmc3T1ExQzJ6M2VNS01XOXp6SjhHLUk4REhkOTV5eUY2NWpR?oc=5",
       "source": "CAMPFIRE (キャンプファイヤー)",
-      "pubDate": "Thu, 27 Aug 2026 20:01:00 GMT",
+      "pubDate": "Fri, 28 Aug 2026 19:51:58 GMT",
       "area": "印西市",
       "genres": [
         "カフェ"
@@ -910,19 +922,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-14T21:32:13.589Z"
-    },
-    {
-      "title": "茨城県初出店！創作寿司と日替わり入荷の地酒を楽しめる人気の寿司居酒屋が水戸駅前に登場！『寿司トおでん にのや 水戸店』2026年8月21日(金)オープン",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VVNDY3RlbDZaWTNKeUs0am5RUEhhdk41VUF3LXdpUUNXZm5mWnR0RGw3TlNia1E5MTRrZWY4RGNacFVjZTZKR215X044WFZhSDluRHRUazJPOHJERGJwYWlCRXJ2Ymh4VWc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "居酒屋",
-        "寿司"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-14T21:32:13.586Z"
     }
   ]
 }
