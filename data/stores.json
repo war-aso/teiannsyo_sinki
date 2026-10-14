@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T00:13:40.142Z",
+  "generatedAt": "2026-10-14T23:50:32.203Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 42
+      "count": 45
     }
   ],
   "itemCount": 74,
   "hotpepper": {},
   "items": [
+    {
+      "title": "国分町のガールズバーで無許可で風俗営業　当時１７歳の従業員に接客させる　経営者などの男２人に実刑判決",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2VjNzdzhMUTVVU29NcHhtY1B0R2EzNUdhRWRFa0tXRkwtMmxMYkRTbkxIa1VicTFEakRNZGtrXzdLUUIwc3NfZ28yYkpfQVQtMmR0TmhETWN5bWhEanFVemxvYmh5OEpfcGg5alVCRdIBdEFVX3lxTFBZdmhFUG5wUVR6anRnVkhfbnpWdHR3T1YxNnVxQUlvdWRPeWhaMDY3aU9nWTg1WlZ0dXM0ME1WU1pjS29OMHJYVWo4dHVMUTduU1dKTG1ucDFXRHBIOWpTaEhZWE9RdUlzVWdRY1R4OTRsSl95?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Tue, 13 Oct 2026 21:00:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-10-14T23:50:28.771Z"
+    },
     {
       "title": "ららぽーとTOKYO-BAYの1階フードコートに担々麺専門店「虎子担々 船橋ららぽーと店」が10月中旬オープン予定！担々麺と麻婆豆腐の本格中華",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nMVhJOUNNb3gtUzBUelR1WkhnV3FkQzZpSTVoNldObXdLUjFQNk45emtHT1FRTldka3NJRklZS3M0ZGw4MlNPS3lORkpIZFBHMFE?oc=5",
@@ -380,7 +392,7 @@
       "title": "柏駅東口前プールドゥビル4階にイタリアンバル「The Attachment（アタッチメント）」が11月オープン予定",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWlM5UXpNVXFhcGFZWm9qZHZ4MXV2c0tST0RyZXNNLTNETm5zZ3dWbmZuSVozNXpISThPdTUyeXFjRmtPYjF4UTNQbkYwMVU?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Sat, 05 Sep 2026 03:11:23 GMT",
+      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "バル",
@@ -898,18 +910,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-18T21:31:04.285Z"
-    },
-    {
-      "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUVFLOGpUcHR2X2xXZVFuUTdfaDdoV0J1TXcwOGFscDB0WjBXT2oxNDUtbmhPeGd2LTQtaXR4N25Tbkpwc2QxT0FLTG1NZkJWd1E?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "韓国料理"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-16T21:27:28.305Z"
     }
   ]
 }
