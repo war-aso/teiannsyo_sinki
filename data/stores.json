@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T02:31:13.028Z",
+  "generatedAt": "2026-10-14T00:13:40.142Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 47
+      "count": 42
     }
   ],
-  "itemCount": 75,
+  "itemCount": 74,
   "hotpepper": {},
   "items": [
     {
@@ -92,7 +92,7 @@
       "title": "セルフカフェ フィールズ南柏店が10/1オープン｜ドリンク1杯で時間無制限、営業時間・料金・駐車場",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNzRrRERzRmNTbTB0ODV4dVFMVUpqM0hUeFJ4NUN5NXBLQjJPTDYzTGZINHgxVk9Ha3dqVTUyNXlHdDFHdnlUVUplbnhLSng3a3hGLWxHWGV2M0JMeDdFUFRka0RBOVlXalA4WjRDVUFwVjQ?oc=5",
       "source": "ジモはる",
-      "pubDate": "Fri, 02 Oct 2026 05:49:13 GMT",
+      "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "カフェ"
@@ -910,18 +910,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-16T21:27:28.305Z"
-    },
-    {
-      "title": "柏の葉、16号沿いに「中華そば 俺屋」が8/1（土）オープン！「らーめん工房 けや木」跡地に「ちゃん系×ラーショ」の中華そば",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taWtpaE1fNUVieVk3NU5zbENqRm50OXptUFRkcG5GRkdFQ0s3S1JnVjJGR0dSLUhXS1BZOTBtUWxrSllraHdnZ0o2cVVPWTA?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-14T21:32:13.589Z"
     }
   ]
 }
