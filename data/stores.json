@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:38:03.763Z",
+  "generatedAt": "2026-10-16T23:26:08.582Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 45
     }
   ],
-  "itemCount": 75,
+  "itemCount": 70,
   "hotpepper": {},
   "items": [
     {
@@ -862,66 +862,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-11T00:11:09.705Z"
-    },
-    {
-      "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aRVhlQ1NDeFYzSlJub2FLV19jWjFCbzVMV25seWQxVnMtN01PMzFUNHdUMGRkbFlJeC1QalZvOFkxNnQ1SU9oRzh0WQ?oc=5",
-      "source": "ガジェット通信 GetNews",
-      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "area": "長柄町",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-01T23:13:37.373Z"
-    },
-    {
-      "title": "【千葉県長柄町】オープン6周年の農園料理カフェ「大地の恵み」、野菜収穫体験とBBQの夏予約を開始",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xVG1oVHZrV21mQVJjc2dpRFRXZkNNM2hFaDRua1JobHIyLVBiTTQxYTBvRXFCclkyUVY0OWRLWXZfM3JjMnVlRkYwU3FSN1p2S0k0?oc=5",
-      "source": "STRAIGHT PRESS",
-      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "area": "長柄町",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-17T21:32:29.762Z"
-    },
-    {
-      "title": "【8/31グランドOPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくすぐるイタリアン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VNnExdEt3N0Y0eGhndmRpbDNZenN3M1lSSHVXNTNSLUhrei1vNTRVS2xXc21VVnBKYXlwNFlnaHIwWVlnV1JFQ2FjNXIzdERuek9FZQ?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "イタリアン",
-        "バー"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-11T23:10:14.913Z"
-    },
-    {
-      "title": "【流山市】おおたかの森に「おおたかのぱりぱり」誕生！柏で人気の素揚げ酒場が流山初進出",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LTzQ3bmVoeFgxMUZlLVd0SGdXa2s3a2xIQlRxZmY0NVd0ZG1sZmZnNVdOdjAwYldSaVduSzZCaTIwOEpXVUFiajRfTV94OEdNTXM4Z3Z2aS1MeUNjZjc2Qklab3g?oc=5",
-      "source": "ぐんぐるブログ",
-      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "area": "流山市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-17T23:29:18.413Z"
-    },
-    {
-      "title": "【8/31グランドOPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくすぐるイタリアン",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45blVBLU82ZHNqcjBsMkUtS1RRNC14TUcxRGp3eXJKNkdWeUFOMnRWN3Y5dzBjTk1FckZkZ0xkOHlQeDFtS3Fhc2ZDcnNhWXFkamMxaFVWODZ5RHMyQzNyNDBLdHlZT1BnY1ZNZlQ5bWxPUXVGTVE?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Mon, 17 Aug 2026 01:21:28 GMT",
-      "area": "",
-      "genres": [
-        "イタリアン",
-        "バー"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-18T21:31:04.285Z"
     }
   ]
 }
