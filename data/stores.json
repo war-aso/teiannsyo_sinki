@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:26:08.582Z",
+  "generatedAt": "2026-10-17T22:59:39.222Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -24,7 +24,7 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -39,9 +39,21 @@
       "count": 45
     }
   ],
-  "itemCount": 70,
+  "itemCount": 71,
   "hotpepper": {},
   "items": [
+    {
+      "title": "南相馬市にオープンした庭のある和カフェ『立花』でほっとひといき",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXNZRG9ybnF1Mzl0cE16bjFtWUZrbVJxem52bUFtaUNMdTFQS2pldWNhWlhyM2xYdmRSdjJUWGtUYm10V0luMFNvREp0b3p1cktTV2NiMEpNaEdHWGJKRjZyOXZHeWo5U2pCZkQ2ckJicXJhZ2tkeFN0b1lldU85UUF5X1lPbFdUZjFqMWR1dGh6ZXc0ZVMwMnduejFJVWJxc0VTWHZKOW5DQnY2a2ZWZEp5MDVnZmpTelJuLUkyRdIBxAFBVV95cUxORUMxdk5seHNqWVgyeDU2d2x2Vk9sVEVKTE9CVzZyQ3R2RmpJVVMxUU4tOXZfempZcjF3ZDVFVGdVcVh1S2toOGU4RHRDWHRiN2lTTm5sNG44WHQxV1g3eXVUSnlHUDQtOFllU2IxUTRiemJ5aVVCb0JRUVpqWXRCNjl5YWcweXpsV1FEVEpSekhfSUlrVWFNMmhhNjZ2UUxQZzR4OFNZNUlXeEozZGJUSG1kUU1lOXMyUm51RUdkTnF5dEpD?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Fri, 16 Oct 2026 06:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-17T22:59:35.877Z"
+    },
     {
       "title": "国分町のガールズバーで無許可で風俗営業　当時１７歳の従業員に接客させる　経営者などの男２人に実刑判決",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2VjNzdzhMUTVVU29NcHhtY1B0R2EzNUdhRWRFa0tXRkwtMmxMYkRTbkxIa1VicTFEakRNZGtrXzdLUUIwc3NfZ28yYkpfQVQtMmR0TmhETWN5bWhEanFVemxvYmh5OEpfcGg5alVCRdIBdEFVX3lxTFBZdmhFUG5wUVR6anRnVkhfbnpWdHR3T1YxNnVxQUlvdWRPeWhaMDY3aU9nWTg1WlZ0dXM0ME1WU1pjS29OMHJYVWo4dHVMUTduU1dKTG1ucDFXRHBIOWpTaEhZWE9RdUlzVWdRY1R4OTRsSl95?oc=5",
