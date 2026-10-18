@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:59:39.222Z",
+  "generatedAt": "2026-10-18T22:58:34.040Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,13 +30,13 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 45
+      "count": 47
     }
   ],
   "itemCount": 71,
@@ -94,7 +94,7 @@
       "title": "磯村勇斗 朝ドラ出演直後「ガールズバー」発言で事務所社長から雷！「反省しました」浜田雅功からも忠告",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaG1nRkI5RjdaRU0wdFBNOVRKdTFKdW9rNUZGTkM5cmNDNjd5OHN5V21DS3pJMktmZGJGSVpTcDFyTjNHVXBBd3pVZldBVFIzZG5seFNfVmN2RmtzZ3FpYkRObmtma0RzQW9zOHNxc3dGZVNVSWpmRUZWSWM3bkxMRl9pbWVQWUFyUmhkbTFfRE83RFJvM0E?oc=5",
       "source": "スポニチ Sponichi Annex",
-      "pubDate": "Sat, 10 Oct 2026 08:04:00 GMT",
+      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -147,6 +147,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-01T00:28:26.889Z"
+    },
+    {
+      "title": "元山駅東口すぐの五香南3丁目に「Cafe くろーりく」がこの冬オープン予定！サイフォンで淹れる自家焙煎コーヒーと厳選紅茶のカフェ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95Z1RGbE1JRFIyXzZGYk56RkJDRkRBdEJscm84MnhXVGZnXzNNeEtMSFUwMmNSa1NLMkZpa09va3Y3R2JGYWJ4V1pCQmJPWlk?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "area": "松戸市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-18T22:58:30.740Z"
     },
     {
       "title": "【千葉県初出店】舞浜・イクスピアリ®に「カスタマイズ麻辣湯」が登場！『極味薬膳スープ 菜菜麻辣湯』10月19日（月）フードコート内にオープン！ | 株式会社クリエイト・レストランツ・ホールディングスのプレスリリース",
@@ -861,19 +873,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-20T21:35:15.617Z"
-    },
-    {
-      "title": "柏6丁目のたこ焼き海賊船跡地に週末限定のカフェバー「weekends.」4/25（金）オープン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBd3hwd1FLM2FESUdTSUlfQWw1V3VDWE9CV3h6MG9qSTNEQnR2ckQwRGswVGlNRmh5LTdYV2xLTHFfb3BEalNuenRLb24xWUE?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "カフェ",
-        "バー"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-11T00:11:09.705Z"
     }
   ]
 }
