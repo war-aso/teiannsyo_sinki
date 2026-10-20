@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-18T22:58:34.040Z",
+  "generatedAt": "2026-10-20T00:12:05.988Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 100
+      "count": 33
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 47
+      "count": 43
     }
   ],
-  "itemCount": 71,
+  "itemCount": 65,
   "hotpepper": {},
   "items": [
     {
@@ -803,76 +803,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-06T01:43:02.759Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80YlhrWWNBbkQ3NFljTEZsUDRVeVF3VnNjMFE0cWdBQmRvaWF0ODY3NEFBbHpLNkpid0s1RlhncFpuc0FxNUY5SGRCb1BSMm9VWDlWSkU3ZG5weWh6Tm1yQ1RWWURrZU9jeFpFaEU1VDJFVVNJUmc?oc=5",
-      "source": "Mantan Web",
-      "pubDate": "Thu, 20 Aug 2026 22:04:53 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-27T00:37:59.522Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ka2h4NVRUZjdBWVFlbDhJRnM1U2wtREU0UmVxMjE3b2ZqdGIxYmlMaGlaUERvWmZjdFBaUUZSM1F2Qkh5WVNKSjVBYklJTVR1SHlWRThEVG5wYlVEVl9naGJBY0JlVDJua1E?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-21T21:31:37.203Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRFJFQXR2VmFoRmlsRGdKM3FPTWlGdUZScTBhOWxEOHhIWVFINk5JQmN2VmJLTGRieUs1aHJ6a0M0UmhjdFgwWTlQWG9GWTg0QjN2N1poQjREdw?oc=5",
-      "source": "Kstyle",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-03T23:11:47.706Z"
-    },
-    {
-      "title": "SEA ANGEL｜富津市新舞子海水浴場に7/18オープンのカフェ、9時〜24時営業",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LTDN2OGR5dkFvMUxvcVlsZVJtYmNFeFhOS29oYVBvVGxZRFBEY1Bxc25rUkV3Nll3cFB2NS1ieEJhRmxuMnJvTlRSTWt3OHFxdENKMjFIcGVyVjd1eVFGaS1Naw?oc=5",
-      "source": "ジモはる",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "富津市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-03T23:11:47.706Z"
-    },
-    {
-      "title": "【本日開店】松戸駅西口に「鮨処 しらかわ食堂」が8/20（木）オープン！「たい焼ききくや」跡地",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zdGFTeXhJQUg2NlBUR2p4Z2xTLUFhNTVTczZXS3dNdkZXQ0xKc2JxdGx4cHM1bktNWHNBbG82anFtdU05YzcydFMxWklBUWc?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-10T00:40:55.019Z"
-    },
-    {
-      "title": "《BONTEMPS》千葉初上陸！韓国発ドーナツカフェ『BONTEMPS 成田店』9/1(火)オープン！",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzd2NYcURTS2RxdTQ5ak92dU9wekcxYkJjTk01S25JYWtlX0FlVEJvWWFpTWlveDZRVlVwRldNXzloNEtLOWJSWENJRWtpd3luek5QcnlCcks5Zkt0c3hYaURFSlVPTFo0TmZjM1haQVZ1cGp6MmlwWmpvRQ?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Thu, 20 Aug 2026 01:51:18 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-20T21:35:15.617Z"
     }
   ]
 }
