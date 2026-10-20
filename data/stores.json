@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T00:12:05.988Z",
+  "generatedAt": "2026-10-20T23:46:11.240Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 33
+      "count": 100
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -30,18 +30,54 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 43
+      "count": 44
     }
   ],
-  "itemCount": 65,
+  "itemCount": 68,
   "hotpepper": {},
   "items": [
+    {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51TjVZcVdvMzBPMThoUER2ZGVJaFF2a3AydzdOVjV5dmJpdmEtWTlxVkk5RlhsaUxkc21sTkNFVzBtMXdhMmNSdG9sal9MNTRzMnhSYWtIS1NTMkg2N2J4Z29nTXhRbTZuaW5ITkhQeGlqUlp0ODhEcXZIZw?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Tue, 20 Oct 2026 07:51:33 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-20T23:46:08.043Z"
+    },
+    {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb19nRUFxc3hpQ1hQaXNXbEpjVzJHOElMeWVISWd5elY3MXdBelBERWpTWTVEazdVclg4c0VxZzFBV1lpTmRsNjBNcHRGSTlpTW9CMko5MEd1WUNfYWlWbmdEWUJLSG90ckwtZ1hETUYzdFVpeUNleG1oODBQUTltN1lQQUk2VWFN?oc=5",
+      "source": "MANTANWEB",
+      "pubDate": "Tue, 20 Oct 2026 07:12:41 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-20T23:46:08.043Z"
+    },
+    {
+      "title": "本八幡の「肉汁餃子のダンダダン」跡地に、ちゃん系の「なぎちゃんラーメン」がオープン予定、店頭に「中華そば」「もり中華」の看板",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeW05bm0yenZ5S0U1b0FCUzczbFF6SGdUdkswVUJpU1lNMV9XTzM4Wkl5bVVaaHJsc1hCUDRwRVM5Ni1Kbzk3RGpfdWZrTVBPUHc?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Sat, 17 Oct 2026 10:32:18 GMT",
+      "area": "市川市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-20T23:46:08.041Z"
+    },
     {
       "title": "南相馬市にオープンした庭のある和カフェ『立花』でほっとひといき",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXNZRG9ybnF1Mzl0cE16bjFtWUZrbVJxem52bUFtaUNMdTFQS2pldWNhWlhyM2xYdmRSdjJUWGtUYm10V0luMFNvREp0b3p1cktTV2NiMEpNaEdHWGJKRjZyOXZHeWo5U2pCZkQ2ckJicXJhZ2tkeFN0b1lldU85UUF5X1lPbFdUZjFqMWR1dGh6ZXc0ZVMwMnduejFJVWJxc0VTWHZKOW5DQnY2a2ZWZEp5MDVnZmpTelJuLUkyRdIBxAFBVV95cUxORUMxdk5seHNqWVgyeDU2d2x2Vk9sVEVKTE9CVzZyQ3R2RmpJVVMxUU4tOXZfempZcjF3ZDVFVGdVcVh1S2toOGU4RHRDWHRiN2lTTm5sNG44WHQxV1g3eXVUSnlHUDQtOFllU2IxUTRiemJ5aVVCb0JRUVpqWXRCNjl5YWcweXpsV1FEVEpSekhfSUlrVWFNMmhhNjZ2UUxQZzR4OFNZNUlXeEozZGJUSG1kUU1lOXMyUm51RUdkTnF5dEpD?oc=5",
