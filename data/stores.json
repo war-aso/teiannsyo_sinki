@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:46:11.240Z",
+  "generatedAt": "2026-10-21T23:58:07.757Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 45
     }
   ],
-  "itemCount": 68,
+  "itemCount": 69,
   "hotpepper": {},
   "items": [
     {
@@ -65,6 +65,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-20T23:46:08.043Z"
+    },
+    {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMXlYeFVFNzA2WlhQSmp6andRUUZYYU81YWlvNEs1cVFlMVRvWXowMnBaOUZJcEllVUIyaXNwMURzZ1pBbUl6dXlLYnhZMkVmZXVUNEZKelpUVlVleFhwdmpCTkl6UDhrWHc?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 20 Oct 2026 02:00:02 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-21T23:58:04.871Z"
     },
     {
       "title": "本八幡の「肉汁餃子のダンダダン」跡地に、ちゃん系の「なぎちゃんラーメン」がオープン予定、店頭に「中華そば」「もり中華」の看板",
@@ -106,7 +118,7 @@
       "title": "開店から1年半で閉店へ 沼津発の寿司チェーン 静岡県東部の店舗が10月末で営業終了",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZSGJNNHdHbjYyeExsczNWQkZnZm9FXzlMeG9mb0s4SVAxUEdSaVR1ZlBLY2puYkh6djZJVHNCU1BPQUdSS0JRSTE5ZEN0alZJTXc?oc=5",
       "source": "静岡ライフ",
-      "pubDate": "Tue, 13 Oct 2026 02:05:44 GMT",
+      "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
       "area": "",
       "genres": [
         "寿司"
@@ -183,6 +195,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-01T00:28:26.889Z"
+    },
+    {
+      "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間｜Infoseekニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lZ0QyemJBUXktZ1Bjb0hkc0t6SVFNckdVSGhrRGlxTWZ3NVdyVlNuSWJ0eXJKNjAzbkZDLUpTbFNaLVJEQWZxQWNtTno4RWJ0bkNxUDI5NlNXVThnaXE2SHVtd0FGbHRubEVtTFIzaHhvdw?oc=5",
+      "source": "Infoseek",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "area": "柏市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-21T23:58:04.871Z"
     },
     {
       "title": "元山駅東口すぐの五香南3丁目に「Cafe くろーりく」がこの冬オープン予定！サイフォンで淹れる自家焙煎コーヒーと厳選紅茶のカフェ",
@@ -827,18 +851,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-08-27T00:37:59.523Z"
-    },
-    {
-      "title": "新松戸1丁目に居酒屋「やきとり にしだ場 新松戸店」が8/10（月）からオープンされていました",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVRDZQeUJQeWs2MUJRMzI0MmtNNVdHN3NUNWVfdV9kVmc2WTBXdXBQNlZzY2pqWnY3Wjdjbmh5VF9WZGlPRG5mZVVpSl85aEk?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Sat, 22 Aug 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-06T01:43:02.759Z"
     }
   ]
 }
