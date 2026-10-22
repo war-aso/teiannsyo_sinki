@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:58:07.757Z",
+  "generatedAt": "2026-10-22T23:56:58.292Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 45
+      "count": 41
     }
   ],
-  "itemCount": 69,
+  "itemCount": 71,
   "hotpepper": {},
   "items": [
     {
@@ -65,6 +65,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-20T23:46:08.043Z"
+    },
+    {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93MHpOcEF4eGtORU5NN2w3RnpTX19xTUs2YWZ5TjhqZkhFOFJ1UXZFb1NWcE12T0tmbG5SS21lU3ZaTzA1LXBQRGFtb000VWU5ZDhQZEpaem8zd2RQTkpjVTBUN1kzWVBOejZrb1p4c0JoMVhfZWc?oc=5",
+      "source": "MANTANWEB",
+      "pubDate": "Tue, 20 Oct 2026 06:29:23 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-22T23:56:54.380Z"
     },
     {
       "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
@@ -154,7 +166,7 @@
       "title": "【10月1日オープン】千葉・柏駅徒歩2分に「あて劇場 ろまん坐」｜三大名物の創作和食居酒屋",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TTGxHMUVZUEhET0NsQVVQUWpFcThuSFNaVmVKU05jUjZnclFmQlF1VUhEbGhvRWpMUWdFTGlPZXZ1ZWtlalRaYXZTRHp0RHd0cWdabWU4YWU2VnIxbExxeEJkaXk?oc=5",
       "source": "ぐんぐるブログ",
-      "pubDate": "Thu, 08 Oct 2026 11:50:43 GMT",
+      "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "居酒屋"
@@ -207,6 +219,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-21T23:58:04.871Z"
+    },
+    {
+      "title": "船橋市海神でコーヒーの香りと共にくつろげる自家焙煎カフェをオープンしたい！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10TmIzRkduSEFvUkV6dmZIdHd0UUlfNkFlS2c2eTB5b19qc1E3NFlnWWdrbXRHWERuWHdTT1ZaMHAyU2FlNjVLa0hySUxuMjF3MXFV?oc=5",
+      "source": "CAMPFIRE (キャンプファイヤー)",
+      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-22T23:56:54.380Z"
     },
     {
       "title": "元山駅東口すぐの五香南3丁目に「Cafe くろーりく」がこの冬オープン予定！サイフォンで淹れる自家焙煎コーヒーと厳選紅茶のカフェ",
@@ -295,7 +319,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
