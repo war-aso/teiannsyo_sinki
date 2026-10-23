@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:56:58.292Z",
+  "generatedAt": "2026-10-23T23:48:39.409Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -36,12 +36,34 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 41
+      "count": 44
     }
   ],
-  "itemCount": 71,
+  "itemCount": 75,
   "hotpepper": {},
   "items": [
+    {
+      "title": "２時間飲み放題３３０円！千葉中央に居酒屋オープン　レモンサワー１杯５５円も",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWkc5TXlGU0VzSTk1SzYzYjlxVnZZR1FkQ1FDV2NpWnQyM1p1Z0N5UWdiMVJ6RkptLTA2VWhoOC1OSUdKejFGV2tzbURTYW5BODM0bWxmUjNwLWs4VWRMTGdxMVFOcEpqbG1nN0tZZUwzR2RXNkhJUVNXOVEwTzhLUkVR0gGHAUFVX3lxTE5jNDNrNmNBSkQ3SnNOei15bVZYVWlEem9tbUJ3alI4VXpJa29STm9xakZTZ1FRTG9kRGdHQjNXNkhoMmRFUzlUakJiM2dHVUpwaE1wcmNjNi1wVlJveWxZNjdBSGZLZWJsQ3M3UmlicFpLYWNHaURaUHF3d0Rfa0VwTTZvUXJ2dw?oc=5",
+      "source": "ｄメニューニュース",
+      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-23T23:48:35.747Z"
+    },
+    {
+      "title": "鶏ヤロー千葉中央店、10月30日（金）オープン。11月5日まで「2時間飲み放題330円（税込）」のオープンフェアを開催",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVU1PdkVtSXg5c3Z1d1d0V1UtaG9wU2ZIU2tIVHlwellYZGVmcmFvSnZpeGVjN2FUZVA4RWVmWV83VDA3TnloOG1mbVU1TURKb3pVMWMwUnlXYTZ0cDlZQnJJZWtPb2R5c0E?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Fri, 23 Oct 2026 04:00:02 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-23T23:48:35.747Z"
+    },
     {
       "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51TjVZcVdvMzBPMThoUER2ZGVJaFF2a3AydzdOVjV5dmJpdmEtWTlxVkk5RlhsaUxkc21sTkNFVzBtMXdhMmNSdG9sal9MNTRzMnhSYWtIS1NTMkg2N2J4Z29nTXhRbTZuaW5ITkhQeGlqUlp0ODhEcXZIZw?oc=5",
@@ -113,6 +135,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-17T22:59:35.877Z"
+    },
+    {
+      "title": "柏駅東口から徒歩2分、SNビル2階に「台湾カフェ 一鼎（イッテイ）」がオープン！台湾マーラータンやスープ春雨、タピオカドリンクも",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUExkVEppU0dKQTZuQWx1YXQwMU9jRkxuXzZKWUFHRFExb0RUQ0wtQ2g4ejJMUmIxSGh6dkgyRDdjQVI2NVhUQ2JlRGJLWDg?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Thu, 15 Oct 2026 03:10:37 GMT",
+      "area": "柏市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-23T23:48:35.752Z"
     },
     {
       "title": "国分町のガールズバーで無許可で風俗営業　当時１７歳の従業員に接客させる　経営者などの男２人に実刑判決",
@@ -635,6 +669,18 @@
       "genres": [],
       "signal": "hiring",
       "firstSeenAt": "2026-09-21T23:59:30.562Z"
+    },
+    {
+      "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUVFLOGpUcHR2X2xXZVFuUTdfaDdoV0J1TXcwOGFscDB0WjBXT2oxNDUtbmhPeGd2LTQtaXR4N25Tbkpwc2QxT0FLTG1NZkJWd1E?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [
+        "韓国料理"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-23T23:48:35.751Z"
     },
     {
       "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
