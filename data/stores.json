@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:04:09.101Z",
+  "generatedAt": "2026-10-25T23:08:52.777Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -18,13 +18,13 @@
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 100
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 46
+      "count": 42
     }
   ],
-  "itemCount": 76,
+  "itemCount": 70,
   "hotpepper": {},
   "items": [
     {
@@ -63,6 +63,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-23T23:48:35.747Z"
+    },
+    {
+      "title": "２時間飲み放題３３０円！千葉中央に居酒屋オープン レモンサワー１杯５５円も",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45NGl0VmlWVG5UdV9uTU9wblVyVXU2YnNZSFdZbnNMWEpyMFMtcXJFRFYyUnRvU0Y0MWtzeFFKR0VIVEJzRWIwdE1GQ1VtUQ?oc=5",
+      "source": "NEWSjp",
+      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-25T23:08:49.538Z"
     },
     {
       "title": "鶏ヤロー千葉中央店、10月30日（金）オープン。11月5日まで「2時間飲み放題330円（税込）」のオープンフェアを開催",
@@ -150,7 +162,7 @@
       "title": "柏駅東口から徒歩2分、SNビル2階に「台湾カフェ 一鼎（イッテイ）」がオープン！台湾マーラータンやスープ春雨、タピオカドリンクも",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DUExkVEppU0dKQTZuQWx1YXQwMU9jRkxuXzZKWUFHRFExb0RUQ0wtQ2g4ejJMUmIxSGh6dkgyRDdjQVI2NVhUQ2JlRGJLWDg?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Thu, 15 Oct 2026 03:10:37 GMT",
+      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "カフェ"
@@ -239,6 +251,18 @@
       "firstSeenAt": "2026-10-07T00:34:11.995Z"
     },
     {
+      "title": "船橋市海神でコーヒーの香りと共にくつろげる自家焙煎カフェをオープンしたい！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10TmIzRkduSEFvUkV6dmZIdHd0UUlfNkFlS2c2eTB5b19qc1E3NFlnWWdrbXRHWERuWHdTT1ZaMHAyU2FlNjVLa0hySUxuMjF3MXFV?oc=5",
+      "source": "CAMPFIRE (キャンプファイヤー)",
+      "pubDate": "Sun, 04 Oct 2026 20:04:04 GMT",
+      "area": "船橋市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-22T23:56:54.380Z"
+    },
+    {
       "title": "セルフカフェ フィールズ南柏店が10/1オープン｜ドリンク1杯で時間無制限、営業時間・料金・駐車場",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNzRrRERzRmNTbTB0ODV4dVFMVUpqM0hUeFJ4NUN5NXBLQjJPTDYzTGZINHgxVk9Ha3dqVTUyNXlHdDFHdnlUVUplbnhLSng3a3hGLWxHWGV2M0JMeDdFUFRka0RBOVlXalA4WjRDVUFwVjQ?oc=5",
       "source": "ジモはる",
@@ -273,18 +297,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-21T23:58:04.871Z"
-    },
-    {
-      "title": "船橋市海神でコーヒーの香りと共にくつろげる自家焙煎カフェをオープンしたい！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10TmIzRkduSEFvUkV6dmZIdHd0UUlfNkFlS2c2eTB5b19qc1E3NFlnWWdrbXRHWERuWHdTT1ZaMHAyU2FlNjVLa0hySUxuMjF3MXFV?oc=5",
-      "source": "CAMPFIRE (キャンプファイヤー)",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-22T23:56:54.380Z"
     },
     {
       "title": "元山駅東口すぐの五香南3丁目に「Cafe くろーりく」がこの冬オープン予定！サイフォンで淹れる自家焙煎コーヒーと厳選紅茶のカフェ",
@@ -433,6 +445,18 @@
       "firstSeenAt": "2026-09-17T23:29:18.416Z"
     },
     {
+      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始｜Infoseekニュース",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhd1JxdHRlX3cxRVBKazM5VGNqWjN0TS00UUU5NGI3elUwZ1EwV19ZN1R6Y2dQZTlIT2E1cHBfWDN1S2dCZ2RvVmhyR0o5cVNGQnA3WVprU3RKUkJfS3pfVDRKSF9LTEIyS0VVeTJtX25KUQ?oc=5",
+      "source": "Infoseek",
+      "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT",
+      "area": "館山市",
+      "genres": [
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-25T23:08:49.543Z"
+    },
+    {
       "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YdkRJaG9YNmVKazU4YzNjS1VTWTdyZ05oSjVaTG9oVk5JNHJ4Q2F4anJ6ZXRyNFRLX2NjQzNFT3Q5dERVVVRCSHN5elBqaXI3UmRoSHN6VTItb0RScVVRbTRQa2NiaHo5d1R5aTdUUkJ0cWc?oc=5",
       "source": "Excite エキサイト",
@@ -551,6 +575,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-08T23:17:52.630Z"
+    },
+    {
+      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzSnE1MmxRZHdCdjNJbENnM3VZbWExVlNFT09aNy1MVnZiYVFESXpES1FKRnU1R05WX293R2VzWFhsQm9KXzY4Wm9sMHgxZFVtU1ZkRk1wdnEtUUN1alJlaVlOS3pHVmNYcFpaY2otbGlfRUFBWm5HbG5R?oc=5",
+      "source": "毎日キレイ",
+      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "area": "館山市",
+      "genres": [
+        "スナック"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-25T23:08:49.543Z"
     },
     {
       "title": "「れんげ食堂Toshu 北小金店」オープン！",
@@ -821,114 +857,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-03T23:11:47.706Z"
-    },
-    {
-      "title": "ぼったくり相談で発覚 無許可でのガールズバー営業容疑で男女4人逮捕 警察は認否を明らかにせず 仙台",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZERMZU5UR2ZwSzNjUFc5aUhyRDNVeTFERjV6cG42VnU3VzdvSmNOQVNEUHRsZFZFbGhmUmxyMnRjRnRWRXItTEw0N2lkUnBiNm05cHVNTF9HMEF4WHpv?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 26 Aug 2026 09:11:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-27T00:37:59.523Z"
-    },
-    {
-      "title": "ぼったくり相談で発覚 無許可でのガールズバー営業容疑で男女4人逮捕 警察は認否を明らかにせず 仙台",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zQkxhRHQ3YUxhMWpWblFMSmVJZ2huLUlIRzI4VTBYM2cxR3NkVU53VklEbFlqNmFmelNYM2NRQnFpMk9zOVZJWHAwbUs4dTZ3bWlSLWZ6Vml6WU1UTkJpNlYzd0ZRUUk?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 26 Aug 2026 09:11:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-28T05:11:35.478Z"
-    },
-    {
-      "title": "ぼったくり相談で発覚 無許可でのガールズバー営業容疑で男女4人逮捕 警察は認否を明らかにせず 仙台",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zcVNzSkRfRFRaMEpfZzU3TXNGaDYwZDhseWJvUWhHdElhazVHZHBqeDdsVndPZTNTMFFScDJjX1QyLU1fN3BCckJfNzFnWkUyRUxiRXRteWd3dw?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 26 Aug 2026 09:11:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-01T23:13:37.374Z"
-    },
-    {
-      "title": "総額1700万円》ガールズバーも…竹中工務店「接待リスト」を入手〈接待側は「概ね事実」と回答〉（文春オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80UUs1cVhrYUVXWkJDNHdLYlk5UGx4N0NTNTFscVQwUzkxdjlLNkNnUDVQN0F1US16Wm00NkRzQVFxWG1EZ2RSMFlZVWtaUmhpbDJpVENoM1c4ZHd5bWFDaTl4TUQ0RDFZeElXQko4SEU3eWw4eEwxVnN3?oc=5",
-      "source": "ｄメニューニュース",
-      "pubDate": "Wed, 26 Aug 2026 07:24:18 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-02T23:13:46.313Z"
-    },
-    {
-      "title": "船橋市本中山4丁目に「どんと 和（なごみ）」がオープン、居酒屋どんと跡地",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ob3M0VWF5N3dYbV9UTDhwczZQVFNwX080cmgya19hVVdRQlpVeFladU5ib3h2SmRjbzI2SDl5YjU5SkNZZ2JMczFwdkxzSE9IU1E?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-27T00:37:59.518Z"
-    },
-    {
-      "title": "ぼったくり被害の相談も 仙台・国分町のガールズバー経営者ら4人逮捕 無許可営業疑いで仙台中央署",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMkZqVXk3MnFZSG85bG1RcmVLMVA1YmM5QmJQQVR4NTgxSmtybC1vbGhDeXJxbk5QUnlHakQ5b1BXS2owOUwyM1dmdTc2SUdWSDZ3V1l3YVRkM0VGVU5ndQ?oc=5",
-      "source": "河北新報オンライン",
-      "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-10T23:03:49.899Z"
-    },
-    {
-      "title": "国分町で無許可の風俗営業か ガールズバーを家宅捜索し４人逮捕 トクリュウとの関わりも視野に捜査 仙台",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRRy1ucmVralVMTE5UalRCYnZ3N2p2RjBoUlhBdUs3ZHhxZnZQdnFZNUJ0eXVLaFNEaTRlVzIxMEVuaW0wNzloMElkV2xtdw?oc=5",
-      "source": "fnn.jp",
-      "pubDate": "Wed, 26 Aug 2026 02:22:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-02T23:13:46.313Z"
-    },
-    {
-      "title": "国分町のガールズバー無許可風俗営業で家宅捜索 風営法違反容疑で店長とみられる女ら計4人逮捕",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zSV8takV1U3hST2NjckdwR2hwTFRRNi13NDdsMy1mQTB3aE14Z2NkdHRtNTdUWFUwd2x3ekMzYUh1RG9vNjJBbXRTTjhadXBWS2trdlFOWVpqdw?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 26 Aug 2026 00:56:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-27T00:37:59.523Z"
-    },
-    {
-      "title": "国分町のガールズバー無許可風俗営業で家宅捜索 風営法違反容疑で店長とみられる女ら計4人逮捕",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOERaejU2YXVIcmV4RlE2U3FRWkVad2c1YmpGVVFpUVhHSzlabkNyTmhIb0M0VkRWOHhRX2d2ZlA5ci1qamNiTGROLURzaFBfX2k1SjFJM284akREVGZN?oc=5",
-      "source": "TBS NEWS DIG",
-      "pubDate": "Wed, 26 Aug 2026 00:56:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-08-30T23:22:11.236Z"
     }
   ]
 }
