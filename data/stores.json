@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:08:52.777Z",
+  "generatedAt": "2026-10-27T00:20:30.139Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,7 +12,7 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 100
+      "count": 34
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
@@ -24,22 +24,22 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 42
+      "count": 12
     }
   ],
-  "itemCount": 70,
+  "itemCount": 67,
   "hotpepper": {},
   "items": [
     {
@@ -385,7 +385,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
@@ -821,42 +821,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-08-29T03:07:57.539Z"
-    },
-    {
-      "title": "千葉・市原のバームクーヘンカフェ「SARAri」 公式オンラインストアを8月21日に開設",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vcy1PbGc2YWtTdDc4WlFrS29vaWRrVkhKQ1g4WGxJLVY4R0tudWg2SHBIU19sRXBZdmd6dXlHaktWWEd0T1l3?oc=5",
-      "source": "Newscast.jp",
-      "pubDate": "Thu, 27 Aug 2026 18:40:19 GMT",
-      "area": "市原市",
-      "genres": [
-        "カフェ",
-        "バー"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-17T23:29:18.416Z"
-    },
-    {
-      "title": "【9月1日オープン】ミスタージェントルマン船橋店、船橋駅南口に和洋創作ダイニング居酒屋",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zWGNMWUdpeG4wcnYyRjFHdW9DRzZuX1Z3SjMyWFE3c09PTGFVRmhaR2FnTlRROER0TFJQWW9JVDBuWmRSTk96TnpYVERxTWNMZ2VBTmdxQlhjQjFhNE95SzUzSDA?oc=5",
-      "source": "ぐんぐるブログ",
-      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋",
-        "ダイニング"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-29T23:12:29.113Z"
-    },
-    {
-      "title": "世界の魚が集結！千葉県木更津市で「ジュエリーアクアリウム」期間限定オープン",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUNWZBbFZDUU1hYjhHSVFrWGR2V0E1VV9XaS1rNWpsa0lRc3Vna1hxdVZLQWw4a29aZF9PbjNfcVp4b04tQTd1WXdUQjdsTjI2MExLVHh30gFbQVVfeXFMUGNpa3BObkVEREk4RlFBX04tZ3JQYlI2aHNCclpWX29oNlpKUTlFd2tuSHgtaWtYYTNMYkJ2d3hXUmlQNDg4aDE3VW1LSS1iN00xUG5DV1FEM244NA?oc=5",
-      "source": "ウォーカープラス",
-      "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "area": "木更津市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-03T23:11:47.706Z"
     }
   ]
 }
