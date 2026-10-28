@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-27T00:20:30.139Z",
+  "generatedAt": "2026-10-28T00:23:59.518Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 100
+      "count": 32
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 34
+      "count": 100
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 100
+      "count": 37
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 5
+      "count": 7
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 12
+      "count": 11
     }
   ],
-  "itemCount": 67,
+  "itemCount": 66,
   "hotpepper": {},
   "items": [
     {
@@ -77,7 +77,7 @@
       "firstSeenAt": "2026-10-25T23:08:49.538Z"
     },
     {
-      "title": "鶏ヤロー千葉中央店、10月30日（金）オープン。11月5日まで「2時間飲み放題330円（税込）」のオープンフェアを開催",
+      "title": "鶏ヤロー千葉中央店、11月2日（月）オープン。11月7日まで「2時間飲み放題330円（税込）」のオープンフェアを開催",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVU1PdkVtSXg5c3Z1d1d0V1UtaG9wU2ZIU2tIVHlwellYZGVmcmFvSnZpeGVjN2FUZVA4RWVmWV83VDA3TnloOG1mbVU1TURKb3pVMWMwUnlXYTZ0cDlZQnJJZWtPb2R5c0E?oc=5",
       "source": "PR TIMES",
       "pubDate": "Fri, 23 Oct 2026 04:00:02 GMT",
@@ -241,16 +241,6 @@
       "firstSeenAt": "2026-10-24T23:04:06.817Z"
     },
     {
-      "title": "【10月3日オープン】船橋・芝山に「麺家大和」誕生｜麺・味・油を選べる新店ラーメンのメニューと駐車場まとめ",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMWNUMEMzRGVaME4zRnlDTWlVcnoyMWo2SE1UM04ybExSYlRmSnE2NTVYSWxQeERCTGVLU2huclFGOEdIdG96TDVFZlN1RTlGekdlcGlIMmNIUjRUWDNQT1dqOVo?oc=5",
-      "source": "ぐんぐるブログ",
-      "pubDate": "Mon, 05 Oct 2026 10:54:44 GMT",
-      "area": "船橋市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-07T00:34:11.995Z"
-    },
-    {
       "title": "船橋市海神でコーヒーの香りと共にくつろげる自家焙煎カフェをオープンしたい！",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10TmIzRkduSEFvUkV6dmZIdHd0UUlfNkFlS2c2eTB5b19qc1E3NFlnWWdrbXRHWERuWHdTT1ZaMHAyU2FlNjVLa0hySUxuMjF3MXFV?oc=5",
       "source": "CAMPFIRE (キャンプファイヤー)",
@@ -261,6 +251,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-22T23:56:54.380Z"
+    },
+    {
+      "title": "【10月3日オープン】船橋・芝山に「麺家大和」誕生｜麺・味・油を選べる新店ラーメンのメニューと駐車場まとめ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMWNUMEMzRGVaME4zRnlDTWlVcnoyMWo2SE1UM04ybExSYlRmSnE2NTVYSWxQeERCTGVLU2huclFGOEdIdG96TDVFZlN1RTlGekdlcGlIMmNIUjRUWDNQT1dqOVo?oc=5",
+      "source": "ぐんぐるブログ",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "area": "船橋市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-07T00:34:11.995Z"
     },
     {
       "title": "セルフカフェ フィールズ南柏店が10/1オープン｜ドリンク1杯で時間無制限、営業時間・料金・駐車場",
@@ -385,7 +385,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "hiring",
+      "signal": "opening",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
@@ -809,18 +809,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-07T00:34:11.995Z"
-    },
-    {
-      "title": "【妙齢の女性達が人生を開く場所】千葉県印西市に古民家占いカフェをオープンします！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaUDYxNnNUOFo3cm9fY0k4aWhDVzJia3o2RU15SUNjWlp3YVlOUG51Nmc3T1ExQzJ6M2VNS01XOXp6SjhHLUk4REhkOTV5eUY2NWpR?oc=5",
-      "source": "CAMPFIRE (キャンプファイヤー)",
-      "pubDate": "Fri, 28 Aug 2026 19:51:58 GMT",
-      "area": "印西市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-29T03:07:57.539Z"
     }
   ]
 }
