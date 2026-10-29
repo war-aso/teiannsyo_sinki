@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-28T00:23:59.518Z",
+  "generatedAt": "2026-10-29T00:44:51.347Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 32
+      "count": 33
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 100
+      "count": 42
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 35
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 11
+      "count": 46
     }
   ],
   "itemCount": 66,
   "hotpepper": {},
   "items": [
+    {
+      "title": "柏駅西口の一番ビル4階に「AKABOSHI しゃぶしゃぶ＆Chinese」がオープン！広東料理35年のシェフが作る創作中華と海鮮しゃぶしゃぶ",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxSVNDTDdfaXpVbXdjcC1HVHIwWENhR2FEZTd2a2xfTV9tS254cHduRVFVM1NKT3Z3RFd6VlVuOTg2WHlMNF9OLUtocjR1aEE?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Wed, 28 Oct 2026 01:07:52 GMT",
+      "area": "柏市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-29T00:44:46.399Z"
+    },
     {
       "title": "【2027年1月末オープン予定】群馬・高崎モントレーに「バンビーナ」が新店！人気のパスタ店が高崎駅近くへ",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKeGdUMEUtbThYT3c2TnpjcFk0Vk1rRjF6UGsxWHUzcENqTWFZWmJWS05JRnpkWDZRcEtYTU1ZSHVJZmRMYTNaeThvbC1KbjM4QTNfME1BTzlzUjJ5NG1aVzdEVGg?oc=5",
@@ -385,7 +397,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
@@ -797,18 +809,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-11T23:10:14.913Z"
-    },
-    {
-      "title": "松戸駅西口近くに「寿司と焼鳥大地 松戸店」10/15（水）オープン予定、豊洲直送の鮮魚と備長炭焼鳥が揃う",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MUml3Zk5HTEdtS09vNkZWOHNlcEpQQU51NFNsazZCZkJCWHRaU08zMlhOdE1OUWZGTDU4TkROVi11d1lhYVJDS2pRNVF2TTQ?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Sat, 29 Aug 2026 07:00:00 GMT",
-      "area": "松戸市",
-      "genres": [
-        "寿司"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-07T00:34:11.995Z"
     }
   ]
 }
