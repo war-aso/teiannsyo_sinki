@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-29T00:44:51.347Z",
+  "generatedAt": "2026-10-30T00:46:18.758Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 42
+      "count": 100
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 100
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,18 +30,42 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 7
+      "count": 11
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 46
+      "count": 13
     }
   ],
-  "itemCount": 66,
+  "itemCount": 67,
   "hotpepper": {},
   "items": [
+    {
+      "title": "不二家の新業態カフェ東海エリア初出店 名古屋にオープン 11月1日からドーナツ半額",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qS2h5aHo1NEZWbFdlTzkwTno5dEVCOW8zclc5WS1MVnBxY2JvS3BnUFVwNXg0U2xzRGpzanpJeU55OTlZZ2FsbUJvamt4WHVkLVE?oc=5",
+      "source": "静岡ライフ",
+      "pubDate": "Thu, 29 Oct 2026 02:20:38 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-30T00:46:12.408Z"
+    },
+    {
+      "title": "野田市山崎、閉園したモンテッソーリ園の園舎に「Cafe & bocca」がオープン！手仕事や本に没頭できるカフェ兼居場所",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3M2hCZVJFUUllcVJKdTVDNGl4bGR4MGczZmZ1aDhkZ05adEJNTmFIcFloLWNYTmpkZElKWTdTYkV3ZFhhWkh4dk1XaExRSlk?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Wed, 28 Oct 2026 03:26:44 GMT",
+      "area": "野田市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-30T00:46:12.408Z"
+    },
     {
       "title": "柏駅西口の一番ビル4階に「AKABOSHI しゃぶしゃぶ＆Chinese」がオープン！広東料理35年のシェフが作る創作中華と海鮮しゃぶしゃぶ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxSVNDTDdfaXpVbXdjcC1HVHIwWENhR2FEZTd2a2xfTV9tS254cHduRVFVM1NKT3Z3RFd6VlVuOTg2WHlMNF9OLUtocjR1aEE?oc=5",
@@ -99,6 +123,18 @@
       "firstSeenAt": "2026-10-23T23:48:35.747Z"
     },
     {
+      "title": "【オープン日決定】松戸駅西口のル・シーナビル2階に「寿司と焼き鳥&PIZZA 大地 松戸店」が11/1（日）オープン、12/30までのオープンフェアでハイボール99円",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NUWtrRE9UOXB4bmt0S1BSWmZ1M0c3TnhqMWNFVVFWaERNMTU2Tll6Y0RaTTZRVlc0SHl6Zm1oU2VoQURMb3FXUXdLaTFyVFU?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "area": "松戸市",
+      "genres": [
+        "寿司"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-30T00:46:12.406Z"
+    },
+    {
       "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51TjVZcVdvMzBPMThoUER2ZGVJaFF2a3AydzdOVjV5dmJpdmEtWTlxVkk5RlhsaUxkc21sTkNFVzBtMXdhMmNSdG9sal9MNTRzMnhSYWtIS1NTMkg2N2J4Z29nTXhRbTZuaW5ITkhQeGlqUlp0ODhEcXZIZw?oc=5",
       "source": "ニコニコニュース",
@@ -121,6 +157,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-20T23:46:08.043Z"
+    },
+    {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】…",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yOTI4ZnlweTREZHVEbEM0NElVeFMwQ1Q2Q0tiUDd0NkZuVHhyM0hld2FoRWtIeXVtS240ZzktVVFXaUZWdnZtemw0RHhCQXYzTWFzQzBB?oc=5",
+      "source": "フーズチャネル",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-30T00:46:12.409Z"
     },
     {
       "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
@@ -150,7 +198,7 @@
       "title": "本八幡の「肉汁餃子のダンダダン」跡地に、ちゃん系の「なぎちゃんラーメン」がオープン予定、店頭に「中華そば」「もり中華」の看板",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeW05bm0yenZ5S0U1b0FCUzczbFF6SGdUdkswVUJpU1lNMV9XTzM4Wkl5bVVaaHJsc1hCUDRwRVM5Ni1Kbzk3RGpfdWZrTVBPUHc?oc=5",
       "source": "船橋つうしん",
-      "pubDate": "Sat, 17 Oct 2026 10:32:18 GMT",
+      "pubDate": "Sat, 17 Oct 2026 07:00:00 GMT",
       "area": "市川市",
       "genres": [
         "中華"
@@ -348,7 +396,7 @@
       "title": "柏市明原に「まいばすけっと」がオープンするようです、柏駅から徒歩7分でオープニングスタッフを募集",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yQWN5aVVzYWpRTmxpYVlCTGg4UUJUdUppRldaWTFTdndwSDhmZ01ibFk4aHRGUDZ3UDR5Z3BubkRNY1FqYnkwMVIyRHlDNUk?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Sun, 27 Sep 2026 02:02:51 GMT",
+      "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [],
       "signal": "hiring",
@@ -397,7 +445,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "hiring",
+      "signal": "opening",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
@@ -773,42 +821,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-01T00:31:50.625Z"
-    },
-    {
-      "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GemxCcWhZUXdYb0xKTGtsNnJlSVhrclo4VHRtTk1jdS1WcGpjd2lPZTlEdlFvSGVkS3NERnJZNGFIQlBzQUd4VURkQUdqOUFwckhLVUhiREVPdGpEcWNBYlNGVURoSEw4UHczcWdPUzRDcjJYdUdIT2dvQ1dQaHc?oc=5",
-      "source": "Yahoo!ニュース",
-      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-08-30T23:22:11.235Z"
-    },
-    {
-      "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸　成田にオープン",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiVkxfbWJzTXZzRFcySmU0dXZJTC1qSnJYMVJPTGtubUFNSlNRUXZhX0VMd25odVJ3azZubWNwcUtfSGU2bUx6QzJXaWozalBSUThPOVlMUXM5VWhaM21FOW5qNE04SEJvMnpNQ3JSb0R2LU5BS1lFd3FuMlQ4Z9IBgwFBVV95cUxNV2Z3aDVYdzJVR3pqM09keFVsS3NTcGFZd3lPNVQ1VkRpRGpoS3p2LTN5ZlRTbElJWFRlZGF0bnBrUndPdEs3STEyTENES1RpSjA4RnQtZmdFT0NqV1JpU2hvUVhKU2VGdjFzZl9OZmR4QUF4Z1pZQ19Kb1ZCV0tfTTFSaw?oc=5",
-      "source": "ｄメニューニュース",
-      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-06T22:51:20.350Z"
-    },
-    {
-      "title": "韓国発ドーナツカフェ「BONTEMPS」千葉初上陸 成田にオープン（ちばとぴ！ニュース）",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1NPNC00Nk1yT1VXZFBZQndlTDYwTFdYaHBhNW5FQzVONmdrc1laQTQ0U1I4clI5MTI4STVRdVN3ME96Um1tOFRhbENmMmxnc3pKbF9sNlJYNE5tVjBuZWxMcEM0U1BnOGRmOUFjUFJzZUZQdGJwLXJxSzBiVU80dFV0MGNaOVZib2FaLXNYZEZkYjIyZlFVUHk4RDBzNHRSLTNjU19aUGEyZEJ4SXhOcXRBdGNoclRXQUJ0SkQ4U3M3MDlyMTA1aDhidFU?oc=5",
-      "source": "Yahoo!ニュース",
-      "pubDate": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-11T23:10:14.913Z"
     }
   ]
 }
