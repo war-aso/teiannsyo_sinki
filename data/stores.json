@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:46:18.758Z",
+  "generatedAt": "2026-10-31T00:37:21.122Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -18,7 +18,7 @@
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 100
+      "count": 33
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,18 +30,30 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 11
+      "count": 7
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 13
+      "count": 40
     }
   ],
-  "itemCount": 67,
+  "itemCount": 66,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【続報】柏の葉、16号沿いの「中華そば 俺屋」跡地に背徳まぜそば「弥栄」が11/1（日）オープン！魚介の旨みと甘辛肉のまぜそば",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zaVNJd1lHbDYwanpSSGowNVVmcjJWeHJBbThoOXowUWl4T0lPZV9CRkhKMkhrb2NZOVZabW01a2ZnRExYWWhiNzRzZmZVU2s?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Fri, 30 Oct 2026 08:16:40 GMT",
+      "area": "柏市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-31T00:37:18.976Z"
+    },
     {
       "title": "不二家の新業態カフェ東海エリア初出店 名古屋にオープン 11月1日からドーナツ半額",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qS2h5aHo1NEZWbFdlTzkwTno5dEVCOW8zclc5WS1MVnBxY2JvS3BnUFVwNXg0U2xzRGpzanpJeU55OTlZZ2FsbUJvamt4WHVkLVE?oc=5",
@@ -797,30 +809,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-23T23:48:35.751Z"
-    },
-    {
-      "title": "船橋市芝山5丁目にラーメン店「麺家大和」が9月下旬にオープン予定、中華料理昇龍の跡地",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxSUhjdEVMLS1GWVlfaUh6NlVPVHphMEszUUNsbjhDdGxqLUJUTGFFNHZCLVZ1SjhQdGZXU3NfWjFONjRHOFY4VXpqUzc5MzFHWmc?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-02T23:13:46.311Z"
-    },
-    {
-      "title": "【オープン日判明】柏駅東口の居酒屋「大衆酒場 ちばチャン 柏東口店」9/4（金）オープン予定",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CcWM2U2paTEt4S2tLMGh0c0lmMGJIc2Riblk0a05WeXJvMVJHWElNTFYwaDZnSkVHSTJtSnlMZ2Y0NzhpYklzbHZnMlRWXzA?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-01T00:31:50.625Z"
     }
   ]
 }
