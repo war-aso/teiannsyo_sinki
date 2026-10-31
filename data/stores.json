@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-31T00:37:21.122Z",
+  "generatedAt": "2026-10-31T23:59:59.915Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 32
+      "count": 100
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 100
+      "count": 36
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 33
+      "count": 100
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 40
+      "count": 41
     }
   ],
-  "itemCount": 66,
+  "itemCount": 63,
   "hotpepper": {},
   "items": [
     {
@@ -184,6 +184,18 @@
     },
     {
       "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMXlYeFVFNzA2WlhQSmp6andRUUZYYU81YWlvNEs1cVFlMVRvWXowMnBaOUZJcEllVUIyaXNwMURzZ1pBbUl6dXlLYnhZMkVmZXVUNEZKelpUVlVleFhwdmpCTkl6UDhrWHc?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-10-21T23:58:04.871Z"
+    },
+    {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93MHpOcEF4eGtORU5NN2w3RnpTX19xTUs2YWZ5TjhqZkhFOFJ1UXZFb1NWcE12T0tmbG5SS21lU3ZaTzA1LXBQRGFtb000VWU5ZDhQZEpaem8zd2RQTkpjVTBUN1kzWVBOejZrb1p4c0JoMVhfZWc?oc=5",
       "source": "MANTANWEB",
       "pubDate": "Tue, 20 Oct 2026 06:29:23 GMT",
@@ -193,18 +205,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-22T23:56:54.380Z"
-    },
-    {
-      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMXlYeFVFNzA2WlhQSmp6andRUUZYYU81YWlvNEs1cVFlMVRvWXowMnBaOUZJcEllVUIyaXNwMURzZ1pBbUl6dXlLYnhZMkVmZXVUNEZKelpUVlVleFhwdmpCTkl6UDhrWHc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Tue, 20 Oct 2026 02:00:02 GMT",
-      "area": "木更津市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-21T23:58:04.871Z"
     },
     {
       "title": "本八幡の「肉汁餃子のダンダダン」跡地に、ちゃん系の「なぎちゃんラーメン」がオープン予定、店頭に「中華そば」「もり中華」の看板",
@@ -359,7 +359,7 @@
       "firstSeenAt": "2026-10-01T00:28:26.889Z"
     },
     {
-      "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間｜Infoseekニュース",
+      "title": "【千葉県柏市出店】無人カフェ「セルフカフェフィールズ南柏店」10/1オープン！ドリンク1杯で時間無制限＆電源・Wi-Fi完備の自習・作業空間",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lZ0QyemJBUXktZ1Bjb0hkc0t6SVFNckdVSGhrRGlxTWZ3NVdyVlNuSWJ0eXJKNjAzbkZDLUpTbFNaLVJEQWZxQWNtTno4RWJ0bkNxUDI5NlNXVThnaXE2SHVtd0FGbHRubEVtTFIzaHhvdw?oc=5",
       "source": "Infoseek",
       "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
@@ -457,7 +457,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "opening",
+      "signal": "hiring",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
@@ -777,38 +777,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-01T00:28:26.885Z"
-    },
-    {
-      "title": "【9月1日オープン】千葉・鎌ヶ谷に生ドーナツ専門店「nöok－Cream D－」誕生",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NSG4yaDk3bGdkTmU4Szk1eWg3cnZzb1lIa1VBT09TT0plUzdxRmVlVUJyS0xySnJuc0RDZDBNd1lWdE9vZWhYbHVLOUlVQ3RjNDNmN2hmNUY1c09nczZrMFVQRTM?oc=5",
-      "source": "gummaumaimono.info",
-      "pubDate": "Tue, 01 Sep 2026 12:57:13 GMT",
-      "area": "鎌ケ谷市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-02T23:13:46.312Z"
-    },
-    {
-      "title": "《大の仲良し兄妹だったのに…》ガルバ共同経営していた妹を遺棄した“イケメンお兄ちゃん”片岡諭志容疑者の犯行とは裏腹の“兄妹愛っぷり”「でも怒ると怖いと言う人もいた」",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PMTkyWS1WNWhmSVRZQkFsdXN2S3RETFJ5UVdyTjRCdjRsT0VoT2E1T0o0dGNCOVdhY2hhRGxDSWhUS0wtR1Q5enUzWnZOZzdCSHBTR2FpZ005TEY3ODI5eVVRbmJvaWFvUkpYQmJ3?oc=5",
-      "source": "au Webポータル",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-21T23:59:30.562Z"
-    },
-    {
-      "title": "船橋市本町4丁目、中通り商店街に「トントン東大門」という韓国料理のお店がオープン",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BUVFLOGpUcHR2X2xXZVFuUTdfaDdoV0J1TXcwOGFscDB0WjBXT2oxNDUtbmhPeGd2LTQtaXR4N25Tbkpwc2QxT0FLTG1NZkJWd1E?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "韓国料理"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-23T23:48:35.751Z"
     }
   ]
 }
