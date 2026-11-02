@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T23:59:59.915Z",
+  "generatedAt": "2026-11-02T00:30:38.850Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 100
+      "count": 32
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 41
+      "count": 15
     }
   ],
-  "itemCount": 63,
+  "itemCount": 58,
   "hotpepper": {},
   "items": [
     {
@@ -197,7 +197,7 @@
     {
       "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93MHpOcEF4eGtORU5NN2w3RnpTX19xTUs2YWZ5TjhqZkhFOFJ1UXZFb1NWcE12T0tmbG5SS21lU3ZaTzA1LXBQRGFtb000VWU5ZDhQZEpaem8zd2RQTkpjVTBUN1kzWVBOejZrb1p4c0JoMVhfZWc?oc=5",
-      "source": "MANTANWEB",
+      "source": "Mantan Web",
       "pubDate": "Tue, 20 Oct 2026 06:29:23 GMT",
       "area": "木更津市",
       "genres": [
@@ -716,67 +716,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-04T22:57:22.211Z"
-    },
-    {
-      "title": "海ほたるに和カフェ「富士波珈琲（FUJINAMI COFFEE）」オープン 厳選あんこ、抹茶使用のスイーツやドリンク",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRTJteWZJWUNwN1NUWkZKQllKa3gtZE9PQmNkNWhkaDlYMEpCc2Y2RFdRRkdVbE1oN21BVFRmUngtV3kzcnJJNlBaRmRyU0dEdHMyMkRDRWJuUmZqUV9MNzkyR3hramQ3UVlTeHZhLXk1WG5qVTRLaw?oc=5",
-      "source": "au Webポータル",
-      "pubDate": "Wed, 02 Sep 2026 11:06:08 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-04T22:57:22.212Z"
-    },
-    {
-      "title": "城西国際大生たちがカフェオープン　9月5日までの期間限定営業　いすみ市で",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRncS10VTYxdmJWekNyYjFRRVRyU25kSkQzSUxCQ1pxRW1kUjBhVktTUWNfV0w0bmVFQnYwYjBGcURYdGJIUW1LNE1PYy1FVG1DS0FUbmRWUGZhdUszdGkzQ0x2V1NCNGE1V21YOTdkNUlNQXRWd1E5Ym8yY2JYdmRVWlZ0dE1YcVVzV0d5SFhLel81TXdRSnM1MmJzdEtHdEwxUXhR0gGrAUFVX3lxTE1kTWVJNEpKdlU4aG83RnJmN05zWXJTSHFiYm5pWDljYUlBTE1oNnBZMGN2RXZwTVV5c3hVRENtVTcwT1hmSjZmZlk5aEVzOW05SmJpbl9qUU91UmltbXNRbkZGSllUMXZFSUxadkVVMFJITVd3czdmWTdMUFBtTEZMY1JXMmxXN2JDRzlOR2lKa09mNDRZR2RvZXUzQi1reTljMHg3azNPOUl3Yw?oc=5",
-      "source": "ｄメニューニュース",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "area": "いすみ市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-04T22:57:22.211Z"
-    },
-    {
-      "title": "海ほたるに和カフェ「富士波珈琲（FUJINAMI COFFEE）」オープン　厳選あんこ、抹茶使用のスイーツやドリンク",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Ny1JSlJrc1lIV1F4OVBueG5OWmk4b2tuWGdNTk1obUpfOFZwMkpxNnRiWV9qLVBrNUJ1OWFXV0FnRjEyUjBzbGhxR0UyWjVPeV9uQ2tGQ01DeXpIbXBPR05TU3k1aWl0Q3lmRVgzX0V5NE4xZFlpdm9IQ1dqZ9IBgwFBVV95cUxNejdJR2FmbThqNGJBSi1mZllYSXdPN1pMV3BLTktCUVBWWkcxZlRjOGU1bTJuYTdCSlBsNzhOck1jb05MRzhQbklid3lwV2QxTXFpR0dIX0RXUTBLdHpSYnlCd2l5ZFl5ZVFvb3poZ2c3NTVLZTU5dEx5Um9NOXhNMklHbw?oc=5",
-      "source": "ｄメニューニュース",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-07T23:25:08.234Z"
-    },
-    {
-      "title": "城西国際大生たちがカフェオープン 9月5日までの期間限定営業 いすみ市で",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kZTJvQ1lYY1NJT1ZVcmRISjNZZ082eXh3UWR1TUJfbXZhR0JQUmhzeFVhT0hwdVNxN2pielBDQjl2VEltNkFrWWl0Ujl5T2hGaEcxbkZpaGFRY25NMkRCWmlkellUam90YWtodTNXUGhWcUZxcnc?oc=5",
-      "source": "産経ニュース",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "area": "いすみ市",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-20T23:08:51.333Z"
-    },
-    {
-      "title": "船橋駅南口徒歩3分に和洋創作ダイニング居酒屋「Mr.Gentleman（ミスター・ジェントルマン）」9/1（火）グランドオープン",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nRFBGY0g0REk2Y0t1eFZuZGR5RHZQa2Y4cVdBX3p0VkNIem9JcF9pcjd6YktPWmN6dFQtd1l4d3RxbXhnRy1pZElNcmdLeGN3YkE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "area": "船橋市",
-      "genres": [
-        "居酒屋",
-        "ダイニング"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-01T00:28:26.885Z"
     }
   ]
 }
