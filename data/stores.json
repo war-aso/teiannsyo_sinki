@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:30:38.850Z",
+  "generatedAt": "2026-11-03T02:51:29.583Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,13 +12,13 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 36
+      "count": 100
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 100
+      "count": 33
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 6
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 15
+      "count": 13
     }
   ],
-  "itemCount": 58,
+  "itemCount": 56,
   "hotpepper": {},
   "items": [
     {
@@ -128,7 +128,7 @@
       "title": "鶏ヤロー千葉中央店、11月2日（月）オープン。11月7日まで「2時間飲み放題330円（税込）」のオープンフェアを開催",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mVU1PdkVtSXg5c3Z1d1d0V1UtaG9wU2ZIU2tIVHlwellYZGVmcmFvSnZpeGVjN2FUZVA4RWVmWV83VDA3TnloOG1mbVU1TURKb3pVMWMwUnlXYTZ0cDlZQnJJZWtPb2R5c0E?oc=5",
       "source": "PR TIMES",
-      "pubDate": "Fri, 23 Oct 2026 04:00:02 GMT",
+      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
       "area": "",
       "genres": [],
       "signal": "opening",
@@ -457,7 +457,7 @@
       "genres": [
         "韓国料理"
       ],
-      "signal": "hiring",
+      "signal": "opening",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
     },
     {
@@ -692,30 +692,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-23T23:34:27.571Z"
-    },
-    {
-      "title": "学生が有機食材使って古民家カフェ！ 地域課題解決のため 千葉・城西国際大",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mVHBrMDlXWWhVUFVEbEhNdlpfSDU4VmlDZmItQkFvQ2JiTjBXVnA2OGpDUUxBTTlsakwxYlh5dVgxTl9ySW5aaDR0aThuNGxiaHRJREpmbDFrOUh2R0w5OGIyR1N4S0hRbWxWWlVrd3Zfdw?oc=5",
-      "source": "Infoseek",
-      "pubDate": "Thu, 03 Sep 2026 00:51:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-03T23:11:47.706Z"
-    },
-    {
-      "title": "学生が有機食材使って古民家カフェ！ 地域課題解決のため 千葉・城西国際大",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpN2hranhmS1F1ZkFqVm9LeTB1YXNWMEg2TEJqUjZzZ2hSMllRcUg4cmI4SWRWeFlkaVdIRDc2UF9ZbFZDTm5IMFFRRVlmdw?oc=5",
-      "source": "NEWSjp",
-      "pubDate": "Thu, 03 Sep 2026 00:51:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-04T22:57:22.211Z"
     }
   ]
 }
