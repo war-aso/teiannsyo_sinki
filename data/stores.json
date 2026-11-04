@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T02:51:29.583Z",
+  "generatedAt": "2026-11-04T01:11:56.724Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 32
+      "count": 33
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -18,7 +18,7 @@
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,18 +30,28 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 8
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 13
+      "count": 44
     }
   ],
-  "itemCount": 56,
+  "itemCount": 57,
   "hotpepper": {},
   "items": [
+    {
+      "title": "GSX1300R HAYABUSAの投稿",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UTThHSnFHZ0Z2RGxVbFY4Rk8xV0hQTE1rU2ZtdkxhWnozTEtmYnFZaFFGZ2wxT0wyNGpkdlFKdERybzE0ZXdlbTB5eXpRVmctekFwZUZqdFVpUQ?oc=5",
+      "source": "GooBike",
+      "pubDate": "Sun, 01 Nov 2026 13:52:40 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-04T01:11:54.340Z"
+    },
     {
       "title": "【続報】柏の葉、16号沿いの「中華そば 俺屋」跡地に背徳まぜそば「弥栄」が11/1（日）オープン！魚介の旨みと甘辛肉のまぜそば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zaVNJd1lHbDYwanpSSGowNVVmcjJWeHJBbThoOXowUWl4T0lPZV9CRkhKMkhrb2NZOVZabW01a2ZnRExYWWhiNzRzZmZVU2s?oc=5",
@@ -53,6 +63,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-31T00:37:18.976Z"
+    },
+    {
+      "title": "「バンドリ！ガールズバンドパーティ！」のカフェが大阪に！史上最多の7バンドが登場",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83YkpUN1pxWmkxNURnMGYzOWFWUVpjakwzeldTaXVORHI1VWU1Rldkbm9DcmN1Y3VfWDlQMFR2dk5xa3VDdHVCQzdqX3NhOHE0SEdrWnRR0gFbQVVfeXFMTXpEY1VPeGZldnpNWUlzbFV3Y3lkVldDN2dCY0d0WUc2eDM3c3hDSDQzTVRKZDlPb3A3WTZnc0N5Uk5zTG45bk5GWEdXbWxjVkJ0TWhYcGFBRkFvTQ?oc=5",
+      "source": "ウォーカープラス",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-04T01:11:54.341Z"
     },
     {
       "title": "不二家の新業態カフェ東海エリア初出店 名古屋にオープン 11月1日からドーナツ半額",
@@ -682,16 +704,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-05T22:46:10.663Z"
-    },
-    {
-      "title": "【オープン日判明】北小金駅南口の庄屋跡地に「れんげ食堂Toshu 北小金店」9/9（水）オープン決定",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DeS02cFVNTzMwMTg5QWEwUVUxNGwxNXUwOXIwTGQ2bE5qZjdEZWZ2V1JyT1did1V4ZklhQmpvVWpKTkFSbTJaRkg1YldJWVE?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-23T23:34:27.571Z"
     }
   ]
 }
