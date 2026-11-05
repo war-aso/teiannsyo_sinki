@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:11:56.724Z",
+  "generatedAt": "2026-11-05T01:24:43.567Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,36 +12,48 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 100
+      "count": 44
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 32
+      "count": 36
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 8
+      "count": 10
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 44
+      "count": 18
     }
   ],
   "itemCount": 57,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【続報】柏駅西口近くの町中華「中華 一番」が11/1（日）に復活オープン！ワンタンメンやチャーハンなどお昼のグランドメニューも",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MdDc0TWFJelBrdVdIdnBXNXR3YzIwMTgzZGN0MkY3NlIwTEExY3dCMm9GSWZvbnMzRE1KLXFFX0FtYzJfc0hjbDBWU2E4dkk?oc=5",
+      "source": "柏つうしん",
+      "pubDate": "Tue, 03 Nov 2026 02:42:29 GMT",
+      "area": "柏市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-05T01:24:41.198Z"
+    },
     {
       "title": "GSX1300R HAYABUSAの投稿",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UTThHSnFHZ0Z2RGxVbFY4Rk8xV0hQTE1rU2ZtdkxhWnozTEtmYnFZaFFGZ2wxT0wyNGpkdlFKdERybzE0ZXdlbTB5eXpRVmctekFwZUZqdFVpUQ?oc=5",
@@ -691,19 +703,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-10T23:03:49.895Z"
-    },
-    {
-      "title": "柏駅東口前プールドゥビル4階にイタリアンバル「The Attachment（アタッチメント）」が11月オープン予定",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZWlM5UXpNVXFhcGFZWm9qZHZ4MXV2c0tST0RyZXNNLTNETm5zZ3dWbmZuSVozNXpISThPdTUyeXFjRmtPYjF4UTNQbkYwMVU?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Sat, 05 Sep 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "バル",
-        "イタリアン"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-05T22:46:10.663Z"
     }
   ]
 }
