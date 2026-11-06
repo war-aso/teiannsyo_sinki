@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-05T01:24:43.567Z",
+  "generatedAt": "2026-11-06T01:27:56.522Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 33
+      "count": 36
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 44
+      "count": 45
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 36
+      "count": 34
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,36 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 18
+      "count": 21
     }
   ],
-  "itemCount": 57,
+  "itemCount": 59,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【11月1日復活】柏駅西口の町中華「中華一番」再オープン｜創業昭和35年・66年の味が帰ってきた",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CTjRMa3REZkVtNTJHNVpmOWtaYVZBRW94eTAtSWhCWlFjSDFPREVrN2NFZ0pWYWlpNlBtUUdDRHpHQVA0b28td1duYzdTMUhLdlo4LUZJSUlGNm00cGlyUTRxOS0?oc=5",
+      "source": "ぐんぐるブログ",
+      "pubDate": "Thu, 05 Nov 2026 12:35:34 GMT",
+      "area": "柏市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-06T01:27:54.166Z"
+    },
+    {
+      "title": "ガールズバーで未成年に客の接待をさせた風営法違反容疑 経営者の29歳の男逮捕 神戸|事件・事故",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRGhwMm9fUHFKWXlLOTM0RTllRi1Zc1ZOZWd0Z0pfMzlMODRmYWZtekkxbG9QenVXLVg2TTdSV2JBZjZFQ0p4MGs2bUxaZVcyRVdxNzRqamFfYmhpUmw3elE3SjFpZUstYlI4?oc=5",
+      "source": "神戸新聞",
+      "pubDate": "Thu, 05 Nov 2026 09:31:39 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-06T01:27:54.168Z"
+    },
     {
       "title": "【続報】柏駅西口近くの町中華「中華 一番」が11/1（日）に復活オープン！ワンタンメンやチャーハンなどお昼のグランドメニューも",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MdDc0TWFJelBrdVdIdnBXNXR3YzIwMTgzZGN0MkY3NlIwTEExY3dCMm9GSWZvbnMzRE1KLXFFX0FtYzJfc0hjbDBWU2E4dkk?oc=5",
