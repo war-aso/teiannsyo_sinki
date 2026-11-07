@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-06T01:27:56.522Z",
+  "generatedAt": "2026-11-07T00:49:00.633Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 36
+      "count": 35
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 45
+      "count": 44
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
@@ -24,13 +24,13 @@
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 10
+      "count": 11
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
@@ -42,6 +42,18 @@
   "itemCount": 59,
   "hotpepper": {},
   "items": [
+    {
+      "title": "ツリーハウスカフェ「椿森コムナ」が宿泊もできる“プライベート空間”へ！ 都心から60分 世界的大工アーティストによる建築が千葉県初上陸",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GMHc4bFFNTnJBanBzcm1Kb0RKQ1JLb0NOdE1BMmhYTlBpa04yR3hmR09ZT0w1cmhOSG9fYW1zS3Y3ZTJySFZneTA3aGRzX2l1RVN6cnJ1Nm1lMHFjN2tlT0FhLXIxZThEZ2c2RHBn?oc=5",
+      "source": "au Webポータル",
+      "pubDate": "Fri, 06 Nov 2026 04:10:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-07T00:48:57.918Z"
+    },
     {
       "title": "【11月1日復活】柏駅西口の町中華「中華一番」再オープン｜創業昭和35年・66年の味が帰ってきた",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CTjRMa3REZkVtNTJHNVpmOWtaYVZBRW94eTAtSWhCWlFjSDFPREVrN2NFZ0pWYWlpNlBtUUdDRHpHQVA0b28td1duYzdTMUhLdlo4LUZJSUlGNm00cGlyUTRxOS0?oc=5",
@@ -717,16 +729,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-25T23:08:49.543Z"
-    },
-    {
-      "title": "「れんげ食堂Toshu 北小金店」オープン！",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83SUVsZnhuX0RON0tLZEVDZi1KeG1heW1IM1otam94Tk43cnlkdFdqSnlWdHF3ZXQtaC0zLVQ5MDhFMTJ5ZlZHY0t1bFhfZVc2QTVzYkYyVm1RaXhGdmZJV0dLZlZycm45MHc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-10T23:03:49.895Z"
     }
   ]
 }
