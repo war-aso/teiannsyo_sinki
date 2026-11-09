@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-08T00:23:01.057Z",
+  "generatedAt": "2026-11-09T00:41:59.459Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 43
+      "count": 42
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 34
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 18
+      "count": 15
     }
   ],
-  "itemCount": 55,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
     {
@@ -609,78 +609,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-13T23:04:21.992Z"
-    },
-    {
-      "title": "従業員への売春強要事件 ガールズバー店長に懲役7年「尊厳を顧みない悪質な犯行」｜Quebee キュエビー",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mX0x5clAtVHptMGR3Zlp1WHNGZ2xZNEJDNTJIR0ZPc25YblktNXU5THlqVzVJRVFvQUhjNVdCZ2I3dUx0ZkdRemtkbUZyTUhXc085Q3A3bXg?oc=5",
-      "source": "QAB 琉球朝日放送",
-      "pubDate": "Wed, 09 Sep 2026 17:34:25 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-21T23:59:30.562Z"
-    },
-    {
-      "title": "従業員への売春強要事件 ガールズバー店長に懲役7年「尊厳を顧みない悪質な犯行」",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcC1vNk8xdDA2LUY0RHRESmtoSnlJa0lOSksxUGlMXzAtTlpDS2hfQ0RxaHRMRjdWYzFaUkZid2ZpQ2VHQzhkc3gwWTFNc3VuR1pkQ3dMTkdCblJGM1hDVS1QN2ZqaWlCODFqV0tiVWswdw?oc=5",
-      "source": "テレ朝NEWS",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-15T23:29:14.363Z"
-    },
-    {
-      "title": "売春強要、男に懲役7年 池袋ガールズバー経営者",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlajIwczlWY0hVdmJzcVZBZGFCN0dESHhxRW1kNC11Tm1ybkNjelBBU2EyU0EyazI1cVdHYjVmMEo2VWd1bFVHR24tUWU0NDBMcmRhVzZ0dm1TdkxHakw5cVBMTEp0SkFKc04yZS1n?oc=5",
-      "source": "au Webポータル",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-21T23:59:30.562Z"
-    },
-    {
-      "title": "池袋ガールズバー売春強要事件 店長に懲役7年の判決",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tTzkzb1VSOU1GM3BPNkNkX1k2dEtKbEl3NWpWZDMxMDdxMm94YlVlLXF4SGFfRHJMd1k1YnVaRTNLTmJSVVBCUmM2R3UwWkFWMzBKeg?oc=5",
-      "source": "ABEMA TIMES",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-22T23:33:42.930Z"
-    },
-    {
-      "title": "売春強要、男に懲役７年 池袋ガールズバー経営者",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxeVdWZ0ExdjNTTHpKNDRyRGI4SExjUTFPSlJxcHBubkFnSWtkOUlTQlVJUm8tVW1SaEhiYlM3VGh2c2ZMY250WFd5RzUxYWtpRko0?oc=5",
-      "source": "東京新聞",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-26T23:28:56.534Z"
-    },
-    {
-      "title": "売春強要、男に懲役7年 池袋ガールズバー経営者",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82U3pJOVdXQllJT1hjXzdQWjd3MDN2U28xQjhieDlQSkJuZ1Z3ZjB6MzJrY2J0eVhQbTJHUk1JX2hNZVBzRHYyeUNUWC1BUFFWeU55ZWNn?oc=5",
-      "source": "西日本新聞me",
-      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-26T23:28:56.534Z"
     }
   ]
 }
