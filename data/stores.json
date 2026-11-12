@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T01:10:22.436Z",
+  "generatedAt": "2026-11-12T02:11:50.743Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,34 +12,34 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 38
+      "count": 43
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 34
+      "count": 37
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 10
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 16
+      "count": 18
     }
   ],
-  "itemCount": 49,
+  "itemCount": 50,
   "hotpepper": {},
   "items": [
     {
@@ -439,6 +439,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-21T23:58:04.871Z"
+    },
+    {
+      "title": "こめおが「割烹こめを」閉店を発表 料理人としても区切り「本当にありがとうございました」",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5NWZjZnRrVk42NnNJQnlSWjJ6N1Z3WW8xUEt6XzRFTExSMk1fc1NjZUFiQVV0YjF6UkpVSTJtWW5HRDl5emNHVjdpQVhDUENVYzV2alprRnVLQTl3?oc=5",
+      "source": "東スポWEB",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "割烹"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-12T02:11:49.109Z"
     },
     {
       "title": "元山駅東口すぐの五香南3丁目に「Cafe くろーりく」がこの冬オープン予定！サイフォンで淹れる自家焙煎コーヒーと厳選紅茶のカフェ",
