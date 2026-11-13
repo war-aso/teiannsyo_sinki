@@ -1,47 +1,71 @@
 {
-  "generatedAt": "2026-11-12T02:11:50.743Z",
+  "generatedAt": "2026-11-13T01:45:03.876Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 43
+      "count": 41
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 39
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 10
+      "count": 9
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 12
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 18
+      "count": 16
     }
   ],
-  "itemCount": 50,
+  "itemCount": 49,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pRFVxcGU3YlZfdFJYa3hRQTZKNHVCMzlBc0ltNmJ6YWhQcDBVSzIySkpnZEFqWkU4TjdHNjViVlNqOUhDcHJDN25uR2lRODk1NnVpbEVlWnlRM3p1RWx4RS1STDBTYjN6cllURC1RUGJjQQ?oc=5",
+      "source": "Infoseek",
+      "pubDate": "Thu, 12 Nov 2026 15:15:38 GMT",
+      "area": "香取市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-13T01:45:02.277Z"
+    },
+    {
+      "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。 (2026年11月12日掲載)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wOUFWUmZ2Z0NyekJ4N0RpM3JuYWFyVFVDTXdmU0llZy1xVXN1aUpuZzBVNVRJRjVGV2hyUjNIVGpuWmY0c1c5TklXMy0yLS1LZXA4UFhfcWszbm5DZ1Zucnp3?oc=5",
+      "source": "ライブドアニュース",
+      "pubDate": "Thu, 12 Nov 2026 02:46:19 GMT",
+      "area": "香取市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-13T01:45:02.278Z"
+    },
     {
       "title": "ツリーハウスカフェ「椿森コムナ」が宿泊もできる“プライベート空間”へ！ 都心から60分 世界的大工アーティストによる建築が千葉県初上陸",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GMHc4bFFNTnJBanBzcm1Kb0RKQ1JLb0NOdE1BMmhYTlBpa04yR3hmR09ZT0w1cmhOSG9fYW1zS3Y3ZTJySFZneTA3aGRzX2l1RVN6cnJ1Nm1lMHFjN2tlT0FhLXIxZThEZ2c2RHBn?oc=5",
@@ -585,42 +609,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-17T23:29:18.412Z"
-    },
-    {
-      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始…",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZVFxajJVWHhYUDJnbjFBRTdZMFEzZGxBR1dObmxIc2lubUNLeWtOSEFzZWxXTFRFeHByTUZEWXAtUUtraXBFZjN1X3hJQjM1WVA1dzFn?oc=5",
-      "source": "フーズチャネル",
-      "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT",
-      "area": "館山市",
-      "genres": [
-        "スナック"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-17T23:29:18.416Z"
-    },
-    {
-      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始｜Infoseekニュース",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhd1JxdHRlX3cxRVBKazM5VGNqWjN0TS00UUU5NGI3elUwZ1EwV19ZN1R6Y2dQZTlIT2E1cHBfWDN1S2dCZ2RvVmhyR0o5cVNGQnA3WVprU3RKUkJfS3pfVDRKSF9LTEIyS0VVeTJtX25KUQ?oc=5",
-      "source": "Infoseek",
-      "pubDate": "Sun, 13 Sep 2026 07:00:00 GMT",
-      "area": "館山市",
-      "genres": [
-        "スナック"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-25T23:08:49.543Z"
-    },
-    {
-      "title": "【スナック業界初】スナックのオンラインスクール「Neo Snack Academy」開講！受講生初の出店として『eight8 縁糸』が千葉県館山市に2027年1月オープンに向けプレオープン開始",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YdkRJaG9YNmVKazU4YzNjS1VTWTdyZ05oSjVaTG9oVk5JNHJ4Q2F4anJ6ZXRyNFRLX2NjQzNFT3Q5dERVVVRCSHN5elBqaXI3UmRoSHN6VTItb0RScVVRbTRQa2NiaHo5d1R5aTdUUkJ0cWc?oc=5",
-      "source": "Excite エキサイト",
-      "pubDate": "Sun, 13 Sep 2026 02:15:00 GMT",
-      "area": "館山市",
-      "genres": [
-        "スナック"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-13T23:04:21.992Z"
     }
   ]
 }
