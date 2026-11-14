@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T01:45:03.876Z",
+  "generatedAt": "2026-11-14T01:23:06.827Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 33
+      "count": 36
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -18,7 +18,7 @@
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 39
+      "count": 38
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -36,12 +36,22 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 16
+      "count": 17
     }
   ],
   "itemCount": 49,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【ペリエ千葉】地下１階飲食ゾーンを拡張し、新規２店舗がオープン多彩な食の選択を楽しみながら、思い思いの時間を過ごせる新",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwekZrSVZ4Vjc4eWpGRS1pdEtIam10NzFjTDRNWHFFcHNkRnFHQ1FtS2hUQmRhQjRzNUJkc3RPQjFGMHB4N0ZUaFVaODFrSGlVY0dhN2xGZm5HZVc0V0JoZXJ1YzhyWndTN3ozWVpnZjNKQnVXM3hSRWV4VQ?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Fri, 13 Nov 2026 05:30:30 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-14T01:23:05.325Z"
+    },
     {
       "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pRFVxcGU3YlZfdFJYa3hRQTZKNHVCMzlBc0ltNmJ6YWhQcDBVSzIySkpnZEFqWkU4TjdHNjViVlNqOUhDcHJDN25uR2lRODk1NnVpbEVlWnlRM3p1RWx4RS1STDBTYjN6cllURC1RUGJjQQ?oc=5",
@@ -94,7 +104,7 @@
       "title": "ガールズバーで未成年に客の接待をさせた風営法違反容疑 経営者の29歳の男逮捕 神戸|事件・事故",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wRGhwMm9fUHFKWXlLOTM0RTllRi1Zc1ZOZWd0Z0pfMzlMODRmYWZtekkxbG9QenVXLVg2TTdSV2JBZjZFQ0p4MGs2bUxaZVcyRVdxNzRqamFfYmhpUmw3elE3SjFpZUstYlI4?oc=5",
       "source": "神戸新聞",
-      "pubDate": "Thu, 05 Nov 2026 09:31:39 GMT",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
       "area": "",
       "genres": [
         "バー"
@@ -599,16 +609,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-09-17T23:29:18.415Z"
-    },
-    {
-      "title": "九州博多の風物詩 “中洲の屋台村”を再現！活気ある雰囲気と名物料理が楽しめる！劇場型酒場『屋台屋 博多劇場 南越谷店 オープン』 | 株式会社一家ホールディングスのプレスリリース",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NZ25tcVFTSzhLaWVTY0ZsWkQ2N3RTTXNneXhXd0hfdGRTQWRBWk01ekRrSnh4RXJPa19ma1NoZHZKbGJzS2hZbGtQTU9jWmJSNU5aeW4zUWlUNTZLS2lHeGIyZExZSG1jY2c?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Mon, 14 Sep 2026 07:10:01 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-17T23:29:18.412Z"
     }
   ]
 }
