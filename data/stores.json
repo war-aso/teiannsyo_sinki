@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T00:56:31.673Z",
+  "generatedAt": "2026-11-16T00:54:37.355Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 37
+      "count": 35
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -18,7 +18,7 @@
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 35
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,13 +30,13 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 14
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 17
+      "count": 15
     }
   ],
   "itemCount": 51,
@@ -65,7 +65,7 @@
       "firstSeenAt": "2026-11-14T01:23:05.325Z"
     },
     {
-      "title": "【ペリエ千葉】地下１階飲食ゾーンを拡張し、新規２店舗がオープン多彩な食の選択を楽しみながら、思い思いの時間を過ごせる新たな食空間へ | 株式会社千葉ステーションビルのプレスリリース",
+      "title": "【ペリエ千葉】地下１階飲食ゾーンを拡張し、新規２店舗がオープン多彩な食の選択を楽しみながら、思い思いの時間を過ごせる新たな食空間へ",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56QzJzMzRkeXZaWlUtNFdwclNTT2NPZGZZRFFmam82RmFZMjRPWHVUWmlkQXN0VGtDZTdReW96aDZZdm9MSVJZX3cwXzhXLTFLclNTX3QxNHhrLWhBQWhOcjlwcXBtcjZEQlE?oc=5",
       "source": "PR TIMES",
       "pubDate": "Fri, 13 Nov 2026 01:09:54 GMT",
