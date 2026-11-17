@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-16T00:54:37.355Z",
+  "generatedAt": "2026-11-17T03:39:48.686Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 35
+      "count": 38
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 40
+      "count": 41
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 35
+      "count": 36
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -36,12 +36,36 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 15
+      "count": 14
     }
   ],
-  "itemCount": 51,
+  "itemCount": 52,
   "hotpepper": {},
   "items": [
+    {
+      "title": "生ビール１０３円が何杯でも！千葉中央に居酒屋「新時代」２４日開店 ４日間限定",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yT0RJb3dzN0JtSXI2QXJlVTE3eGw1RDV3S255UGVGZm5GZFU0dnNVUVd4YVRoVF9PMFBkS3RUU25CS0tuYVFIc2tOcjctQQ?oc=5",
+      "source": "NEWSjp",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-17T03:39:43.001Z"
+    },
+    {
+      "title": "【千葉に新店】全国200店舗展開 行列ができる居酒屋『新時代』が千葉中央駅に2026年11月24日(火)グランドオープン",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qUVZDZkp3Rkh6a25oU211R1lyb0ZLclZ5VzZJWTNmUFhwb2c2UVRGNFlmMnp2QnZERWVtT3JIaW9wc2YyTjdSclRIT3ZiNkQxZ1JjWkdMdENUVlBKc2dMaEdial9JUmRRcHc?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Mon, 16 Nov 2026 02:13:23 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-17T03:39:43.002Z"
+    },
     {
       "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。…",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWFY4ZmZpSC15c183NHpHOEs0QVBkQWNfbzJGQlI1a0xsb0dhWjRuS1Vtdl9CYlJaWC1wZV9qN25CN3phYnhaeUliMWpZY2VWSFBLbWNR?oc=5",
@@ -621,16 +645,6 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-09-24T23:50:15.385Z"
-    },
-    {
-      "title": "PRESS | CLASSY.[クラッシィ]",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mNnFkZExnNXRCTTNRUnNnMVRqbG14bFVWbVA3WXluVjg4R3pJY1lFZG5VSnBkZ3hndGpXSlo1TURKTHhMaUlHWnNvZGdjVEE2MVRheEEwcw?oc=5",
-      "source": "CLASSY.[クラッシィ]",
-      "pubDate": "Thu, 17 Sep 2026 06:01:15 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-17T23:29:18.415Z"
     }
   ]
 }
