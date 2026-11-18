@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-17T03:39:48.686Z",
+  "generatedAt": "2026-11-18T02:49:32.017Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 38
+      "count": 37
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 41
+      "count": 37
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -30,16 +30,16 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 15
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 14
+      "count": 21
     }
   ],
-  "itemCount": 52,
+  "itemCount": 51,
   "hotpepper": {},
   "items": [
     {
@@ -633,18 +633,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-08T00:54:37.517Z"
-    },
-    {
-      "title": "《酒を片手にタクシーでガールズバーへ》消えた大河俳優 芸能界引退→2度の離婚後に“意味深投稿”→アルコール依存症、借金生活を経て“芸人転向”の現在地",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JUjhxNEpNQjhEeFhCRXBSd09iMXlhYWYtc2xUcUszNGE0NlVvX3V0VEQ3Qjk2emhTcVZCWGctU2paLUgyZVBmVkhCNEpoNnZrRDRFYmhwNmMtczJvZGdyRkVsTGlPUWIzLWRVeXp3?oc=5",
-      "source": "article.auone.jp",
-      "pubDate": "Sat, 19 Sep 2026 02:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-24T23:50:15.385Z"
     }
   ]
 }
