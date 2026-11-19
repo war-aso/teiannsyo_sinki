@@ -1,47 +1,113 @@
 {
-  "generatedAt": "2026-11-18T02:49:32.017Z",
+  "generatedAt": "2026-11-19T02:27:32.942Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 37
+      "count": 31
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 37
+      "count": 32
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 37
+      "count": 34
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 9
+      "count": 8
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 15
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 21
+      "count": 19
     }
   ],
-  "itemCount": 51,
+  "itemCount": 64,
   "hotpepper": {},
   "items": [
+    {
+      "title": "ベイシア／千葉に都市型モデル店「Beisia Foods Park 幕張店」オープン、鮮魚・総菜を強化",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VU3FyRWh6REVIX19PM2paRkVmNFJvNzhNVGF4NHU4M1RJeExhdmlPZFYwbk5LNHE1ck5zTGhZakhTd0Mtb3RDT1gxVkxxZ05xbXJBNmNR?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Wed, 18 Nov 2026 04:55:00 GMT",
+      "area": "千葉市美浜区",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.485Z"
+    },
+    {
+      "title": "コロワイド／横浜市中区「カフェ・ベローチェ 伊勢佐木モール店」11月25日オープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yb3dPUmJsdzJQZUcyVHE0dExmU1pWbk9Rd0RZTTY4dVBlbGpFOVIwWnFDV2RrUmtRajRYX04xam9rdWhNVjhlVjUxZk52RGQtREl3dw?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Wed, 18 Nov 2026 04:12:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.485Z"
+    },
+    {
+      "title": "ファイブフォックス／「コムサステージ銀座店」11月21日オープン、カフェも併設",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XR21pcDVXRmtYcHZGbXp4SW5zeWJma1FlVHI3VWZQaFVzZEh1Y0V2M3ZHcUFmYnJBMEJFc3djVk02Tm13QkQ4d0FvaWN2TzUxdGF6cw?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Wed, 18 Nov 2026 01:31:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.485Z"
+    },
+    {
+      "title": "【11月20日(金)オープン】新宿三丁目の新たな寄り道スポット！PLAZAのカフェ『PLAZA CAFE ON 3RD』グランドオープン",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EekRpSG9iZEdSbC14V1JZcmttR2hZa0ZOYWtwbnJPX3ZZZzhyUS0zSk1EelUtdTFLajZQV0lUZkxOVC14SEIzUktldElSejNJY3MyVS1OcWxJdzRMVWtPZG0teDFYX3VDX3h5Vzd1dzBtUGdLenl4Qi03Zw?oc=5",
+      "source": "産経ニュース",
+      "pubDate": "Tue, 17 Nov 2026 09:19:49 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
+    },
+    {
+      "title": "津田沼・奏の杜2丁目に「Koala Tree Cafe & Dining」がオープン、シドニースタイルのブランチとスペシャルティコーヒー、土日はディナーも",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sV0xhQ0QxbE04dTZLVjRIYWZXdzFUaERyMEo4bzhjRFp0aDJlX3hUandWOXJhaHA3ZkNJVGpmZjd3b2hHMktMQnc0QVZCem5ONWc?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Tue, 17 Nov 2026 07:17:53 GMT",
+      "area": "習志野市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
+    },
+    {
+      "title": "【報道関係者の参加募集】廃校の教室がイチゴ栽培場に！12月8日、富津市・旧金谷小学校でオープニングセレモニー開催",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsZ3NwZFFQSTVRdUJNalp3dVFlQzRhd3cwajg2WjdsWjdEMVlMd3dQQnpRSjZDM0pwOG05M2ttRjRRT21xVlV2eVl1TTdWZ1Z2dWVVV0ZlbWFIYVVsbUh3RHFtLTk0eHJhby1CN05XZlFtTE1NOTl6YWF4WQ?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Tue, 17 Nov 2026 05:30:00 GMT",
+      "area": "富津市",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
+    },
     {
       "title": "生ビール１０３円が何杯でも！千葉中央に居酒屋「新時代」２４日開店 ４日間限定",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yT0RJb3dzN0JtSXI2QXJlVTE3eGw1RDV3S255UGVGZm5GZFU0dnNVUVd4YVRoVF9PMFBkS3RUU25CS0tuYVFIc2tOcjctQQ?oc=5",
@@ -53,6 +119,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-11-17T03:39:43.001Z"
+    },
+    {
+      "title": "大垣書店／京都市に滞在型書店の新業態「ブックホーム」12月4日オープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ybm01STJraDJrV1FGZS1SR25aSEZXOFNRUldiVl9iNGRfZ1VNQ1FDTXI5bm55UlVmd09tbU8yeVZjeTM5UDA5TklvdktfYmJ2a2x4Nw?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Mon, 16 Nov 2026 05:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
       "title": "【千葉に新店】全国200店舗展開 行列ができる居酒屋『新時代』が千葉中央駅に2026年11月24日(火)グランドオープン",
@@ -77,6 +153,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-11-15T00:56:29.589Z"
+    },
+    {
+      "title": "イトーヨーカドー／大井町店をリニューアルオープン、食品強化のモデル店舗に",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ad29LcUJjUFpQeTlHdEphNXR6OUtUdkczR3M3LXlEODJhNFF1VEFTdUd1dDNCdm13dG9hWXlZWWNFZGNqM0djdkVubmNnbUJqcW5aT3pB?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Fri, 13 Nov 2026 06:27:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
       "title": "【ペリエ千葉】地下１階飲食ゾーンを拡張し、新規２店舗がオープン多彩な食の選択を楽しみながら、思い思いの時間を過ごせる新",
@@ -123,6 +209,18 @@
       "firstSeenAt": "2026-11-13T01:45:02.278Z"
     },
     {
+      "title": "コロワイド 決算／4～9月、大戸屋・カフェ拡大で増収もコスト増や悪天候で減益に",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zUGdDTXprdnU5d19VSkpRTU1OZGhmbEh3bV9DLTNwb0phUHpIdXNrN2gwb3lrTkw4dGVsMjJJdFhsOTFKRTlLaWpXRHRiZ2lHSnl0RmRhRXM?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "area": "",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
+    },
+    {
       "title": "ツリーハウスカフェ「椿森コムナ」が宿泊もできる“プライベート空間”へ！ 都心から60分 世界的大工アーティストによる建築が千葉県初上陸",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GMHc4bFFNTnJBanBzcm1Kb0RKQ1JLb0NOdE1BMmhYTlBpa04yR3hmR09ZT0w1cmhOSG9fYW1zS3Y3ZTJySFZneTA3aGRzX2l1RVN6cnJ1Nm1lMHFjN2tlT0FhLXIxZThEZ2c2RHBn?oc=5",
       "source": "au Webポータル",
@@ -159,6 +257,16 @@
       "firstSeenAt": "2026-11-06T01:27:54.168Z"
     },
     {
+      "title": "コロワイド／東京都立川市に「珈琲館 五日市街道若葉町店」11月12日オープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5ak01Mnl5UGM3YUFkQ0JLUTdreVNhb0ZjSGhpSGthOEdYaEZmUDJ1SFBneVRRdHBUbXNfUWptanJENTg4Y3JhNDBGZXdGU2lwV3d3aA?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
+    },
+    {
       "title": "【続報】柏駅西口近くの町中華「中華 一番」が11/1（日）に復活オープン！ワンタンメンやチャーハンなどお昼のグランドメニューも",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MdDc0TWFJelBrdVdIdnBXNXR3YzIwMTgzZGN0MkY3NlIwTEExY3dCMm9GSWZvbnMzRE1KLXFFX0FtYzJfc0hjbDBWU2E4dkk?oc=5",
       "source": "柏つうしん",
@@ -169,6 +277,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-11-05T01:24:41.198Z"
+    },
+    {
+      "title": "猿田彦珈琲／「皇居東御苑店」11月3日オープン、限定ブレンドを提供",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zQUE4ZTlIa3dSQlBneDNiZkdxYWpwZFhIZXlBMFEzUExSTldsdEFEajQtLWdPM05VWWx2bDlOS19vZUc1RGN5M2pqdW4xdVZDQUFteg?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
       "title": "GSX1300R HAYABUSAの投稿",
@@ -203,6 +321,16 @@
       ],
       "signal": "hiring",
       "firstSeenAt": "2026-11-04T01:11:54.341Z"
+    },
+    {
+      "title": "マルエツ／東京都大田区「新糀谷店」リニューアルオープン、目標年商37億円",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4WWxBUjZ1Y000UDA1S0pMdXpTMkp5NFRHVVlVNDRtcVo4X3JaNGg5cGtaTnFRTXFCaTZjUmZQdW5COGIyZFhja05TRF9KVzdEU1RwZEpn?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
       "title": "不二家の新業態カフェ東海エリア初出店 名古屋にオープン 11月1日からドーナツ半額",
@@ -557,6 +685,16 @@
       "firstSeenAt": "2026-10-02T00:38:45.568Z"
     },
     {
+      "title": "コロワイド／岐阜県に「大戸屋ごはん処 多治見店」オープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ObXZBWmFCcTRlUGw4VkkxcUd6X09Ub20xVlN2OTBzYnctbVJvbzdCaG50YkpFdlN0TUIyekNOblM3RFUwV2NVMTBiV3dnQXJIQXc5TQ?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
+    },
+    {
       "title": "BONTEMPS成田店が9/1オープン｜韓国発ドーナツ千葉初出店、約20種・当日製造当日完売",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUkJ2SmwtZ2VZNlRwSU1kOG9YRDAyUHRYMkF3eTlKTEZiYkVrcWItZjhJb0J3MXVwckhuMjQ5M1Y3cGEtRVdiQWpQeE93YmZoYnVJeFRGN09KUGdxVG9VWQ?oc=5",
       "source": "jimoharu.net",
@@ -575,6 +713,16 @@
       "genres": [],
       "signal": "hiring",
       "firstSeenAt": "2026-09-27T23:44:33.579Z"
+    },
+    {
+      "title": "セブンタウン小豆沢／新ブランド「コムリエ」に10月9日リニューアルオープン",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTUm9icW43RkplMGxPdjZkbTdNQVhMZWhON2RGU0I2NTJNVjdsdUVGeVRoUnFtV092QVRRQ1RRM3pmaU9GNm1BYUlMc1pKRHMzNHZJTw?oc=5",
+      "source": "流通ニュース",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
       "title": "【オープン日決定】10/13（火）新松戸3丁目に「MAISON IMPECCABLE（メゾンアンペック）」がオープン！ケーキやパフェ、アフタヌーンティーが楽しめるスイーツ店",
@@ -621,18 +769,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-20T23:08:51.331Z"
-    },
-    {
-      "title": "【千葉・川間駅】野田市の町中華「中華白龍」でワンタン麺を実食",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HRlUxNXYxdkhvaE5JVkhPRUl4cE0xRUdILVNCRDlydzc1MVpnY3ptNjZ3T2VoblRsVEc4dHNtU0tQbDAweHhrNkpwZ3M5Ni1SNy15OW9LQkR0SzNhb0dqUDJjNTE?oc=5",
-      "source": "ぐんぐるブログ",
-      "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "area": "野田市",
-      "genres": [
-        "中華"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-08T00:54:37.517Z"
     }
   ]
 }
