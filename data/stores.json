@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-19T02:27:32.942Z",
+  "generatedAt": "2026-11-20T02:12:12.671Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 31
+      "count": 35
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 32
+      "count": 37
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
@@ -36,10 +36,10 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 19
+      "count": 24
     }
   ],
-  "itemCount": 64,
+  "itemCount": 63,
   "hotpepper": {},
   "items": [
     {
@@ -757,18 +757,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-12T00:25:04.558Z"
-    },
-    {
-      "title": "【11月下旬オープン】李朝園が関東初上陸！流山おおたかの森に韓国料理店",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wRXRyQmV2WmNUOTAtQjA2VG9DQXRBV19Mb1hoWnVteTBkWGN3S3VWR3VhN215ZWRfVldMX0dMVWJMSlY4RkFFbGV2ZnlBWFY3RE00U0x0b2MxaTFxeXZQQy1wOE4?oc=5",
-      "source": "ぐんぐるブログ",
-      "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "area": "流山市",
-      "genres": [
-        "韓国料理"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-20T23:08:51.331Z"
     }
   ]
 }
