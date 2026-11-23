@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-22T01:07:29.313Z",
+  "generatedAt": "2026-11-23T01:30:28.125Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 36
+      "count": 38
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 37
+      "count": 100
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
@@ -30,13 +30,13 @@
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 12
+      "count": 13
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 24
+      "count": 22
     }
   ],
   "itemCount": 63,
@@ -270,7 +270,7 @@
       "title": "【続報】柏駅西口近くの町中華「中華 一番」が11/1（日）に復活オープン！ワンタンメンやチャーハンなどお昼のグランドメニューも",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MdDc0TWFJelBrdVdIdnBXNXR3YzIwMTgzZGN0MkY3NlIwTEExY3dCMm9GSWZvbnMzRE1KLXFFX0FtYzJfc0hjbDBWU2E4dkk?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Tue, 03 Nov 2026 02:42:29 GMT",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
       "area": "柏市",
       "genres": [
         "中華"
@@ -302,7 +302,7 @@
       "title": "【続報】柏の葉、16号沿いの「中華そば 俺屋」跡地に背徳まぜそば「弥栄」が11/1（日）オープン！魚介の旨みと甘辛肉のまぜそば",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zaVNJd1lHbDYwanpSSGowNVVmcjJWeHJBbThoOXowUWl4T0lPZV9CRkhKMkhrb2NZOVZabW01a2ZnRExYWWhiNzRzZmZVU2s?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Fri, 30 Oct 2026 08:16:40 GMT",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "中華"
@@ -725,6 +725,18 @@
       "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
+      "title": "【10/5(月)千葉県内3店舗目OPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくす",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WVXUtN3NzdU5LQ0hOX2VVX2JHd2NUTG1sY2FEdTBBZjE3WktCR09HdllDcGVPdUFyVk1lUVpvLWxlVWthNzFTQnBOTHotVlFnWVJ6SQ?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-23T01:30:25.130Z"
+    },
+    {
       "title": "【オープン日決定】10/13（火）新松戸3丁目に「MAISON IMPECCABLE（メゾンアンペック）」がオープン！ケーキやパフェ、アフタヌーンティーが楽しめるスイーツ店",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Cc01TMkVoaTRDNTBTZ3Z6dmt1T0prVkZyMWpTX1hoNUZvNGFZX0F4eWY3QzNfNXNFNGhGdmtWbjVNOFFzR1R0dGh6YjVKYnc?oc=5",
       "source": "松戸つうしん",
@@ -745,18 +757,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-09-26T23:28:56.527Z"
-    },
-    {
-      "title": "柏駅東口近くに「焼き鳥と寿司の すし鳥商店 柏店」が8/24（月）からオープン",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wWnZnUklTMTFqM2x4VG81ZWNIa2lVQmdRNlBEUWJfMm50TFFtVVd3QXI0TFBJdDhJb2V3NXo3OFpFd1NIcURFWTBqcDJmOUk?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [
-        "寿司"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-10-12T00:25:04.558Z"
     }
   ]
 }
