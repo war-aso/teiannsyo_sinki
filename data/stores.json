@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-23T01:30:28.125Z",
+  "generatedAt": "2026-11-24T05:13:30.938Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 38
+      "count": 36
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 100
+      "count": 35
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 33
+      "count": 34
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,34 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 22
+      "count": 53
     }
   ],
-  "itemCount": 63,
+  "itemCount": 60,
   "hotpepper": {},
   "items": [
+    {
+      "title": "なぜキャバクラは深夜営業NG?ガールズバーとの違いは?風営法で定める「接待」の境界線とは?グレーな営業実態と規制緩和の是非を木曽崇氏と新宿区議が議論 - #アベプラ【平日よる9時~生放送】 - 企画 (ニュース) | 無料動画・見逃し配信を見るなら",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJcXFKTHhtZWNNQV9jcmVtNEtBR1hYSnN0ZWM2OHprR001MnMtNHpuX0ZYTHZ3Ul9hWS1oSGVfY2ltOHJmUUZ0bi1qSGdHRFQ1eUJSY1RpdG9qQQ?oc=5",
+      "source": "ABEMA",
+      "pubDate": "Sat, 21 Nov 2026 05:05:28 GMT",
+      "area": "",
+      "genres": [
+        "バー"
+      ],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-24T05:13:29.118Z"
+    },
+    {
+      "title": "GSX1300R HAYABUSAの投稿",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zM2JVVDVQdk5SMEZhajk5X1J3Qk1IVGtBc2VWWUdyZnhPUl9Pem5ERHlEMG5nclNfQWJKdEdzLTU1NHB3ZVdjRVpMM3JNX2g2N0lKTXZwamNpUQ?oc=5",
+      "source": "GooBike",
+      "pubDate": "Sat, 21 Nov 2026 03:09:27 GMT",
+      "area": "",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-24T05:13:29.118Z"
+    },
     {
       "title": "ベイシア／千葉に都市型モデル店「Beisia Foods Park 幕張店」オープン、鮮魚・総菜を強化",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VU3FyRWh6REVIX19PM2paRkVmNFJvNzhNVGF4NHU4M1RJeExhdmlPZFYwbk5LNHE1ck5zTGhZakhTd0Mtb3RDT1gxVkxxZ05xbXJBNmNR?oc=5",
@@ -309,18 +331,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-31T00:37:18.976Z"
-    },
-    {
-      "title": "「バンドリ！ガールズバンドパーティ！」のカフェが大阪に！史上最多の7バンドが登場",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83YkpUN1pxWmkxNURnMGYzOWFWUVpjakwzeldTaXVORHI1VWU1Rldkbm9DcmN1Y3VfWDlQMFR2dk5xa3VDdHVCQzdqX3NhOHE0SEdrWnRR0gFbQVVfeXFMTXpEY1VPeGZldnpNWUlzbFV3Y3lkVldDN2dCY0d0WUc2eDM3c3hDSDQzTVRKZDlPb3A3WTZnc0N5Uk5zTG45bk5GWEdXbWxjVkJ0TWhYcGFBRkFvTQ?oc=5",
-      "source": "ウォーカープラス",
-      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "カフェ"
-      ],
-      "signal": "hiring",
-      "firstSeenAt": "2026-11-04T01:11:54.341Z"
     },
     {
       "title": "マルエツ／東京都大田区「新糀谷店」リニューアルオープン、目標年商37億円",
@@ -713,50 +723,6 @@
       "genres": [],
       "signal": "hiring",
       "firstSeenAt": "2026-09-27T23:44:33.579Z"
-    },
-    {
-      "title": "セブンタウン小豆沢／新ブランド「コムリエ」に10月9日リニューアルオープン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTUm9icW43RkplMGxPdjZkbTdNQVhMZWhON2RGU0I2NTJNVjdsdUVGeVRoUnFtV092QVRRQ1RRM3pmaU9GNm1BYUlMc1pKRHMzNHZJTw?oc=5",
-      "source": "流通ニュース",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-11-19T02:27:30.486Z"
-    },
-    {
-      "title": "【10/5(月)千葉県内3店舗目OPEN!!】大人気のインペリアルドリンクバーに生パスタやフォカッチャなど、五感をくす",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WVXUtN3NzdU5LQ0hOX2VVX2JHd2NUTG1sY2FEdTBBZjE3WktCR09HdllDcGVPdUFyVk1lUVpvLWxlVWthNzFTQnBOTHotVlFnWVJ6SQ?oc=5",
-      "source": "ニコニコニュース",
-      "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [
-        "バー"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-11-23T01:30:25.130Z"
-    },
-    {
-      "title": "【オープン日決定】10/13（火）新松戸3丁目に「MAISON IMPECCABLE（メゾンアンペック）」がオープン！ケーキやパフェ、アフタヌーンティーが楽しめるスイーツ店",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Cc01TMkVoaTRDNTBTZ3Z6dmt1T0prVkZyMWpTX1hoNUZvNGFZX0F4eWY3QzNfNXNFNGhGdmtWbjVNOFFzR1R0dGh6YjVKYnc?oc=5",
-      "source": "松戸つうしん",
-      "pubDate": "Thu, 24 Sep 2026 02:28:41 GMT",
-      "area": "松戸市",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-10-03T00:21:53.992Z"
-    },
-    {
-      "title": "9/17（木）津田沼駅北口から徒歩3分に「串カツ田中 津田沼店」がオープン！揚げたて串カツの居酒屋",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxMzh4MlU2by00dnZHdTBvRldrUHFlcXNXYUdVd1BpdUNDcmNlOHhZdHF6OGk0UHFHd0g0clptWm1Rc2xaUk8zVnBHWVJqWWYxSVE?oc=5",
-      "source": "船橋つうしん",
-      "pubDate": "Thu, 24 Sep 2026 02:28:14 GMT",
-      "area": "習志野市",
-      "genres": [
-        "居酒屋"
-      ],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-26T23:28:56.527Z"
     }
   ]
 }
