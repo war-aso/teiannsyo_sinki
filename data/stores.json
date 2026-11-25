@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-11-24T05:13:30.938Z",
+  "generatedAt": "2026-11-25T04:03:43.899Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 36
+      "count": 100
     },
     {
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 35
+      "count": 31
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 34
+      "count": 100
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 8
+      "count": 7
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -39,7 +39,7 @@
       "count": 53
     }
   ],
-  "itemCount": 60,
+  "itemCount": 63,
   "hotpepper": {},
   "items": [
     {
@@ -131,6 +131,18 @@
       "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
+      "title": "【千葉に新店】全国200店舗展開 行列ができる居酒屋『新時代』が千葉中央駅に2026年11月24日(火)グランドオープン",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qUVZDZkp3Rkh6a25oU211R1lyb0ZLclZ5VzZJWTNmUFhwb2c2UVRGNFlmMnp2QnZERWVtT3JIaW9wc2YyTjdSclRIT3ZiNkQxZ1JjWkdMdENUVlBKc2dMaEdial9JUmRRcHc?oc=5",
+      "source": "PR TIMES",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-17T03:39:43.002Z"
+    },
+    {
       "title": "生ビール１０３円が何杯でも！千葉中央に居酒屋「新時代」２４日開店 ４日間限定",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yT0RJb3dzN0JtSXI2QXJlVTE3eGw1RDV3S255UGVGZm5GZFU0dnNVUVd4YVRoVF9PMFBkS3RUU25CS0tuYVFIc2tOcjctQQ?oc=5",
       "source": "NEWSjp",
@@ -153,16 +165,14 @@
       "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
-      "title": "【千葉に新店】全国200店舗展開 行列ができる居酒屋『新時代』が千葉中央駅に2026年11月24日(火)グランドオープン",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qUVZDZkp3Rkh6a25oU211R1lyb0ZLclZ5VzZJWTNmUFhwb2c2UVRGNFlmMnp2QnZERWVtT3JIaW9wc2YyTjdSclRIT3ZiNkQxZ1JjWkdMdENUVlBKc2dMaEdial9JUmRRcHc?oc=5",
-      "source": "PR TIMES",
-      "pubDate": "Mon, 16 Nov 2026 02:13:23 GMT",
+      "title": "【ペリエ千葉】地下１階飲食ゾーンを拡張し、新規２店舗がオープン多彩な食の選択を楽しみながら、思い思いの時間を過ごせる新",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MbHhjTDZnZEo2alZnRVphazFmbjU0a2d5SW9Ma2RMOURIWG1PNzh0YkpqaFQ3TmhVVVFSMVI2al9VMHZaaHFxWjY2WVRlT1pXdmJoUw?oc=5",
+      "source": "ニコニコニュース",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
       "area": "",
-      "genres": [
-        "居酒屋"
-      ],
+      "genres": [],
       "signal": "opening",
-      "firstSeenAt": "2026-11-17T03:39:43.002Z"
+      "firstSeenAt": "2026-11-25T04:03:36.036Z"
     },
     {
       "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。…",
@@ -217,6 +227,18 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-11-13T01:45:02.277Z"
+    },
+    {
+      "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jVzQ2anpwRzJhYmZHYkx3STRwcUR0ODJjXzI4VWQ5Y3R6bWZEdDBpWHU1c0JKbEtLQTBneVFtbHdmWGtnbHhiVDkyWEtYSWxDQWc?oc=5",
+      "source": "千葉経済新聞",
+      "pubDate": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "area": "香取市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-25T04:03:36.040Z"
     },
     {
       "title": "【お芋ってBETSUBARA】千葉県香取市の佐原でレトロカフェがオープン。自家焙煎のコーヒー豆とおいしいチーズケーキ、お芋のスイーツが食べられます。 (2026年11月12日掲載)",
@@ -343,6 +365,18 @@
       "firstSeenAt": "2026-11-19T02:27:30.486Z"
     },
     {
+      "title": "お米農家が営む “お米” 由来のカフェ『穴太商店』が千葉県木更津市瓜倉に新店舗をオープン！ 千葉県の地酒を集めた試飲コーナーや愛犬と過ごせるカフェテラスも完備【2026年10月29日(木)OPEN】",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9icWpOSGM3T1J2MjNQb05KLUZ5VC1BVUlmUjgycXFkcXlwYnBjVDEta3ZMRDVxVEo2VUV6T1JjSUVjdkpjWkVqTzlPZFM4cWZKVkxMSzZEcldGXzlSTzl0eG1SbzhWUHo0Y2JKTlBR?oc=5",
+      "source": "tv-tokyo.co.jp",
+      "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+      "area": "木更津市",
+      "genres": [
+        "カフェ"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-25T04:03:36.040Z"
+    },
+    {
       "title": "不二家の新業態カフェ東海エリア初出店 名古屋にオープン 11月1日からドーナツ半額",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qS2h5aHo1NEZWbFdlTzkwTno5dEVCOW8zclc5WS1MVnBxY2JvS3BnUFVwNXg0U2xzRGpzanpJeU55OTlZZ2FsbUJvamt4WHVkLVE?oc=5",
       "source": "静岡ライフ",
@@ -358,7 +392,7 @@
       "title": "野田市山崎、閉園したモンテッソーリ園の園舎に「Cafe & bocca」がオープン！手仕事や本に没頭できるカフェ兼居場所",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3M2hCZVJFUUllcVJKdTVDNGl4bGR4MGczZmZ1aDhkZ05adEJNTmFIcFloLWNYTmpkZElKWTdTYkV3ZFhhWkh4dk1XaExRSlk?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Wed, 28 Oct 2026 03:26:44 GMT",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
       "area": "野田市",
       "genres": [
         "カフェ"
