@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:03:43.899Z",
+  "generatedAt": "2026-11-26T03:28:14.273Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,36 +12,48 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 31
+      "count": 34
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 100
+      "count": 36
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 13
+      "count": 5
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 53
+      "count": 18
     }
   ],
-  "itemCount": 63,
+  "itemCount": 65,
   "hotpepper": {},
   "items": [
+    {
+      "title": "【続報】本八幡のダンダダン跡に、ちゃん系「なぎちゃんラーメン 本八幡店」が11/25（水）オープン、中華そばともり中華のお店",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qY09FV0pKZXZuemUtN2t4WEcxYm1PeEg2U0VRUXc1Y3VPeHdnLWgzT3VZeTl3c0hkemNUSElOU0o4VURYRGtFTEc0WHdja1NSRkE?oc=5",
+      "source": "船橋つうしん",
+      "pubDate": "Wed, 25 Nov 2026 02:11:42 GMT",
+      "area": "市川市",
+      "genres": [
+        "中華"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-26T03:28:11.953Z"
+    },
     {
       "title": "なぜキャバクラは深夜営業NG?ガールズバーとの違いは?風営法で定める「接待」の境界線とは?グレーな営業実態と規制緩和の是非を木曽崇氏と新宿区議が議論 - #アベプラ【平日よる9時~生放送】 - 企画 (ニュース) | 無料動画・見逃し配信を見るなら",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJcXFKTHhtZWNNQV9jcmVtNEtBR1hYSnN0ZWM2OHprR001MnMtNHpuX0ZYTHZ3Ul9hWS1oSGVfY2ltOHJmUUZ0bi1qSGdHRFQ1eUJSY1RpdG9qQQ?oc=5",
@@ -63,6 +75,18 @@
       "genres": [],
       "signal": "hiring",
       "firstSeenAt": "2026-11-24T05:13:29.118Z"
+    },
+    {
+      "title": "海鮮居酒屋じんべえ(房総のじんべえ)五井｜メニューは生本マグロ刺身、営業は17時〜翌1時、駐車場は店の前に8台ほど",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mUFZscWNkQjlCeTUyZzhVMGhUMG91NXJCdUhyTklKdmVZcGVfU2JJN2tYWnpGczA2UHNacld0VXo3eXptRnJPcTFR?oc=5",
+      "source": "ジモはる",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "area": "",
+      "genres": [
+        "居酒屋"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-26T03:28:11.952Z"
     },
     {
       "title": "ベイシア／千葉に都市型モデル店「Beisia Foods Park 幕張店」オープン、鮮魚・総菜を強化",
@@ -146,7 +170,7 @@
       "title": "生ビール１０３円が何杯でも！千葉中央に居酒屋「新時代」２４日開店 ４日間限定",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yT0RJb3dzN0JtSXI2QXJlVTE3eGw1RDV3S255UGVGZm5GZFU0dnNVUVd4YVRoVF9PMFBkS3RUU25CS0tuYVFIc2tOcjctQQ?oc=5",
       "source": "NEWSjp",
-      "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
       "area": "",
       "genres": [
         "居酒屋"
