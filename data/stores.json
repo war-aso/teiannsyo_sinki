@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:28:14.273Z",
+  "generatedAt": "2026-11-27T03:34:39.409Z",
   "ttlDays": 60,
   "runLog": [
     {
@@ -12,19 +12,19 @@
       "label": "専門料理系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 34
+      "count": 100
     },
     {
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 36
+      "count": 34
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 6
+      "count": 7
     },
     {
       "label": "専門料理系（オープニング求人）",
@@ -36,12 +36,24 @@
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 18
+      "count": 15
     }
   ],
-  "itemCount": 65,
+  "itemCount": 64,
   "hotpepper": {},
   "items": [
+    {
+      "title": "ペリエ千葉の地下に「くうや」と韓国料理bibim’が12/17オープン｜もんじゃは23時まで",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWZoMW1oNVdfcmk1ZTMxemNmWXNGdV9DZVZWR2FQS2U1bXk3Yl9vRldmbmV2V2JTaGE5QUFCaFdBNExiV1pNY2ZLSzNaQ21NcWlmN0RxZVNZLWp3d1RmcWRvTExYMm12VTJnWEZLWWoyNEZXc054NWpfbmlMeWs0RGMta3BJYlNYdFE?oc=5",
+      "source": "ジモはる",
+      "pubDate": "Thu, 26 Nov 2026 22:36:11 GMT",
+      "area": "",
+      "genres": [
+        "韓国料理"
+      ],
+      "signal": "opening",
+      "firstSeenAt": "2026-11-27T03:34:33.745Z"
+    },
     {
       "title": "【続報】本八幡のダンダダン跡に、ちゃん系「なぎちゃんラーメン 本八幡店」が11/25（水）オープン、中華そばともり中華のお店",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qY09FV0pKZXZuemUtN2t4WEcxYm1PeEg2U0VRUXc1Y3VPeHdnLWgzT3VZeTl3c0hkemNUSElOU0o4VURYRGtFTEc0WHdja1NSRkE?oc=5",
@@ -304,7 +316,7 @@
       "title": "【11月1日復活】柏駅西口の町中華「中華一番」再オープン｜創業昭和35年・66年の味が帰ってきた",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CTjRMa3REZkVtNTJHNVpmOWtaYVZBRW94eTAtSWhCWlFjSDFPREVrN2NFZ0pWYWlpNlBtUUdDRHpHQVA0b28td1duYzdTMUhLdlo4LUZJSUlGNm00cGlyUTRxOS0?oc=5",
       "source": "ぐんぐるブログ",
-      "pubDate": "Thu, 05 Nov 2026 12:35:34 GMT",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
       "area": "柏市",
       "genres": [
         "中華"
@@ -428,7 +440,7 @@
       "title": "柏駅西口の一番ビル4階に「AKABOSHI しゃぶしゃぶ＆Chinese」がオープン！広東料理35年のシェフが作る創作中華と海鮮しゃぶしゃぶ",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxSVNDTDdfaXpVbXdjcC1HVHIwWENhR2FEZTd2a2xfTV9tS254cHduRVFVM1NKT3Z3RFd6VlVuOTg2WHlMNF9OLUtocjR1aEE?oc=5",
       "source": "柏つうしん",
-      "pubDate": "Wed, 28 Oct 2026 01:07:52 GMT",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
       "area": "柏市",
       "genres": [
         "中華"
@@ -761,26 +773,6 @@
       "genres": [],
       "signal": "opening",
       "firstSeenAt": "2026-11-19T02:27:30.486Z"
-    },
-    {
-      "title": "BONTEMPS成田店が9/1オープン｜韓国発ドーナツ千葉初出店、約20種・当日製造当日完売",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUUkJ2SmwtZ2VZNlRwSU1kOG9YRDAyUHRYMkF3eTlKTEZiYkVrcWItZjhJb0J3MXVwckhuMjQ5M1Y3cGEtRVdiQWpQeE93YmZoYnVJeFRGN09KUGdxVG9VWQ?oc=5",
-      "source": "jimoharu.net",
-      "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
-      "area": "成田市",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-09-30T00:17:23.907Z"
-    },
-    {
-      "title": "柏市明原に「まいばすけっと」がオープンするようです、柏駅から徒歩7分でオープニングスタッフを募集",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yQWN5aVVzYWpRTmxpYVlCTGg4UUJUdUppRldaWTFTdndwSDhmZ01ibFk4aHRGUDZ3UDR5Z3BubkRNY1FqYnkwMVIyRHlDNUk?oc=5",
-      "source": "柏つうしん",
-      "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
-      "area": "柏市",
-      "genres": [],
-      "signal": "hiring",
-      "firstSeenAt": "2026-09-27T23:44:33.579Z"
     }
   ]
 }
