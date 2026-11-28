@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T03:34:39.409Z",
+  "generatedAt": "2026-11-28T03:11:46.635Z",
   "ttlDays": 60,
   "runLog": [
     {
       "label": "居酒屋・ダイニング系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 100
+      "count": 33
     },
     {
       "label": "専門料理系（開店ニュース）",
@@ -18,25 +18,25 @@
       "label": "カフェ・バー系（開店ニュース）",
       "query": "千葉県 (オープン OR 新規開店 OR グランドオープン OR プレオープン) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 34
+      "count": 36
     },
     {
       "label": "居酒屋・ダイニング系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (居酒屋 OR ダイニング OR バル OR レストラン OR ビストロ)",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "label": "専門料理系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (焼肉 OR 寿司 OR 割烹 OR 懐石 OR 会席 OR 中華 OR 韓国料理 OR イタリアン OR フレンチ)",
       "ok": true,
-      "count": 5
+      "count": 10
     },
     {
       "label": "カフェ・バー系（オープニング求人）",
       "query": "千葉県 (オープニングスタッフ OR オープニング募集 OR オープニングスタッフ募集) (カフェ OR バー OR スナック OR 創作料理)",
       "ok": true,
-      "count": 15
+      "count": 13
     }
   ],
   "itemCount": 64,
@@ -53,6 +53,16 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-11-27T03:34:33.745Z"
+    },
+    {
+      "title": "【続報】小山ガーデン跡地の「オーケー 松戸二ツ木店（仮称）」は2027年4月オープン予定、オープニングスタッフの募集が始まる",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55QlFJRko2MDNTUGM1WDRPR0NLakJVMkE4SmVUMkQzM3VDekhmbzVzV3paSEFKTlB1b09xdmNCZ05GTGY5bnpOb215WGFaUEU?oc=5",
+      "source": "松戸つうしん",
+      "pubDate": "Wed, 25 Nov 2026 06:41:22 GMT",
+      "area": "松戸市",
+      "genres": [],
+      "signal": "hiring",
+      "firstSeenAt": "2026-11-28T03:11:43.834Z"
     },
     {
       "title": "【続報】本八幡のダンダダン跡に、ちゃん系「なぎちゃんラーメン 本八幡店」が11/25（水）オープン、中華そばともり中華のお店",
@@ -763,16 +773,6 @@
       ],
       "signal": "opening",
       "firstSeenAt": "2026-10-02T00:38:45.568Z"
-    },
-    {
-      "title": "コロワイド／岐阜県に「大戸屋ごはん処 多治見店」オープン",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ObXZBWmFCcTRlUGw4VkkxcUd6X09Ub20xVlN2OTBzYnctbVJvbzdCaG50YkpFdlN0TUIyekNOblM3RFUwV2NVMTBiV3dnQXJIQXc5TQ?oc=5",
-      "source": "流通ニュース",
-      "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "area": "",
-      "genres": [],
-      "signal": "opening",
-      "firstSeenAt": "2026-11-19T02:27:30.486Z"
     }
   ]
 }
